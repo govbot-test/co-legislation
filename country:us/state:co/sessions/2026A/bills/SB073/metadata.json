@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 073",
+  "title": "Order of Additional Parenting Time",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children & Domestic Matters"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill allows a court to order additional parenting time to a parent or legal custodian who was wrongfully denied court-ordered parenting time if the denial resulted from an investigation by a law enforcement agency, child welfare agency, or county department of human or social services and the investigation did not result in a substantial finding of abuse or neglect.The additional parenting time ordered by a court must be of the same type and duration as the parenting time that was wrongfully denied; may include weekend, holiday, or vacation periods; and must be exercised by the parent or legal custodian no later than 2 years after the date the court finds that parenting time was wrongfully denied.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb73"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Judiciary",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Bright",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" S. Bright\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111037/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-28",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-073",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

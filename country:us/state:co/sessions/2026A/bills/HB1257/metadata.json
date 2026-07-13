@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1257",
+  "title": "Local Regulation of Massage Facilities",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Local Government",
+    "Professions & Occupations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law authorizes a local government to license and regulate the operation of massage facilities within the local government's jurisdiction and to prevent the operation of illicit massage businesses, which are businesses that engage in massage but also engage in human-trafficking-related offenses. For the purpose of local enforcement, the bill expands the definition of \"illicit massage business\" to include a massage business that engages in crimes other than human-trafficking-related offenses.Current law states that if a local government adopts a resolution or ordinance to establish business licensure requirements or to prohibit unlawful activities relating to illicit massage businesses, the resolution or ordinance must not be more restrictive than the requirements set forth in state law. The bill removes this limitation. The bill also allows a local government to impose local licensing requirements in addition to those requirements prescribed in state law.Current law allows a local government to impose an administrative fee not to exceed $150 for issuing or renewing a license. The bill removes the $150 cap on such fees. Current law exempts businesses that held licenses before August 10, 2022, from the administrative fees. The bill removes this exemption.Current law allows a local government to deny, revoke, or suspend a license under certain circumstances. The bill allows a local government to establish additional grounds to deny, revoke, or suspend a license.Current law prohibits a person from owning a massage facility if the person:Has not submitted to a required background check at least 30 days before assuming an ownership interest in the massage facility; orHas been convicted of or entered a plea of nolo contendere that is accepted by the court for any of certain enumerated offenses.The bill provides that, if a local government establishes business licensure requirements for massage facilities, the resolution or ordinance adopted by the local government must prohibit ownership of massage facilities by the types of persons that are prohibited from ownership in current law.Current law states that preventing the operation of illicit massage businesses is a matter of statewide concern, and licensing and regulation of massage facilities is a matter of mixed statewide and local concern. The bill states that preventing the operation of illicit massage businesses is a matter of mixed statewide and local concern.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1257"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Housing & Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "R. Gonzalez",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Gonzalez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Rutinel",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Rutinel\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112186/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1257",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1054",
+  "title": "Protections for Worker Safety",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Labor & Employment"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Section 1 of the bill requires an employer to ensure the employer's workplace is free from recognized hazards, as interpreted consistent with the federal occupational safety and health administration's interpretation of the general duty clause of the \"Occupational Safety and Health Act of 1970\" (OSH Act) as of September 1, 2025. Additionally, employers have the general duty to:Ensure that each workplace is constructed, equipped, arranged, operated, and conducted as to provide reasonable and adequate protection to the lives, health, and safety of all individuals employed or working in the workplace; andComply with standards for workplace health and safety adopted by rule by the division of labor standards and statistics in the department of labor and employment (division).The bill authorizes the following actions to address workplace health and safety concerns:The attorney general or the division may refer workplace health and safety concerns to relevant state or local authorities;The attorney general, the division, a labor organization, or a person aggrieved by a violation of the bill may file a civil action;For each violation of the bill or of rules adopted pursuant to the bill, a court may order the person that violates the bill or rules to pay statutory damages to a person aggrieved by the violation; andA court may order a person that violates the bill or rules adopted pursuant to the bill to pay a penalty to the attorney general for each violation.The bill creates the workplace health and safety fund (fund) into which penalties collected pursuant to the bill are credited. The money in the fund may be used by the division for specified purposes.The bill authorizes the division to adopt rules:To replace any requirement of the OSH Act or the \"Federal Mine Safety and Health Act of 1977\" that is repealed, revoked, or amended in any manner that results in the federal protections of workers' rights or worker safety becoming less stringent;To define standards for workplace health and safety if there is no standard in effect under the OSH Act; andAs necessary to implement the bill. Sections 2 through 8 make conforming amendments.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1054"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Business Affairs & Labor",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business Affairs & Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Rutinel",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Rutinel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Velasco",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Velasco\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/17320d3ea4d194aa1d7f3d8834dbfd54",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/9543840321d1f9f374753f338443f1eb",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1054",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

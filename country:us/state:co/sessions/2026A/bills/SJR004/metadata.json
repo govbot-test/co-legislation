@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SJR 004",
+  "title": "Frontotemporal Degeneration Awareness Week",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Government"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sjr4"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Senate Third Reading Laid Over to 01/30/2026 - No Amendments",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "C. Kolker",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kolker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Simpson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Simpson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Clifford",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Clifford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/b46c6885529ad7563bf540eadde2cecb",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/36ddac2074fa3d959ead5792087efbbc",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-16",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SJR26-004",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

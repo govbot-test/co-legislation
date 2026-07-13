@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1140",
+  "title": "Local Government Impact Hearings",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "General Assembly"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill allows the speaker of the house of representatives, the minority leader of the house of representatives, the president of the senate, and the minority leader of the senate (legislative leadership) to each select up to 5 legislative measures to have a local government impact hearing during a regular legislative session. A local government impact hearing is a dedicated time that is at least one hour and not more than 2 hours at the beginning of a scheduled committee hearing for a legislative measure during which one or more local governments or organizations that represent local governments may present testimony to the committee regarding the potential effects of the legislative measure on local governments within the state.\u00a0\u00a0\u00a0\u00a0\u00a0If a member of legislative leadership selects a legislative measure to have a local government impact hearing, the member must:Determine which committee of reference will hold the local government impact hearing if the legislative measure is assigned to more than one committee of reference; andNotify the chair of the applicable committee of reference and the staff of the legislative council that the legislative measure will have a local government impact hearing.\u00a0\u00a0\u00a0\u00a0\u00a0If a member of the legislative leadership selects a legislative measure to have a local government impact hearing, the staff of the legislative council is required to include the local government impact hearing on the calendar as part of the regularly scheduled legislative hearing for the legislative measure in the applicable committee of reference.\u00a0\u00a0\u00a0\u00a0\u00a0During the local government impact hearing, one or more local governments or statewide organizations that represents local governments may provide testimony regarding the impact of the legislative measure on local governments for the duration of the local government impact hearing without other limitations on the length of testimony.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires the director of research of the legislative council to develop procedures for the implementation of local government impact hearings.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1140"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Civic, Military, & Veterans Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "T. Winter",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Winter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Pelton",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" R. Pelton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111340/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1140",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

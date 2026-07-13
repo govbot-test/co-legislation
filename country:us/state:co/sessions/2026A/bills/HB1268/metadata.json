@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1268",
+  "title": "Renewable Energy Development on Disturbed Lands",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy",
+    "Local Government"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Section 1 of the bill authorizes a local government with permitting authority over land uses (local government) to designate one or more areas within the jurisdiction of the local government as renewable energy reinvestment areas for the siting of renewable energy and energy storage system projects (eligible projects). In designating an area as a renewable energy reinvestment area, the local government must hold at least one public hearing, engage in outreach of disproportionately impacted communities, and ensure that an eligible project may be permitted and constructed pursuant to an administrative approval process based solely on the eligible project's compliance with objective standards.If an eligible project is sited in a renewable energy reinvestment area, an urban renewal authority or county revitalization authority (tax increment financing authority) may distribute tax revenue to finance any public infrastructure needed for the eligible project in a manner consistent with the tax increment financing authority's governing statutes.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 1 requires a utility to respond to a request made by a local government or an eligible project developer for interconnection information regarding the proposed site of an eligible project within 30 days after the request is made.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 2 requires the Colorado energy office to consolidate, publish on its website, and periodically update information and resources concerning the process for siting, permitting, and developing eligible projects in renewable energy reinvestment areas.\u00a0\u00a0\u00a0\u00a0\u00a0 Sections 3 and 4 make conforming amendments.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1268"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Energy & Environment",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Energy & Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "K. McCormick",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Smith",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Smith\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112343/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1268",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1233",
+  "title": "Property Tax Proceedings for Nonresidential Property",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Local Government"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Penalties for providing false information for tax purposes. A county may require a nonresidential property owner to provide certain information to the assessor, the county board of equalization, or the board of county commissioners in connection with property valuation. Currently, there is no penalty for a property owner's failure to provide this information or for misreporting information that is provided. For property tax years commencing on or after January 1, 2026, the bill imposes civil penalties for a nonresidential property owner's failure to provide information and for willfully providing false information.\u00a0\u00a0\u00a0\u00a0\u00a0 Option to move an appeal to district court. Currently, an appeal from a board of county commissioners' decision on an abatement petition may only be filed with the board of assessment appeals. In addition, currently an appeal from a county board of equalization's decision on a petition for appeal may be filed in either the district court or with the board of assessment appeals at the election of the taxpayer. For property tax years commencing on or after January 1, 2026, the bill allows a county or the board of assessment appeals to request to move or transfer a nonresidential property case that was filed with the board of assessment appeals to the district court when certain criteria are satisfied. The bill does not alter the de novo nature of a nonresidential appeal, but specifies that when weighing evidence and assessing credibility, the board of assessment appeals or district court shall consider changes in the valuation information submitted by a petitioner to the county assessor, county board of equalization, or board of county commissioners regarding the property at issue.\u00a0\u00a0\u00a0\u00a0\u00a0 Waiver of the right to interest during the tax appeal process. Currently, a county is required to pay penalty interest at the rate of 1% per month for a total of 12% per year, on any refund of taxes. For property tax years commencing on or after January 1, 2026, if the district court or board of assessment appeals finds that a nonresidential property owner changed certain disclosed information, intentionally delayed the resolution process, or intentionally provided false information, the property owner waives the right to interest earned on the tax refunded.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1233"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Finance",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Lukens",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lukens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Y. Zokaie",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" Y. Zokaie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Roberts",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Roberts\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112162/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1233",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

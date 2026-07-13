@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 014",
+  "title": "Modification to Defense of Not Guilty by Reason of Insanity",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts & Judicial",
+    "Crimes, Corrections, & Enforcement",
+    "Human Services"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Legislative Oversight Committee Concerning the Treatment of Persons with Behavioral Health Disorders in the Criminal and Juvenile Justice Systems. Current law requires the defense to furnish a copy of any report of examination of the defendant that is made at the instance of the defense to the prosecution in a reasonable amount of time in advance of trial. The bill requires a copy of the report to also be furnished to the court who, upon receipt of the copy, shall provide a copy to the department of human services.The bill authorizes community placement of a defendant for treatment and rehabilitation.The bill clarifies the legal standard for a defendant's conditional or unconditional release from the department.The bill makes technical corrections.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb14"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Judiciary",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Amabile",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Amabile\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Michaelson Jenet",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Michaelson Jenet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Rydin",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" G. Rydin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/fd9065b85b0f33ff14479a333dfc1ce8",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/198914c30e214de9d5a8bf1c09eef846",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-014",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

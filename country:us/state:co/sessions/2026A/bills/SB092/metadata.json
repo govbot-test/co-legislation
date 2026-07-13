@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 092",
+  "title": "Modification of County Elected Officer Salary Categories",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Local Government"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law categorizes each county for purposes of establishing the salaries of elected officers in the county. The statutory salary amounts are adjusted every 2 years for inflation and take effect for terms commencing after any change is made.The bill changes the category of Dolores County from category V-C to category V-D and changes the category of Pitkin County from category II-B to category I-A. The category changes will decrease Dolores County official salaries as follows:County commissioner salary decreases from $67,360 to $61,236;County sheriff salary decreases from $75,511 to $68,646;County treasurer, assessor, and clerk salary decreases from $67,360 to $61,236; andPart-time county coroner salary decreases from $15,225 to $13,841.Pitkin County is a home rule county that may set the compensation for its officers and employees. The category changes may increase Pitkin County official salaries as follows:County commissioner salary increases from $121,634 to $158,669;County sheriff salary increases from $147,135 to $201,926;County treasurer, assessor, and clerk salary increases from $121,634 to $158,669; andFull-time county coroner salary increases from $121,634 to $158,669.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb92"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Local Government & Housing",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Local Government & Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "C. Simpson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Simpson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Suckla",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Suckla\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Velasco",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Velasco\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111695/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-092",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

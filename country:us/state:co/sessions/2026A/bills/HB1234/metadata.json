@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1234",
+  "title": "Access to Records of Child Abuse or Neglect",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Human Services"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill prohibits a person who possesses records or reports (records) of child abuse or neglect from releasing identifying data or information contained in the records to a person who is not authorized to receive the information or data.The bill includes an attorney representing a person named in the record and an assigned designee of the child named in a record as authorized persons who may have access to child abuse or neglect records if the attorney or assigned designee presents a valid release of information signed by an authorized person.The bill allows a person named in a record as an alleged abused or neglected child who is in possession of a record in which they are named or, with the person's consent, the person's attorney or guardian ad litem, to disclose and make use of the record, including for the purpose of litigation or to obtain treatment or services.The bill requires each county department of human or social services (county department) to establish and submit to the state department of human services a process for current and former clients to obtain access to their case records.The bill repeals the penalties associated with a person who improperly releases or willfully permits or encourages the release of data or information contained in the records to a person not permitted to access the information.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1234"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "G. Rydin",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" G. Rydin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Soper",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Soper\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112164/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1234",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

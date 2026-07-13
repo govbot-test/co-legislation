@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1086",
+  "title": "Adjust Subdivision Access to State Highway System",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Housing",
+    "Transportation & Motor Vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law provides that a person may not submit an application for subdivision approval to a local authority unless the subdivision plan or plat provides that all lots and parcels created by the subdivision will have access to the state highway system. The bill removes this restriction and specifies that, on or after January 1, 2027, a person may submit, and a local authority may approve, an application for a subdivision plan or plat that does not provide that all lots and parcels created by the subdivision will have access to the state highway system.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1086"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Housing & Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Suckla",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Suckla\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111148/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1086",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

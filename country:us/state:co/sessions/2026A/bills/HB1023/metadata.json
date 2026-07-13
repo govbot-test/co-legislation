@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1023",
+  "title": "Political Party Liability for Accessibility Requirements",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections & Redistricting"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under current law, the general assembly, the secretary of state, and each political party must ensure that it remains an option for a candidate in the state to access the ballot through the caucus process or any future alternative process that is accessible to persons with disabilities. A political party must also ensure that any person, upon request, is able to participate in a precinct caucus or a party assembly with the use of a video conferencing platform or alternative means of participation. The failure of any political party to make a reasonable effort to comply with these accessibility requirements constitutes discrimination on the basis of disability in a place of public accommodation.The bill clarifies that these duties are duties of the state political party and that a person who is subjected to a violation of a state political party's duties regarding these accessibility requirements may file suit against the state political party. An individual, including a member of or volunteer for a political party, or a local political party may not be held liable for a violation of the state political party's duties regarding these accessibility requirements.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1023"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Civic, Military, & Veterans Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Luck",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Luck\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Baisley",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Baisley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Zamora Wilson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Zamora Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/255bd07bcd2a420dbe93b8d61ccd1a6c",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/ade874973b22d93c2fe9f611037ee919",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1023",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1259",
+  "title": "Department of Early Childhood Clean-Up",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education & School Finance (Pre & K-12)"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill makes changes and clarifications in the provisions related to the department of early childhood (department). The bill:Eliminates the scheduled repeal of licensing exemptions for informal child care provided by family, friends, or neighbors in an in-home setting;Updates provisions related to early care and education provider reimbursement for services performed before final eligibility determinations in the Colorado child care assistance program;Lowers the age limit for children served by the early childhood mental health consultation program from 8 years old to 6 years old and adjusts that program's reporting requirements;Clarifies the role of school districts and charter schools in administering and determining certain funding priorities for 3-year-olds in the universal preschool program;Adds information about the sources of money appropriated to the universal preschool program;Clarifies that child care facilities approved, certified, or licensed by tribal governments are exempt from the department's licensing rules; andAdjusts the membership requirements and duties of the early childhood leadership commission and subcommittee membership requirements for the rules advisory council.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1259"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Education",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "E. Sirota",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Sirota\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Bridges",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Bridges\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Marchman",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Marchman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112325/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1259",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

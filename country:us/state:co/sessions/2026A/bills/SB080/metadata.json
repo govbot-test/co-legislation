@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 080",
+  "title": "Cradle to Career Grant Program Creation",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Human Services"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the cradle to career grant program (grant program) in the state department of human services (state department) to provide grants that promote coordinated community-based supports and services that open opportunities for economic mobility from poverty. The grant program must connect children and youth with high-quality educational and extracurricular programming and families with key health and social services in order to improve prenatal and early childhood outcomes, student achievement, and workforce readiness. A local government, local education provider, state institution of higher education, Indian tribe or tribal organization, or community-based nonprofit or not-for-profit organization (eligible entity) is eligible for a grant award.\u00a0\u00a0\u00a0\u00a0\u00a0The bill creates an advisory board to approve the state department's potential grant recipients and to collaborate with the state department to develop grant program guidelines and criteria for awarding grants.\u00a0\u00a0\u00a0\u00a0\u00a0To receive a grant, an eligible entity must submit an application that includes an economic mobility needs assessment and a comprehensive proposal to address the needs within its designated service area. The application must identify community partners as prospective subcontractors. Each grant recipient must annually report to the state department on a set of performance indicators assessing the economic mobility outcomes and impacts associated with the grant award. The state department must make a related report to the general assembly each year.\u00a0\u00a0\u00a0\u00a0\u00a0The state department may seek, accept, and expend gifts, grants, and donations for grant-program-related purposes. The state department is not required to implement the grant program until sufficient money is available to adequately fund grant program operations. The general assembly shall not appropriate general fund dollars for grant program operations in its first year. General fund appropriations for grant program operations in subsequent years are limited to 50% of the gifts, grants, and donations that the program received in the prior calendar year.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb80"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Local Government & Housing",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Local Government & Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Coleman",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Simpson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Simpson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lukens",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lukens\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111435/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-06",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-080",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

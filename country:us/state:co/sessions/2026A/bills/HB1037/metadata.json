@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1037",
+  "title": "Ban Government Purchase of Personal Data from Third Party",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts & Judicial",
+    "Crimes, Corrections, & Enforcement"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill prohibits law enforcement and other government entities from purchasing, or otherwise obtaining for anything of value, certain personal data from third parties. Law enforcement agencies and other government entities are also prohibited from sharing individuals' personal data between themselves.Exceptions are created for obtaining personal data, including after obtaining a judicial warrant, subpoena, or court order, when an individual consents to sharing their data and, in the case of an emergency, involving a threat to a person's life or physical safety.The bill creates a private cause of action for an individual who has their personal data obtained or shared in violation of the prohibitions in the bill. Personal data obtained or shared is excluded from trial and other court proceedings, subject to certain exceptions.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1037"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Bacon",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. DeGraaf",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. DeGraaf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Cutter",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Cutter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/9caae3e5db505ba49f91358a7d62e423",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/0aac330a44f57125457433e499126220",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1037",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

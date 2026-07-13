@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1094",
+  "title": "Proposed Guidance Policies Developed by Colorado Department of Education",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education & School Finance (Pre & K-12)"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the Colorado school district superintendents council (council) in the department of education (department) to coordinate with school districts regarding proposed guidance policies developed by the department and to cooperate with and secure the assistance of school districts in formulating, coordinating, and recommending guidance policies to the department.\u00a0\u00a0\u00a0\u00a0\u00a0The department is required to send the council proposed guidance policies, and the council shall review, discuss, and vote on the proposed guidance policies within 45 days after receiving the policies. The proposed guidance policies must not go into effect until the council has taken formal action by a majority vote on the policies. The department is required to consider and incorporate the council's recommendations involving department guidance policies that impact local control.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1094"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Education",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "E. Hamrick",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Hamrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Marchman",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Marchman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111190/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1094",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

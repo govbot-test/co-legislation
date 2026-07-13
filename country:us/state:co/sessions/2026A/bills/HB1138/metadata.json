@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1138",
+  "title": "Retail Theft Prevention Program",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crimes, Corrections, & Enforcement"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the retail theft prevention advisory board (advisory board) in the office of the attorney general (AGO). The advisory board shall develop procedures related to applying for a grant for the retail theft prevention grant program (grant program) created in the bill; review grant applications and award grants; collect and analyze data related to organized felony-level retail theft and gift card fraud trends, losses, prosecutions, and outcomes in Colorado; and develop policy recommendations in coordination with state and federal partners on how to combat felony-level retail theft and gift card fraud.\u00a0\u00a0\u00a0\u00a0\u00a0The bill creates the retail theft prevention grant program in the AGO. A state or local law enforcement agency, district attorney's office, multijurisdictional or regional task force, or tribal law enforcement agency may apply for a grant, which may be used to investigate and prosecute organized felony-level retail theft or gift card fraud; develop or invest in technology, data-sharing systems, and analytics tools to analyze felony-level retail theft and gift card fraud metrics; provide training and technical assistance to retailers or law enforcement agencies; and develop prevention and deterrence initiatives specific to felony-level retail theft and gift card fraud.\u00a0\u00a0\u00a0\u00a0\u00a0Beginning January 2028, the bill requires the AGO to annually report during its \"SMART Act\" hearing certain information about the grant program and felony-level retail theft in Colorado.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1138"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "C. Espenoza",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Espenoza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Woog",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" D. Woog\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111332/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1138",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

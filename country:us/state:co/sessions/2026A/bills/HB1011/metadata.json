@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1011",
+  "title": "Transfers of Certain Pet Animals",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under current law, a pet store in Colorado is permitted to sell or offer for sale dogs or cats if the pet store abides by certain requirements. The bill removes the existing permission so that, beginning January 1, 2027, a pet store is no longer permitted to sell, lease, offer to sell or lease, barter, auction, or otherwise transfer ownership of a dog or cat. Nothing prohibits a pet store from providing space for the display of dogs or cats available for adoption if the pet store does not collect a fee from the display and if certain requirements are met.The bill defines \"broker\" as a person that, for profit, sells, leases, offers to sell or lease, barters, auctions, or otherwise transfers ownership of, in person or online, a pet animal bred by another person. The bill states that a broker is not permitted to sell, lease, offer to sell or lease, barter, auction, or otherwise transfer ownership of a dog or cat. The bill clarifies that the following are still permitted:The sale, transfer, or adoption of an animal, including a law enforcement animal, to a governmental agency;The sale, transfer, or adoption of a guide, signal, or service dog;The sale, transfer, or adoption of a dog or cat by an animal shelter or pet animal rescue;The sale or transfer of a dog or cat by the original breeder of the dog or cat;The sale or transfer of a dog or cat by, or on behalf of, the bona fide owner that is not the original breeder of the dog or cat to a new owner, so long as the bona fide owner does not sell or transfer a dog or cat more than three instances per each calendar year; andThe sale, transfer, or adoption of a dog or cat by a health-related research facility.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1011"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Agriculture, Water & Natural Resources",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture, Water & Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Duran",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. McCormick",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Rodriguez",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" R. Rodriguez\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/4a78d918b92bf58f8d197774cc61064d",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/21d6c6f48fa29df93d9180abbbdb2d4a",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1011",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1249",
+  "title": "Medical-Aesthetics Corporation Ownership",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business & Economic Development"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under current law, persons licensed to practice medicine in Colorado may form professional service corporations for the practice of medicine. The articles of incorporation for these corporations must reflect and comply with certain requirements, including the requirement that all shareholders of the corporation be individuals who are licensed by the Colorado medical board to practice medicine and who own their shares in their own right (ownership requirement). A licensed physician assistant may be a shareholder, but one or more physician assistants may not own a majority of the corporation.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 1 of the bill specifies that one or more physician assistants licensed by the Colorado medical board may own a majority of a corporation organized solely for the purpose of providing medical-aesthetic services.The bill codifies a new exception to the ownership requirement. Section 2 establishes that, if a corporation is organized solely for the purpose of providing medical-aesthetic services, the following individuals may be a shareholder of that corporation, if the individual holds an active license issued by their profession's respective licensing body in Colorado:An esthetician;A cosmetologist;A practical nurse;A registered nurse;An advanced practice registered nurse; orA physician assistant.Current statute defines \"medical-aesthetic services\" as therapeutic procedures used in aesthetics. This definition applies to the corporations recognized in the exception to the ownership requirement codified by the bill.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1249"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "R. Gonzalez",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Gonzalez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Ricks",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" N. Ricks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112184/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1249",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

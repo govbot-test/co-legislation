@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1099",
+  "title": "Protect Financial Condition of Homeowners Associations",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Housing"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires the declarant of a new planned community or condominium, prior to the sale or conveyance of the first unit, to obtain a reserve study for the planned community or condominium, which study estimates the projected costs of maintaining, repairing, or replacing the common elements or property of the planned community or condominium over a 30-year period. The reserve study must be updated after each phase of building, with a final updated reserve study conducted for the planned community or condominium as built.\u00a0\u00a0\u00a0\u00a0\u00a0Until the transfer of control of the planned community or condominium to a unit owners' association (association), a declarant must provide the reserve study to each prospective purchaser of a unit at least 24 hours prior to the sale or conveyance of the unit. After such transfer of control, the association must make the reserve study available to a unit owner upon reasonable notice.\u00a0\u00a0\u00a0\u00a0\u00a0At or before the transfer of control of the planned community or condominium to an association, a declarant must pay to the association 1.5% of the amount required to fully fund the reserves.\u00a0\u00a0\u00a0\u00a0\u00a0When an association changes association management companies, the former association management company shall, within 45 days, deliver to the new association management company or the association, at no charge to the association, all association property, records, money, accounts, information, and other items or information specified in the bill (property and records).\u00a0\u00a0\u00a0\u00a0\u00a0The former association management company shall pay the association $250 for each business day that it fails to timely return the association's property and records and is liable for all interest and late fees on late payments made by the association due to the former association management company's failure to turn over the property and records, as well as any other damages incurred by the association.\u00a0\u00a0\u00a0\u00a0\u00a0In a civil action to recover the property and records or the payments owed to the association for the former association management company's failure to turn over the property and records, if the court finds that the former association management company's violation was willful, the former association management company shall be liable for treble the association's damages, plus attorney fees and court costs.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1099"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Housing & Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "K. Nguyen",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Nguyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Titone",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" B. Titone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kolker",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kolker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Marchman",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Marchman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111205/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1099",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

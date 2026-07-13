@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1052",
+  "title": "Rights for Victims of Certain Crimes",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crimes, Corrections, & Enforcement"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "For purposes of the \"Victim Rights Act\", the bill prohibits a defendant or alleged offender from being the \"lawful representative\" of a victim or the victim's designee if the victim is a child or an at-risk adult.The bill creates new rights for a victim under the \"Victim Rights Act\", including the right to:Be notified by the district attorney if the district attorney receives a notice that a crime laboratory employee engaged in a wrongful action that includes a crime against the victim and a notice that an evidentiary hearing on post-conviction petition for relief is held;Be referred to by an abbreviation, pseudonym, initials, or another preferred name during hearings and in communications;Request forensic medical evidence collected be retested if a crime laboratory employee engaged in wrongful action; andBe heard at a court proceeding involving an application to the court for the issuance of a subpoena for restitution records.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1052"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "R. Stewart",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Woog",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" D. Woog\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/d9b0965fd99a88ce2a666043105863cd",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/d40c8142881346ff58de851420d180c2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1052",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

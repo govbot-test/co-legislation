@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 093",
+  "title": "Workers' Compensation Insurance Coverage Verification",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Labor & Employment",
+    "Local Government"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill prohibits the state, a county, a municipality, a city and county, a district, or other political subdivision of the state (governmental entity) from issuing or renewing a building permit, construction permit, or contractor's license unless the applicant has first filed with the governmental entity's licensing authority or permitting agency a signed declaration verifying that the applicant, the general contractor, and every subcontractor at any tier either maintains valid workers' compensation insurance coverage or has rejected such coverage. An applicant shall provide proof of the workers' compensation insurance coverage or proof of rejection of coverage through filing specified documents.Prior to commencing any work under a building or construction permit, a general contractor or permit holder shall ensure that every subcontractor at any tier and any person performing work under the permit has provided proof of workers' compensation insurance coverage or proof of rejection of coverage.If at any time the governmental entity's licensing authority or permitting agency finds that a violation of the bill has occurred, the governmental entity's licensing authority or permitting agency shall revoke or suspend any building permit, construction permit, or contractor's license issued to that contractor.The director of the division of workers' compensation is authorized to adopt rules to implement the bill, including procedures for electronic verification of coverage, reporting requirements, and coordination with licensing authorities and permitting agencies.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb93"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Business, Labor, & Technology",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business, Labor, & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "T. Sullivan",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" T. Sullivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Mauro",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Mauro\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111696/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-093",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

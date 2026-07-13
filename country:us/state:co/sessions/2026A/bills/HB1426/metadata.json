@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1426",
+  "title": "Department of Law Legislative Report",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crimes, Corrections, & Enforcement"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "On January 20, 2026, as part of its reporting duties pursuant to the 'State Measurement for Accountable, Responsive, and Transparent (SMART) Government Act' or 'SMART Act', the department of law (DOL) submitted to the house of representatives and senate judiciary committees a report entitled 'Department of Law: 2026 Legislative Priorities' (DOL report). The DOL report recommended that the general assembly make various changes to laws concerning the powers and duties of the attorney general (AG) and the DOL.\u00a0\u00a0\u00a0\u00a0\u00a0The bill implements recommendations from the AG's report as follows:\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 1 of the report is to allow the DOL to enter into interagency agreements with certain state agencies to improve data sharing and coordination. Section 14 of the bill implements this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 2 is to amend the 'Colorado Consumer Protection Act' (CCPA) to allow the DOL to enforce as an unfair or deceptive trade practice the knowing or reckless practice of a profession or occupation despite failing to attain the qualifications required by law. Section 9 implements this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 3 is to require the DOL to regularly review its administrative rules to ensure they are meeting certain objectives. Section 96 implements this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 4 is to amend the DOL's subpoena authority in pattern-and-practice investigations of government authorities so that it aligns with the DOL's subpoena authority in investigating alleged violations of the CCPA. Section 97 implements this recommendation. \u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 5 is to extend existing statutory attorney fee caps to apply to district attorneys when enforcing the CCPA through a third party. Section 96 implements this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 6 is to allow the DOL to notify the joint budget committee if an introduced bill poses a new or increased risk of litigation that may result in a significant impact to the state budget. Sections 1, 95, and 96 implement this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 7 is to provide sunset reviews of existing title and degree protections under the CCPA. Sections 19 and 98 implement this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 8 is to clarify the process for obtaining information from state agencies during the discovery process when the AG brings an action under their authority. Section 96 implements this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 9 is to codify certain principles of a recent settlement of litigation involving the National Association of Realtors in order to maintain transparency and prevent anti-competitive practices in the real estate market. Sections 87 and 88 implement this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 10 is to establish certain advisory councils within the DOL. Sections 2, 6, 15, and 34 implement this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 11 is to clarify that the scope of a recently enacted cap on medical debt interest applies only to direct medical costs. Section 5 implements this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 12 is to consolidate overlapping violations within the CCPA. Sections 7, 8, 9, 10, 11, 12, 13, 23, 24, 26, 27, 88, 90 through 92, 100, 101, 103, and 105 implement this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 13 is to make certain changes to the membership and reporting duties of the state substance abuse trend and response task force. Section 93 implements this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 14 is to strengthen disclosure requirements concerning developer contract cancellation clauses in real estate purchase contracts by requiring a broker to advise a consumer to seek legal advice before executing a purchase contract if the broker is representing a consumer in a transaction for which a principal to the transaction, including a home builder, a bank, or a buyer, requires the consumer to use a purchase contract created by the principal. Section 89 implements this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 15 is to make nonsubstantive and nontechnical updates to statutory provisions involving the DOL's performance of its duties, including updates to gendered language. Sections 3, 4, 7, 9, 10, 11, 16, 17, 21, 22, 24 through 27, 29 through 33, 35 through 86, and 102 implement this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0Recommendation 16 is to authorize the DOL to recover and reinvest costs associated with the enforcement of the 'Colorado Medicaid False Claims Act'. Section 104 implements this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0The final recommendation is to establish a new procurement framework for the DOL to allow it to meet its demands and fulfill its statutory duties. Sections 93 and 94 implement this recommendation.\u00a0\u00a0\u00a0\u00a0\u00a0 Sections 13, 18, 20, 23, and 28 make necessary conforming amendments.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1426"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Camacho",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Camacho\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Y. Zokaie",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" Y. Zokaie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Roberts",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Roberts\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115397/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-28",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115403/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-29",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1426",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

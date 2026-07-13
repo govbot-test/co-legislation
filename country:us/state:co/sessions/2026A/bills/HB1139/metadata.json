@@ -1,0 +1,96 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1139",
+  "title": "Use of Artificial Intelligence in Health Care",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business & Economic Development",
+    "Health Care & Health Insurance",
+    "Professions & Occupations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Section 2 of the bill requires entities that use an artificial intelligence system or algorithm (AI system) for the purpose of conducting utilization review of health-care services, including health insurance carriers, pharmacy benefit managers, private utilization review organizations, behavioral health administrative services organizations, and managed care entities, to ensure that the AI system complies with certain requirements specified in the bill when determining coverage for services. Specifically, the AI system used must:Not base its determination solely on group data; andMake determinations based on medical or clinical history, the patient's individual clinical circumstances, and other relevant factors specified in the bill, with denial of coverage reviewed by a licensed clinician or physician.\u00a0\u00a0\u00a0\u00a0\u00a0The AI system may be used to assist in utilization review, including expedited approvals. A denial or delay of coverage for a service based in whole or in part on medical necessity must be reviewed by a licensed clinician or physician who is competent to evaluate the specific clinical issues.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 3 defines a \"mental health companion chatbot\", in part, as an AI system that:Uses generative artificial intelligence to provide adaptive, personalized, and emotionally resonant responses to sustain a one-on-one relationship with a user;Engages in interactive conversations similar to those an individual would have with a licensed mental health professional; andIs represented by the AI systems provider as, or that a reasonable person believes to be, capable of providing mental health therapy or of helping to manage or treat mental health conditions.\u00a0\u00a0\u00a0\u00a0\u00a0 Sections 2, 5, 6, and 7:Declare that an AI systems provider engages in the unauthorized practice of psychotherapy if the AI system used:Represents, states, or indicates, explicitly or implicitly, that the AI system is a human mental health provider or is authorized to engage in the practice of psychotherapy;Uses prohibited titles, abbreviations or descriptions of professions, credentials, or services that only a mental health professional authorized to provide psychotherapy in the state (regulated professional) may use;Delivers psychotherapy services that would be considered the practice of psychotherapy without oversight by an individual who is a regulated professional; orIs a mental health companion chatbot and: Fails to provide clear and conspicuous notice to the user that the AI system is not a human and is not authorized to provide psychotherapy, therapy, or counseling or to manage or treat mental health conditions; fails to disclose that the AI system is artificial intelligence when asked; fails to implement a protocol to address suicidal ideation or self-harm expressed by users, including referring users to a suicide hotline or crisis text line; or sells, shares, or discloses identifiable mental health data or conditions the use of the mental health companion chatbot on a user agreeing to those practices;Allow for the use of an AI system to provide general information, support, or education, without representing that the AI system is a regulated professional;Exempt from the bill the development, testing, or evaluation of an AI system conducted for the purpose of research by an institutional review board; andProhibit a regulated professional from billing a public or private payer for psychotherapy services that are provided directly to a client and that are conducted by an AI system or for supervision of candidates or professional consultations that are provided by an AI system without human oversight.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 4 requires a regulated professional to disclose to a client the purposes for which the regulated professional uses AI systems or therapeutic or diagnostic devices that include AI systems in their practice and when those AI systems or devices are used, the right of a client to consent to a disclosure of confidential communications, and other disclosures.\u00a0\u00a0\u00a0\u00a0\u00a0 Sections 2 and 7 prohibit a health insurance carrier and a payer of services under the \"Colorado Medical Assistance Act\" and the \"Children's Basic Health Plan Act\" from paying for psychotherapy services that are provided directly to a client and that are conducted by an AI system.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1139"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Joseph",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Joseph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Lieder",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Lieder\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111315/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1139",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

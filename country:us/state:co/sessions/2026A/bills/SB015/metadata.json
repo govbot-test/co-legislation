@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 015",
+  "title": "Commercial Sexual Activity with a Child Offenses",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crimes, Corrections, & Enforcement"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill changes terminology related to child prostitution to commercial sexual activity in the crimes of soliciting for child prostitution, pandering of a child, keeping a place of child prostitution, pimping a child, inducement of child prostitution, and patronizing a prostituted child, including changing the name of the offenses for soliciting for child prostitution, keeping a place of child prostitution, inducement of child prostitution, and patronizing a prostituted child. A court is required to sentence an offender convicted of one of the listed offenses to at least the minimum of the presumptive range for the level of offense associated with the crime.In the crime of soliciting for commercial sexual activity with a child, the bill adds knowingly soliciting a child for commercial sexual activity as a means of committing the offense and requires that when arranging or offering to arrange a meeting, the offender must know that meeting will facilitate commercial sexual activity with a child.The bill makes the penalty for internet luring of a child a class 3 felony when the offense is committed with the intent to meet for the purpose of engaging in commercial sexual activity. In this circumstance, a court is required to sentence the offender to at least the minimum of the presumptive range for the class 3 felony.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb15"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Judiciary",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "B. Pelton",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" B. Pelton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Roberts",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Caldwell",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Caldwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Duran",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Duran\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/28b495eff9717e4aaa09cf84afe86801",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/c906ee8424981dae3c332235f6d31123",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-015",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

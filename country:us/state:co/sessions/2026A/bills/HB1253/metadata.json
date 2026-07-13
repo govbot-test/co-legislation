@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1253",
+  "title": "Disconnection from Statutory Municipality",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Local Government"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under current law, the owners of certain tracts of agricultural or farm land within and adjacent to the boundary of a statutory town may petition the district court for the county to have the land disconnected from the town (disconnection by court decree). The bill changes which tracts of land are eligible to be disconnected from a statutory town using the disconnection by court decree process, so that this process is not available for any tract of land that is included within the boundaries of an urban renewal authority (affected urban renewal authority) or a special district that, by its service plan or pursuant to an intergovernmental agreement, is or will be expected to provide service to the tract of land (affected special district). Instead of using the disconnection by court decree process, owners of these tracts of land must use the process for applications for disconnection from a statutory municipality.Under current law, the owner of a tract of land within and adjacent to the boundary of a statutory municipality may apply to the governing body of the municipality for the enactment of an ordinance disconnecting the tract of land from the municipality (disconnection by ordinance). The bill also modifies this disconnection by ordinance process by requiring that, in addition to the existing requirement that an owner provide notice and a copy of the application for disconnection to the board of county commissioners of the county in which the tract of land is located and to the board of directors of any affected special district, the owner seeking disconnection must also provide notice and a copy of the application for disconnection to the commissioners of any affected urban renewal authority. Upon receiving the notice and application, these entities may request a meeting with the owner of the land and the governing body of the municipality to discuss and address any negative impacts that would result from the disconnection, including any change in the level or extent of services being provided to the tract of land that is the subject of the disconnection application. The failure of the board of county commissioners, the board of any affected special district, or the commissioners of any affected urban renewal authority to request a meeting constitutes an acknowledgment that the disconnection will not adversely affect the county, the affected special district, or the affected urban renewal authority.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1253"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Agriculture, Water & Natural Resources",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture, Water & Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Slaugh",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Slaugh\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112205/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1253",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced In House - Assigned to",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HJR26-1027",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 1027"
+}

@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1097",
+  "title": "Register & Drive Surplus Military Vehicles",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture",
+    "Transportation & Motor Vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law requires a motor vehicle to be designed for operation on a highway in order to be covered by the \"Uniform Motor Vehicle Law\", which governs driver's licenses, registrations, and traffic regulation. The bill authorizes the owner of a surplus military vehicle to register the vehicle with the department of revenue and be issued a license plate if:The vehicle complies with the laws governing motor vehicles and traffic;The vehicle uses wheels for movement, weighs less than 16,000 pounds empty weight, has a 20,000 pounds gross vehicle weight rating or less, and is not affixed with working mounted firearms; andThe owner signs an affidavit stating that the vehicle will not be driven on roadways for more than 1,500 miles per year.If the vehicle is registered, it may be driven on roadways and the title can be converted from showing off-highway vehicle to highway-use vehicle, but the vehicle must comply with registration provisions, driver's license provisions, and traffic laws.\u00a0\u00a0\u00a0\u00a0\u00a0The bill also authorizes surplus military vehicles to operate on the road if they are authorized emergency vehicles. A qualified surplus military vehicle may be registered as a collector's item.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1097"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Housing & Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "C. Barron",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Barron\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Pelton",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" B. Pelton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111195/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1097",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

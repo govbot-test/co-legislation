@@ -1,0 +1,87 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 086",
+  "title": "Reduce Premium Cigar Excise Tax Rate",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Fiscal Policy & Taxes",
+    "Liquor, Tobacco, & Marijuana"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Effective July 1, 2026, the bill defines \"premium cigar\" and reduces the statutory excise taxation rate on premium cigars to 20% of the manufacturer's list price (MLP) from the current rates for all non-cigarette tobacco products other than moist snuff of 36% of the MLP from July 1, 2024, through June 30, 2027, and 42% of the MLP on and after July 1, 2027, effectively rolling back the increases in the statutory taxation rate for such tobacco products since 2005. The bill does not affect taxation of premium cigars under the state constitution, which imposes an additional 20% tax.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb86"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Finance",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "T. Sullivan",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" T. Sullivan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111702/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-086",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

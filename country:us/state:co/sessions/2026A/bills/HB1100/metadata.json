@@ -1,0 +1,102 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1100",
+  "title": "Guardianship for Incapacitated Adults",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Probate, Trusts, & Fiduciaries"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill repeals provisions related to the guardianship of an incapacitated person and enacts provisions related to the guardianship of an incapacitated person drafted by the uniform law commission as part of the \"Uniform Guardianship and Protective Proceedings Act\".\u00a0\u00a0\u00a0\u00a0\u00a0The bill provides guidance for guardians and clarifies how appointees must make decisions on behalf of a person under guardianship.\u00a0\u00a0\u00a0\u00a0\u00a0The bill encourages the use of protective arrangements and less restrictive alternatives instead of guardianship if a person's needs can be met with support services and technology.\u00a0\u00a0\u00a0\u00a0\u00a0The bill establishes a bill of rights for adults subject to guardianship and expands the procedural rights for respondents in guardianship proceedings.\u00a0\u00a0\u00a0\u00a0\u00a0The bill provides for visitation and communication rights for individuals subject to guardianship or conservatorship. This includes a limitation on a guardian's ability to prevent communication, visitation, or interactions between a person subject to guardianship and a third party.\u00a0\u00a0\u00a0\u00a0\u00a0The bill prohibits courts from establishing full guardianship if a limited guardianship would meet the respondent's needs, requires a petitioner seeking full guardianship to provide support to justify full guardianship, and requires courts to provide findings to support the imposition of full guardianship.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1100"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "C. Espenoza",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Espenoza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Stewart",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Snyder",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Snyder\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111204/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1100",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

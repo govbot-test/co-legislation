@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1026",
+  "title": "Expanding Plan Options for PERA",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Government"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under current law, a member of the public employees' retirement association (PERA) earns service credit for each year worked during which the member makes contributions to PERA. A member may purchase additional years of service credit for any previous period of public or private employment during which the member was not making contributions to PERA, subject to certain conditions. Sections 1  and 3 of the bill allow a member of PERA to also purchase service credit for previous periods of unemployment during which the member was 21 years old or older, subject to certain conditions. Sections 2, 3, 4,  and  7 make conforming amendments. Sections 5  and  6 require PERA's voluntary investment program to include options for an employee to make tax-deferred voluntary contributions and Roth voluntary contributions to the program and make other conforming changes. Sections 8  and  9 require PERA employers to affiliate with PERA's deferred compensation plan and offer the plan to employees. The sections require the deferred compensation plan to include options for an employee to make pre-tax voluntary contributions and Roth voluntary contributions to the plan and make other conforming changes.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1026"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Finance",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "E. Hamrick",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Hamrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Marshall",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" B. Marshall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kolker",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kolker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/d28ada0b87a7a455bb74985ac3f49fb7",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/82e39f488d1a0f8aba9d5490eeac5c60",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

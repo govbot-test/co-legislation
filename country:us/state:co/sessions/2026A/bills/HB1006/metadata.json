@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1006",
+  "title": "Thriving Institution Designations for Higher Education",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Higher Education"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires the department of higher education (department) to:Identify institutions of higher education (institutions) that meet the definition and outcome standards to be designated as a thriving institution;Notify each institution that meets the outcome standards to be designated as a thriving institution and request the institution to respond within 10 calendar days with the institution's decision of whether to be recognized as a thriving institution;Post on the department's website the names of the institutions that earn a thriving institution designation and agree to be listed as a thriving institution; andNotify the general assembly of the names of the institutions that are recognized as thriving institutions.The bill requires the department to establish an advisory committee to provide input to the department on the outcome and recognition standards, and continuous improvements set by the department to identify institutions that meet the requirements for one or more thriving institution designations.The bill requires the advisory committee to submit a report to the department summarizing the outcome standards for thriving institution designations determined by the advisory committee, practices and continuous improvement efforts, and recommendations for policy or resource alignment to support the state's attainment and workforce goals. The department is required to include this report as part of its \"SMART Act\" hearing and submit the report to the Colorado commission on higher education and to each institution of higher education's governing board.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1006"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Education",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Martinez",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Velasco",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Velasco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Roberts",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Roberts\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/69230fb2266da540d99e1a26af82d94a",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f239f9fc619f48d302f2bc82a5701f91",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1006",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 079",
+  "title": "Uniform Assignment for Benefit of Creditors Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business & Economic Development",
+    "Probate, Trusts, & Fiduciaries"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Colorado Commission on Uniform State Laws. The bill enacts the \"Uniform Assignment for Benefit of Creditors Act\". An assignment is a transfer by a person (assignor) of all of the person's assets to another person (assignee) for the benefit of the assignor's creditors (assignment).\u00a0\u00a0\u00a0\u00a0\u00a0The bill prohibits certain persons from serving as an assignee, including creditors, affiliates, or insiders of the assignor, and creates requirements for an assignment agreement.\u00a0\u00a0\u00a0\u00a0\u00a0The bill establishes specific duties for the parties to an assignment, including:The assignor must preserve and turn over assets, provide information necessary to administer the assignment estate, and verify a list of all known creditors and assets under penalty of perjury;The assignee has a fiduciary duty to the assignment estate and must manage the assignment estate in good faith to maximize distributions and wind up the assignment in a timely manner; andThe assignee shall notify known creditors of the assignment, maintain a separate deposit account for money, collect on or dispose of assets, and provide financial summaries to creditors at least every 6 months.\u00a0\u00a0\u00a0\u00a0\u00a0The assignee is authorized to perform specific acts in furtherance of the assignee's duties, including operating the assignor's business, incurring debt, settling claims, and avoiding certain transfers that a creditor could have avoided under other law. The assignee may allow or dispute a creditor's claim against the assignment estate as specified in the bill.\u00a0\u00a0\u00a0\u00a0\u00a0The priority of distributions from the assignment estate is specified in the bill. The assignor and assignee are not personally liable for each other's acts. However, an assignee is personally liable for a breach of fiduciary duty. A court may remove an assignee for cause or if removal best serves the interests of the creditors. The assignee is discharged from the assignee's duties upon sending a final accounting and distributing all assets.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb79"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Business, Labor, & Technology",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business, Labor, & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Snyder",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Snyder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Espenoza",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Espenoza\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111337/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-079",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

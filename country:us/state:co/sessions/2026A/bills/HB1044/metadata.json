@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1044",
+  "title": "Measures to Improve Black Maternal Health Equity",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health Care & Health Insurance",
+    "Professions & Occupations",
+    "Public Health"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires measures to improve equity in maternal health, including:Requiring a physician, nurse, or nurse aide whose primary practice is in the area of obstetrics to complete at least one continuing education credit hour on the topic of cultural competence and equity in maternal care;Authorizing the department of public health and environment (CDPHE), subject to available appropriations, to provide a health survey to all birthing parents and to compile the data;Requiring a health facility that provides labor and childbirth services to publicly display in birthing areas a statement on respectful maternity care regarding principles and components, including freedom from harm, privacy, informed consent, and allowing a birthing parent to have a birthing companion present at the birth;Requiring that the maternal health task force established by CDPHE includes at least one Black maternal health advocate; andRequiring CDPHE to report annually to the general assembly, rather than every 3 years, concerning maternal health outcomes and equity, including outcomes for Black birthing parents and suspected or known causes of any disparate outcomes for Black birthing parents.In addition, the bill requires a health facility to report to CDPHE incidents of severe maternal morbidity or death of a birthing parent for which there is reasonable cause for the health facility to believe that racial discrimination, implicit or explicit bias, negligent clinical decision-making, denial of care, or other inequitable treatment (discriminatory or negligent misconduct) contributed to the severe maternal morbidity or death. CDPHE is required to investigate such incidents and report to the applicable regulatory board (regulator) if the investigation reveals that a health-care practitioner may have engaged in the discriminatory or negligent misconduct.In addition to other penalties, the bill authorizes a regulator to impose and collect monetary penalties against a health-care practitioner that is found to have engaged in the discriminatory or negligent misconduct that led to severe maternal morbidity or death.If a health facility has engaged in discriminatory practices, failed to follow evidence-based standards of obstetric care, or refused to act on known symptoms that resulted in severe maternal morbidity or death, CDPHE may revoke or suspend the health facility's license and impose and collect a monetary penalty of up to $250,000 per violation.Those monetary penalties are deposited into the maternal health equity improvement fund created in the bill and will be used to provide support to families after preventable severe maternal morbidity or death and for other activities that are intended to reduce adverse maternal health outcomes.The bill requires CDPHE's office of health equity to report aggregated and de-identified data concerning the incidents of discriminatory or negligent misconduct that resulted in preventable severe maternal morbidity or death.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1044"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "R. English",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. English\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Joseph",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Joseph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Ricks",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" N. Ricks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/461ccea48d35359344e9eb47312b1733",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/0b688fd5d754033263e9e5e7919cb0cf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1044",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1083",
+  "title": "Protect Female Sports Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education & School Finance (Pre & K-12)"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires each interscholastic or intramural athletic team or sport that is sponsored by a school or athletic association (team or sport) to expressly designate the team's or sport's participants as either biological male, men, or boys; biological female, women, or girls; or coeducational or mixed.\u00a0\u00a0\u00a0\u00a0\u00a0The bill prohibits a team or sport that is designated for females, women, or girls from being open for participation by a male student or male participant. The bill prohibits a team or sport that is designated for males, men, or boys from being open for participation by a female student or female participant unless there is no female team offered or available for the sport for female students or female participants.\u00a0\u00a0\u00a0\u00a0\u00a0The bill prohibits a state agency, entity, licensing or accrediting organization, or athletic association from entertaining a complaint, opening an investigation, or taking any other adverse action against a school for maintaining a separate team or sport for female students or female participants.\u00a0\u00a0\u00a0\u00a0\u00a0If the commissioner of education (commissioner) determines that a public school or institution of higher education has refused to comply with the provisions of the bill, the commissioner shall notify the public school or institution of the noncompliance and allow the public school or institution a reasonable amount of time to comply. If the public school or institution is still not in compliance and has not made a good-faith attempt to comply, the commissioner is permitted to take appropriate remedial action within the commissioner's authority.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1083"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Civic, Military, & Veterans Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Bottoms",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Bottoms\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111132/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1083",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

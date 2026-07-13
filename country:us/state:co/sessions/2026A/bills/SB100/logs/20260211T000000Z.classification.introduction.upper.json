@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Introduced In Senate - Assigned to Health & Human Services",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [
+      {
+        "name": "Health & Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-100",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 100"
+}

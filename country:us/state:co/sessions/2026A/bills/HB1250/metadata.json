@@ -1,0 +1,96 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1250",
+  "title": "Procedures Related to Civil Asset Forfeiture",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Law",
+    "Courts & Judicial",
+    "Crimes, Corrections, & Enforcement"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill clarifies an existing requirement for the criminal conviction of an owner by requiring that one or more criminal charges must be brought as a prerequisite to any nuisance abatement or forfeiture proceeding.Existing law provides an exception to the conviction requirement that no criminal conviction is necessary if the plaintiff proves its case by clear and convincing evidence. The bill repeals this exception, while retaining other various exceptions that allow forfeiture actions to proceed against the interest of a claimant.The bill establishes a right to forfeiture defense counsel and creates a procedure for the appointment of forfeiture defense counsel in nuisance abatement and forfeiture proceedings. The bill creates a forfeiture counsel defense fund, in the care of the state court administrator, to pay for appointed forfeiture defense counsel who are authorized to represent persons against whom a nuisance abatement or forfeiture proceeding has been filed in connection with criminal charges. The bill transfers $1.1 million from the law enforcement community services grant program fund to the forfeiture counsel defense fund.The bill alters the disposition of property and proceeds ordered forfeited in a nuisance abatement or forfeiture action. Currently, forfeited property and proceeds are applied first toward restitution and cost recovery for a list of stakeholders, and 50% of the remainder is granted to the local governmental body with authority over the seizing agency, 25% of the remainder is granted to the local behavioral health administrative services organization, and 25% of the remainder is granted to the law enforcement community services grant program fund. The bill amends the disposition of the remainder so that 50% is granted to the local governmental body with authority over the seizing agency, 25% is granted to the forfeiture counsel defense fund, and 25% is granted to the law enforcement community services grant program fund.The bill appropriates $1.1 million to the judicial department from the forfeiture counsel defense fund.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1250"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Bacon",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. DeGraaf",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. DeGraaf\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112201/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1250",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

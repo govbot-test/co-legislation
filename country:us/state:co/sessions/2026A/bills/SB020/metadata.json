@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 020",
+  "title": "Child Care Provider Licensing & Quality",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children & Domestic Matters",
+    "Education & School Finance (Pre & K-12)"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires the department of early childhood (department) to make reasonable efforts to expand and standardize the use of a digital data platform as a centralized digital file system for certain child care provider information (digital provider file system). The digital provider file system must integrate the professional development information system currently administered by the department and must house records related to staff background checks and child care provider policy documents, consistent with applicable privacy protections.Current law permits the department to authorize or contract with a third party to investigate and inspect a facility applying for certain types of child care licenses. The bill requires the department, on or before July 1, 2026, to begin phasing out its reliance on third parties where feasible and to prioritize the use of department personnel to conduct the investigations and inspections instead. The department shall establish standardized training, protocols, and supervision for department personnel and authorized or contracted third parties.The bill permits the department to grant a provisional license for up to 9 months to a child care facility that has satisfied all state-level licensing standards pending resolution of a delay or dispute with a statutory or home rule city, town, city and county, or county where the facility is situated (local governing authority) that prevents compliance with applicable zoning and land use development regulations. A local governing authority that imposes requirements related to the inspection, permitting, licensing, or approval of a child care center or family child care home beyond the state-level licensing standards (local approval process) shall prioritize provisionally licensed child care facilities so that the local approval process concludes within 9 months, and limit, or, in certain cases, provide exemptions from, associated fees.The bill creates the child care licensure and quality task force (task force) to study and report on recommendations for a streamlined and easy-to-use child care licensure and quality system in the state (study). The task force shall report on its findings and recommendations before January 1, 2027, to the education committees of the house of representatives and the senate, the governor, and the department. The performance of the study is dependent upon the task force's receipt of sufficient gifts, grants, and donations.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb20"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Education",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Ball",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Ball\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Bright",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" S. Bright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Sirota",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Sirota\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/b29d5d7ec45ea3f71b19a92dc0c67b42",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/4ac5624e6dc839d3f59c26f6e94d8595",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-020",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

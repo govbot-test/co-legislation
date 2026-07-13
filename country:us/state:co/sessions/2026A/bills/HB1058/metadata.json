@@ -1,0 +1,109 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1058",
+  "title": "Protections for Minors Featured in Digital Content",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business & Economic Development",
+    "Children & Domestic Matters",
+    "Labor & Employment",
+    "Telecommunications & Information Technology"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates new requirements and civil remedies beginning June 1, 2027, related to minors who are featured in compensated content on online hosting platforms (online content).A minor is considered to be engaged in content creation work if, over a 12-month period, the following 3 criteria are met:At least 30% of a content creator's online content produced within a 30-day period includes the minor's likeness, name, or photograph;The number of views of the online content meets the online hosting platform's compensation threshold or the content creator receives $0.10 or more per view; andThe content creator receives at least $15,000 in actual compensation from the online content.Content creators whose online content features a minor engaged in content creation work must maintain specific records, including:Proof of the minor's age;The total compensation generated; andThe total number of minutes the minor was featured in posts featuring online content.A content creator shall compensate a minor engaged in content creation work by setting aside a portion of the gross earnings into a trust account for the minor until the minor reaches the age of majority or is declared emancipated.An adult who was featured as a uniquely identifiable minor in a content creator's post featuring online content on or after the bill's effective date may request that the creator delete the post or remove the uniquely identifiable information. The content creator must comply with the request within 72 hours. If the content creator fails to comply after 30 days, the individual may sue for various types of relief, and the online hosting platform must review and take reasonable steps to remove the content unless certain exceptions apply.The bill prohibits a person from financially benefiting from knowingly producing or distributing online content of a minor with the intent to sexually gratify or elicit a sexual response in the viewer. Exceptions apply for law enforcement, reporting unlawful activity, legal proceedings, and certain actions engaged in by online hosting platforms. Online hosting platforms are required to develop and implement a risk-based strategy to help mitigate risks related to the monetization of the intentional sexualization of known minors.A civil action may be filed on behalf of a minor for damages, including actual damages, punitive damages, and attorney fees, if a content creator fails to comply with specified provisions of the bill.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1058"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Lukens",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lukens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Slaugh",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Slaugh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Ball",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Ball\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/0bcc5cc9a022ec311a5dd5b88590baa8",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/d94f6623507ce1d0782305a11cf40e87",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1058",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

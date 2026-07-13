@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 074",
+  "title": "Clarify Excessive Public Construction Bond Claim Penalty",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Fiscal Policy & Taxes"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Currently, a contractor on a private construction project has a statutory right to secure payment with a general mechanic's lien. However, if the contractor knowingly files on the lien for an excessive amount, the contractor forfeits all rights only to the lien and is liable to the person against whom the lien was filed for costs and attorney fees. A contractor on a public construction project has a similar right to secure payment by filing a verified statement of claim (VSOC), which requires the project owner to withhold funds sufficient to pay the claim, usually in the form of a bond. The bill clarifies that a public construction contractor who knowingly files a VSOC or asserts a bond claim for an excessive amount forfeits all rights only pursuant to the laws for public construction project bonds and liens to recover the amount claimed. Thus, the bill aligns, for both a private and public construction contractor, the penalty for claiming an excessive amount on a lien or bond to the loss of all statutory rights related to that lien or bond, respectively. (Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb74"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Judiciary",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Carson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Camacho",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Camacho\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111039/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-28",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-074",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

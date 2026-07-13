@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1255",
+  "title": "Social Media Duty to Report & Search Warrants",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children & Domestic Matters"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires an operator of a social media platform (operator) to ensure that its social media platform provides a streamlined process to allow law enforcement agencies to contact the social media platform. The process must be available to law enforcement agencies at all times and make available a staffed hotline for the purposes of:Receiving and responding to questions about search warrants;Acknowledging the receipt of a search warrant within 8 hours after receipt; andProviding status updates on search warrant compliance to a requesting law enforcement agency.An operator must comply with a search warrant within 24 hours if certain conditions apply. A court may reasonably extend this time if the court makes a written finding that the operator or social media platform has shown good cause for the extension and that an extension would not cause an adverse result. The bill sets forth enforcement options for the attorney general regarding operators' compliance with search warrants.The bill also requires an operator to report to a social media platform user's (user's) local law enforcement agency within 24 hours if the operator's social media platform receives a flag or other notice that the user has posted content that:Threatens imminent and specific harm to themself or another individual;Expresses an intention to commit an imminent and specific crime under Colorado law; orAttempts to entice an individual to commit an imminent and specific crime under Colorado law.A violation of the reporting requirement is a violation of the \"Colorado Consumer Protection Act\".In current law, \"social media platform\" is defined as an internet-based service, website, or application that satisfies certain criteria, including having more than 100,000 active users in Colorado. The bill removes this criterion.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1255"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "T. Story",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Story\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Cutter",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Cutter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112208/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1255",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

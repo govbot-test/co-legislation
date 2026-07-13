@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1272",
+  "title": "Extreme Temperatures Worker Protections",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Labor & Employment"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires the department of labor and employment (CDLE), on or before January 1, 2027, to begin collecting data concerning temperature-related injury or illness or temperature-related emergencies at worksites in the state, including by requiring the division of labor standards and statistics (division) to:Develop a platform on CDLE's website where users can provide information about occurrences of temperature-related injury or illness or temperature-related emergencies;Obtain from the department of public health and environment (CDPHE) data that CDPHE has collected through its syndromic surveillance program regarding occurrences of heat-related injury or illness or heat-related emergencies; andCollect similar data from the division of workers' compensation and the Center for Improving Value in Health Care.On or before January 1, 2028, the bill requires the division to develop a model temperature-related injury and illness prevention plan (TRIIPP) that thereafter must be made available on CDLE's website.Employers of workers who are exposed to extreme hot or cold temperatures at worksites are required to develop and submit a TRIIPP to the division on or before September 1, 2028, and the division is required to develop procedures regarding how often employers will be required to submit an updated TRIIPP and how the division will handle review of TRIIPPs.Lastly, the bill requires CDLE to develop training standards related to temperature safety and ensure that employers are providing proper training to workers who are affected by extreme temperatures.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1272"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Froelich",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Froelich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Velasco",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Velasco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Cutter",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Cutter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Weissman",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Weissman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112355/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1272",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

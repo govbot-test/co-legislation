@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1021",
+  "title": "Second Amendment Protection Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts & Judicial",
+    "Crimes, Corrections, & Enforcement"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill repeals various state laws related to firearms and other weapons. Specifically, the bill repeals provisions concerning:Unlawfully carrying a firearm at a polling location or drop box offense;The presumption that an individual engages in election-related intimidation if the individual carries a visible firearm, imitation firearm, or toy firearm while interacting with or observing specified election activities;Firearm industry standards of responsible conduct enacted in Senate Bill 23-168, enacted in 2023, and the bill restores the firearms product liability provisions that existed prior to the enactment of Senate Bill 23-168;Payment processing for retail sales of firearms;Designating as peace officers the following personnel of the firearms dealer division within the department of revenue: The director, deputy directors, agents in charge, criminal investigator supervisors, and criminal investigators;Including in a mandatory criminal protection order a requirement for a defendant to relinquish firearms and ammunition;The classification of a rapid-fire device as a dangerous weapon;Prohibitions on knowingly carrying a firearm in specified government buildings and licensed child care centers;Unlawfully carrying a concealed weapon;Unlawfully possessing explosive, incendiary, or other dangerous devices in certain legislative buildings;Unlawfully carrying a firearm at a licensed child care center; a public or private elementary, middle, junior high, high, or vocational school; or a public or private college or university;Requirements to store a firearm, including in a vehicle;The requirement for the department of public health and environment to conduct a firearms safe storage education campaign;Prohibitions on certain conduct involving an unserialized firearm, frame, or receiver;The requirement to conduct a background check on the transferee in a private firearm transfer;Setting the minimum age to buy a firearm at 21 years old;The 3-day waiting period for firearm sales;Certain prohibited activity involving semiautomatic firearms, including the prohibition on purchasing a firearm without having completed certain educational requirements, and the associated firearms training and safety course record system;Ammunition sales;Permitting local entities to prohibit carrying a concealed handgun in certain areas;Prohibiting the possession of certain ammunition magazines, and marking requirements on certain ammunition magazines manufactured in Colorado on or after July 1, 2013;The requirement to have a state permit to deal firearms in Colorado and the requirements for dealers and dealers' employees;Gun show regulations;Providing materials about gun violence prevention to parents with students in K-12 schools;The authority of the Colorado bureau of investigation to investigate particular illegal activity involving firearms statewide;The voluntary waiver of the right to purchase a firearm; andThe authority of a local government to enact an ordinance, regulation, or other law governing or prohibiting the sale, purchase, transfer, or possession of a firearm, ammunition, or firearm component or accessory.The bill repeals the office of gun violence prevention.As part of the repeals described above, the firearms training and safety course cash fund is repealed and the voluntary waiver of the right to purchase a firearm program, which is funded by gifts, grants, and donations, is repealed. The bill directs the state treasurer to return the money in the firearms training and safety course cash fund to the persons who paid fees into the fund and to return to the grantors and donors the balance of the gifts, grants, and donations made in support of the voluntary waiver of the right to purchase a firearm program.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1021"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "B. Bradley",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" B. Bradley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Brooks",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Brooks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/2d80cb3373f0c023e3de497a51e06bfe",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/577e8e2d7414d5ca3d29e7bd8cffc876",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1021",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

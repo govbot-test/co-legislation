@@ -1,0 +1,90 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1056",
+  "title": "Prescription Drug Benefit Information Transparency",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health Care & Health Insurance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the \"Prescription Drug Optimized Sourcing Transparency and Integrity Act\" to prohibit a pharmacy benefit manager (PBM) or a health-care consultant from knowingly making or disseminating false or misleading statements or claims to a self-insured employer or policyholder about the legality or safety of a lawful prescription drug optimized sourcing program established by a pharmacy stewardship program.Upon written request by a self-insured employer, a PBM or health-care consultant is required to provide certain cost information for each prescription drug dispensed under the health benefit plan.The prohibition and information-sharing provisions of the bill do not restrict or limit the rights of a self-insured employer to purchase prescription drugs through and contract for a lawful prescription drug optimized sourcing program. The bill also recognizes that a pharmacy stewardship program is an effective cost-containment tool and is authorized when implemented in compliance with federal law and with the bill.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1056"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "K. DeGraaf",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. DeGraaf\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/118307e34aeeb1848edf5237f575e69f",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/0500b47769f53bf1f31150dfdc98a5ec",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1056",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

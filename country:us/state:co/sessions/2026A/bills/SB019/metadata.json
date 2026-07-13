@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 019",
+  "title": "Early Childhood Local System Consolidation",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children & Domestic Matters",
+    "Education & School Finance (Pre & K-12)"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law establishes a statewide integrated system of early childhood councils (councils) to improve and sustain the availability, accessibility, capacity, and quality of early childhood services. The bill expands the powers, functions, and responsibilities of a council in implementing a comprehensive system of early childhood and family support programs and services (programs and services) within the council's community.Current law establishes local coordinating organizations (LCOs) to increase access to, coordinate, and allocate funding for programs and services through work with the families, program and service providers, and local governments in a community and with the department of early childhood (department). Effective July 1, 2026, the bill repeals provisions authorizing the creation and operation of LCOs and transfers the LCO rights, powers, duties, functions, and obligations concerning supporting access to and delivery of programs and services to the councils.Current law requires a council to develop a strategic plan based upon an assessment of the early childhood needs in the council's designated service area (strategic plan). The bill requires a strategic plan to address specified issues, including:Assisting families in applying for programs and services;Coordinating outreach efforts with other councils, county departments of human or social services, school districts, local and regional service providers, and tribal agencies;Recruiting and coordinating providers to form a mixed delivery system that promotes family choice; andSupporting increased recruitment and retention of individuals in the early care and education workforce.The bill requires a council, in partnership with the department, to create, review, and revise a scope of work that reflects the strategic plan and accurately represents the programs and services within the community, meets families' needs, and aligns with available appropriations and the department's statewide strategic planning process. Associated accountability metrics must also be reviewed and revised to align with the scope of work. The bill specifies a council's new obligations regarding monitoring and working to increase the availability of high-quality programs and services, supporting access to early childhood workforce training and other recruitment and retention efforts, data sharing agreements, integrated outreach for holistic family services, and auditing.The bill establishes requirements for an agreement that sets forth the respective duties of a council and the department in implementing a strategic plan (agreement). The bill specifies the process for review and approval of and revisions to a scope of work or strategic plan and identifies the department's responsibilities for the coordinated distribution of public funding for programs and services; council training and technical assistance; dissemination of information about successful council strategies and innovations; and standards for communication, resolution of disputes, and contracting protocols. The bill modifies the process for the department to approve or facilitate a waiver of the rules for the implementation of council projects.The bill requires the department to implement an annual performance review process for each council and solicit community feedback about a council's performance at intervals ranging from 3 to 5 years. If the department determines that a council is not meeting the requirements of the scope of work and accountability metrics contained in the agreement, the department may require the council to implement a performance improvement plan. If a council fails to make substantial progress toward addressing the issues raised in the performance improvement plan, the department may terminate the council's agreement.The bill makes substantive and technical conforming amendments to address the reallocation of responsibilities and functions from LCOs to councils, including administrative and funding provisions related to the Colorado child care assistance program and the Colorado universal preschool program.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb19"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Education",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Ball",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Ball\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Bright",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" S. Bright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Sirota",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Sirota\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/fa2e5baab42bdfe3f30f2ac4cf8befc0",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/c7cf7f0c9d24722321e604f2d7e557c2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-019",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

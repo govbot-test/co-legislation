@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1144",
+  "title": "Prohibit Three-Dimensional Printing Firearms & Components",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crimes, Corrections, & Enforcement"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill defines 3-dimensional printing to mean additive and subtractive manufacturing. The bill prohibits each of the following:Manufacturing or producing a firearm, unfinished frame or receiver, large-capacity magazine, or rapid-fire device (firearm or firearm component) by 3-dimensional printing. The prohibition does not apply to a federally licensed firearm manufacturer.Possessing, in circumstances that indicate intent to manufacture a firearm or firearm component in violation of state law or intent to distribute, digital instructions that may be used to program a 3-dimensional printer or a computer numerical control (CNC) milling machine to manufacture or produce a firearm or firearm component. The prohibition does not apply to a federally licensed firearm manufacturer who possesses digital instructions in circumstances that indicate intent to manufacture a firearm or firearm component.Distributing digital instructions that may be used to program a 3-dimensional printer or CNC milling machine to manufacture or produce a firearm or firearm component.\u00a0\u00a0\u00a0\u00a0\u00a0The bill does not prohibit possession of digital instructions in circumstances that indicate intent to distribute to, or distributing digital instructions to, a federally licensed firearm manufacturer.\u00a0\u00a0\u00a0\u00a0\u00a0A violation of any of the prohibitions in the bill is a class 1 misdemeanor; except that a second or subsequent offense is a class 5 felony.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1144"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "A. Boesenecker",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Boesenecker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Gilchrist",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Gilchrist\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Sullivan",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" T. Sullivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Wallace",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Wallace\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111311/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1144",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

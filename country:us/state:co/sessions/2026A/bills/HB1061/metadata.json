@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1061",
+  "title": "Community Integration Housing Tax Credits",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Fiscal Policy & Taxes",
+    "Housing"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates a targeted allocation priority within Colorado's administration of federal and state affordable housing tax credits to support development of integrated, community-based housing for persons with intellectual and developmental disabilities. The bill requires a set aside of at least 10% of the state's annual allocation of competitive federal low-income housing tax credits (federal tax credits) for \"community integration housing\". To qualify, a development must comply with federal tax credit requirements, meet federal home- and community-based services settings standards, reserve at least 20% of its units for persons with intellectual and developmental disabilities, and partner with a community-centered board or certified case-management agency. The bill authorizes the Colorado housing and finance authority (authority) to reallocate unused credits from the set aside at the end of a calendar year for allocation to any eligible project.The bill amends the state affordable housing tax credit (state tax credit) to require the authority to provide priority scoring or preference to qualified developments that have received a federal tax credit as a qualified community integration housing development and that continue to meet all requirements for community integration housing. The requirement for priority scoring or preference does not waive or otherwise limit the authority's ability to enforce all applicable eligibility requirements or to determine the amount of the state tax credit to be allocated to any qualified development.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1061"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Housing & Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Brooks",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Brooks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/67edc05a38686870f2636d02c45db828",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f9ffd8d0bf03b735b77baa1dd33dafa2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1061",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

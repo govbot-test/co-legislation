@@ -1,0 +1,92 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1053",
+  "title": "Motor Vehicle Regulation Administration",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Local Government",
+    "State Government",
+    "Transportation & Motor Vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under current law, an owner of a vehicle that pays specific ownership tax, except intrastate commercial carriers, have their license plates retired and are reissued new plates when the vehicle's ownership is transferred. The bill repeals this requirement and authorizes the owner to transfer the plates to a new motor vehicle.Current law provides for an electronic vehicle registration and titling system (electronic system). The bill requires the department of revenue (department) to develop an application programming interface for this electronic system. The department must provide the application programming interface to its authorized agents. An authorized agent may use this interface or use the agent's own interface system. The department may adopt rules governing the authorized agent's use of such an interface with the electronic system.The bill requires the department to develop, implement, and maintain a comprehensive contingency plan to ensure continuity of operations and the protection of critical services in the event of a disruption in vehicle licensing operations. Standards are set for the contingency plan. The governor's office of information technology must provide the appropriate network and equipment support to the department.Current law provides for the keep Colorado wild pass, which allows people to obtain a Colorado parks pass for a motor vehicle for a reduced fee when registering the motor vehicle. The bill requires the authorized agent of the department to retain 3.33% of the fee.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1053"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Finance",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "T. Mauro",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Mauro\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/434857fe16cd06f005811fc19b3846bf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/ad73d7daebb467e8b76832198922918c",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1053",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1113",
+  "title": "Modifications to Elections",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections & Redistricting"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill modifies the \"Uniform Election Code of 1992\" (code) and the \"Colorado Open Records Act\" as follows:Regarding elections generally, includes a division of youth corrections identification card or correspondence from a county sheriff indicating that an elector is confined in jail or detention in the definition of \"identification\" for purposes of the code; repeals the definition of \"political party district\"; modifies the definition of video security surveillance recording; repeals an obsolete provision related to past district elections; and requires each county clerk and recorder (clerk) to set operational hours for the clerk's office;Regarding the qualification and registration of electors, requires and specifies the information institutions of higher education must provide to students by email, on the 15th day and final day before an election, or posting on campus concerning voting, voter eligibility, and registration; requires the clerk, rather than an election judge, to provide an affidavit to an elector to correct an error in the elector's affiliation recorded in the statewide database; modifies the language concerning preregistration of a high school student; specifies that the principal of a public high school or their designee who assists in preregistration and registration to vote are high school liaisons, rather than deputy registrars, and eliminates certain filing requirements; and makes the secretary of state (secretary), rather than the clerk, responsible for cancelling certain registrations pursuant to existing law;Regarding presidential electors, specifies that if a presidential or vice-presidential candidate dies or withdraws as a candidate after accepting the nomination of a political party but prior to the meeting of presidential electors, an elector's vote for the presidential candidate or vice-presidential candidate refers to the successor candidate nominated by the political party;Regarding congressional vacancy elections, modifies notice, preparation, and conduct of elections; requires elections to be concurrent with a primary or general election if the vacancy occurs between 150 and 90 days of such election; requires elections to be conducted according to provisions for general elections; and specifies the arrangement of names on the ballot;Regarding access to the ballot by candidates, clarifies that no person is eligible to be a candidate for more than one office only if both offices are to be voted on in the same election; modifies the timeline for nomination of minor political party candidates; and eliminates the requirement that a candidate file a written acceptance of a nomination by mail, fax, or hand delivery;Regarding notice and preparation of elections, clarifies that a voter service and polling center (VSPC) that experiences a shortage of supplies, including ballots, shall not close and may be required to remain open longer on election day; specifies that, in addition to existing designation by sign requirements, a VSPC on the campus of an institution of higher education must be identified and described in signs conspicuously posted at the student center and in an email sent to all enrolled students; and allows the clerk of any county with 1,000 or more active electors, upon consultation with the board of county commissioners, to adopt an electronic or electromechanical voting system;Regarding election judges, changes the age eligibility requirements for a student election judge from 16 to 15 and expands the methods for notice and acceptance of an election judge appointment;Regarding the conduct of elections, repeals the requirement for an election judge to proclaim the polls are open or will be closed in 30 minutes on election day; modifies the 2-hour period that eligible electors are entitled to be absent from work to vote from only on election day to any day when VSPCs are open; allows an elector to take printed or written materials of their choice into a VSPC as a resource for voting; creates new reporting requirements for counties with one or more VSPCs experiencing a wait time in excess of one hour; creates a requirement for a public hearing regarding such VSPCs to be conducted by the secretary in coordination with the reporting clerk; recognizes other significant issues, in addition to a software or hardware malfunction, that may make counting ballots with electronic vote-tabulating equipment impracticable; and creates a requirement for a reporting county to include certain additional information in its next proposed election plan;Regarding mail ballot elections, modifies mail ballot delivery times; requires a minimum number of hours for in-person voting at a county jail or detention center based on the number of beds available; modifies the timeline for submission and approval of proposed election plans; allows the secretary to request modification of an election plan and adds requirements for the submission of such a modified plan; changes the enrolled-student threshold from 2,000 to 1,000 for purposes of requiring a drop box on campus and requires a drop box on the campus of private institutions of higher education in addition to state institutions; and requires a clerk who fails to send a signature verification form within the 2-day deadline to send the signature verification by overnight mail or hand delivery;Regarding challenges to registration, repeals the provision for any registered elector to challenge the registration of another person for illegal or fraudulent registration;Regarding election returns, clarifies the ministerial nature of a canvass board's duty to certify the abstract of votes cast upon confirmation that the ballots have been reconciled;Regarding vacancies in office, requires the governor to appoint a person who is a member of the same political party as the former United States senator to fill a vacancy in that office; and clarifies that a person appointed to fill a partisan office vacancy serves only until the next general election, at which time the remainder of the vacant term, if any, is filled by election; andRegarding election offenses, clarifies the offense of voter interference occurs when a person interferes with a voter within 100 feet of a polling or drop-off location or drop box; clarifies that offenses involving a false slate of presidential electors extends to lists of electors voting and votes for candidates for president and vice president of the United States, or their successors.\u00a0\u00a0\u00a0\u00a0\u00a0The bill amends the \"Colorado Open Records Act\" to make language gender neutral and specify that a designated election official is not required to cover or redact from ballot markings or messages voluntarily made by an elector.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1113"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Civic, Military, & Veterans Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "E. Sirota",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Sirota\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Willford",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Willford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Wallace",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Wallace\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111225/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1113",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

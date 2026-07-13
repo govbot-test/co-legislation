@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1107",
+  "title": "Health Care in Regulated Facilities",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health Care & Health Insurance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Sections 1 and 4 of the bill establish information disclosure requirements for a licensed facility that advertises, markets, promotes, or offers services, including memory care services, for individuals with dementia and dementia-related conditions, including Alzheimer's disease. The bill refers to such a facility or agency as a \"dementia care facility\".\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires the department of public health and environment (department), in consultation with the state long-term care ombudsman or the ombudsman's designee, to create a dementia care services information form (form) by January 1, 2027. The form must include fields for the disclosure of certain information regarding a dementia care facility's dementia care services, including the facility's:Dementia training requirements for staff that are in addition to statutory training requirements;Guidelines for using restraints; andSecurity features and procedures for addressing the needs of residents with dementia.\u00a0\u00a0\u00a0\u00a0\u00a0The bill authorizes the department to regularly review the form and update it as needed. After creating or subsequently updating the form, the department must provide the form to every dementia care facility in the state.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires a dementia care facility to complete the form with responsive, accurate, and complete information regarding the facility's dementia care services. Beginning July 1, 2027, every dementia care facility must:Provide its completed form to every individual who contacts the facility seeking dementia care services;Review and update the form when a change in information occurs to ensure that the facility's information provided on the form is current, complete, and correct;Publish the facility's current version of the completed form on the facility's website; andAt all times, maintain on the facility's premises and have available for inspection a copy of the facility's completed form with the facility's most current information and produce the form upon request by the department during a survey or inspection of the facility.\u00a0\u00a0\u00a0\u00a0\u00a0The bill establishes a facility's violation of the last itemized requirements regarding the form as a deceptive trade practice under the \"Colorado Consumer Protection Act\".\u00a0\u00a0\u00a0\u00a0\u00a0Currently, the department has the power to establish and maintain by rule a medication administration program in certain licensed or regulated facilities. Current law requires the department of human services, the behavioral health administration, the department of health care policy and financing, and the department of corrections to develop and conduct a medication administration program in certain types of residential, assisted living, and correctional facilities.\u00a0\u00a0\u00a0\u00a0\u00a0 Sections 5 and 6 modify the definition of \"administration\" to include administration of medication specifically by injection and allow a licensed practical nurse (LPN) or a certified nurse aide (CNA) to administer medication by injection as part of a medication administration program if the LPN or CNA receives education and training on administering medication by injection.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires the department, in consultation with the state board of nursing, to establish by rule the education and training required for an LPN or a CNA to obtain the authorization created by the bill to administer medication by injection. A facility may not require that a registered nurse be on site as a prerequisite to an LPN or CNA administering medication by injection.\u00a0\u00a0\u00a0\u00a0\u00a0The bill also adds all facilities and agencies licensed and regulated by the department to the list of specified facilities that can have a medication administration program.\u00a0\u00a0\u00a0\u00a0\u00a0 Sections 2 and 3 modify the scope of practice for CNAs to include the administration of medication by injection as authorized under the bill.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1107"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Feret",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Feret\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Paschal",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Paschal\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111212/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1107",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

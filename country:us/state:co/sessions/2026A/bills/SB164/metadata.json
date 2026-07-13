@@ -1,0 +1,103 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 164",
+  "title": "Regulation of Lawful Tetrahydrocannabinol Beverages",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business & Economic Development",
+    "Liquor, Tobacco, & Marijuana"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill regulates the manufacture, distribution, sale, and consumption of lawful tetrahydrocannabinol (THC) beverages. A 'lawful THC beverage' is defined as a nonalcoholic beverage product that is infused with THC derived from a legal source of hemp that contains no more than 10 milligrams of total THC per serving.\u00a0\u00a0\u00a0\u00a0\u00a0The bill permits a person that is registered (registrant) with the department of public health and environment (CDPHE) as a hemp products manufacturer to manufacture lawful THC beverages if the registrant uses an approved source of hemp, complies with rules adopted by the CDPHE related to product labeling, production, and transportation, and sells the lawful THC beverages under certain circumstances.\u00a0\u00a0\u00a0\u00a0\u00a0A registrant that manufactures a lawful THC beverage shall only sell the lawful THC beverage to a wholesaler that is licensed by the state licensing authority in the department of revenue (DOR). The bill prohibits manufacturers from selling lawful THC beverages directly to a retail licensee or directly to a consumer.\u00a0\u00a0\u00a0\u00a0\u00a0The bill directs the CDPHE to adopt rules related to the labeling, packaging, and consumer notice requirements for lawful THC beverages on or before January 1, 2028. A manufacturer of a lawful THC beverage shall also adhere to the testing standards and requirements adopted by the CDPHE for hemp products.\u00a0\u00a0\u00a0\u00a0\u00a0A person licensed by the state licensing authority in the DOR (licensee) may sell a lawful THC beverage to a consumer if the licensee obtains a lawful THC beverage permit. A licensee must apply to the state licensing authority for the lawful THC beverage permit, and, if the lawful THC beverage permit is granted, the licensee may sell a lawful THC beverage under the rules of their existing license and additional rules adopted by the DOR specific to the sale of a lawful THC beverage. A licensee shall not:Sell a lawful THC beverage to an individual under 21 years old;Sell a lawful THC beverage to an individual who is visibly intoxicated;Allow a lawful THC beverage to be removed from the premises if the beverage is sold for on-site consumption;Permit the use of marijuana or marijuana products on the premises; orMix a lawful THC beverage and an alcohol beverage in the same container.\u00a0\u00a0\u00a0\u00a0\u00a0The bill prohibits the manufacture or sale of lawful THC beverages that are made from synthetic or semi-synthetic cannabinoids.\u00a0\u00a0\u00a0\u00a0\u00a0The bill directs the DOR, in consultation with the CDPHE, to adopt rules related to the sale, transportation, inventory, recall, and seizure of lawful THC beverages.\u00a0\u00a0\u00a0\u00a0\u00a0The bill permits a local government to prohibit the sale of lawful THC beverages within the local government's jurisdiction.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb164"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Finance",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Gonzales",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Gonzales\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Martinez",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Woodrow",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Woodrow\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114814/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-164",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

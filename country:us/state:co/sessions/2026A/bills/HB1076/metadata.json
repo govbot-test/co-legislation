@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1076",
+  "title": "Transportation Statutory Clean-Up",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Government",
+    "Transportation & Motor Vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill makes the following changes to statutes concerning the department of transportation (department):Changes the name of the freight mobility and safety branch within the transportation development division of the department to the office of freight mobility and safety ( sections 1, 3, 5,  and  9 of the bill);Clarifies that each state agency is responsible for paying its proportionate part of the cost of maintenance and operation of fueling infrastructure to support its motor vehicle fleet ( section 2 );Clarifies that a driver of a commercial vehicle may not enter the farthest left-hand general purpose lane when driving specified sections of interstate 70 ( section 4 );Clarifies which transportation commission district represents the city and county of Broomfield ( section 6 );Relocates a provision concerning the chief engineer from the statutory section governing the highway maintenance division to the statutory section governing the chief engineer ( sections 7  and  8 );Repeals a statutory section concerning a study prepared by legislative council staff on the transportation commission districts, which has been completed ( section 10 );Redirects revenue from a permitting fee imposed by the department on companies authorized to install and remove tire chains, as established in Senate Bill 25-069, from the highway users tax fund to the state highway fund ( section 11 );Repeals outdated and obsolete provisions concerning the highway users tax fund ( sections 12  and  13 );Defines \"toll evasion\" for purposes of civil penalties, enforcement, and administration of the use of a toll highway ( section 14 );Establishes a 4-year term limit for members of the nonattainment area air pollution mitigation enterprise board who are appointed by the governor and clarifies when the initial term for each appointment ends ( section 15 ); andRepeals a requirement that the transportation commission approve transfers of money directed by the division of aeronautics from the aviation account of the transportation infrastructure revolving fund to the aviation fund, which amounts must not exceed transfers previously approved by the Colorado aeronautical board ( section 16 ).(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1076"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Housing & Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Lindsay",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Paschal",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Paschal\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111143/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1076",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

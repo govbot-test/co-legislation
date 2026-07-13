@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Introduced In Senate - Assigned to Education",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [
+      {
+        "name": "Education",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-125",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 125"
+}

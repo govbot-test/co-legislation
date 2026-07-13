@@ -1,0 +1,104 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1248",
+  "title": "Oversize Overweight Permitting",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Transportation & Motor Vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Beginning on July 1, 2026, the bill directs state-level permit fees and supplemental surcharges for oversize and overweight vehicles and longer vehicle combinations to the freight cash fund (fund), which is newly created in the office of freight mobility and safety (office) in the transportation development division of the department of transportation (department). The fund is appropriated for use by the office for the following main purposes:For funding freight-related projects; andTo support the office in functions related to freight projects, movement, and infrastructure, including the administrative costs of the office.In funding freight-related projects from the fund, the office is required to attempt to direct money in a manner that is proportional to the amount of freight routes and the impact of freight traffic in the affected community or region of the state.The office may also use money in the fund to create and maintain a centralized online permitting system for oversize permits, overweight permits, and other types of freight or transport permits issued by the department, the Colorado state patrol, or any local government. The centralized permitting system must allow a person to apply for and be issued all necessary state and local permits for a route in a single transaction and pay for all associated permit fees and surcharges for that route in a single transaction. By September 1, 2027, the office is required to conduct a feasibility study relating to the centralized permitting system and must report to the transportation legislation review committee during the 2027 legislative interim on the completed feasibility study and any progress toward implementing the centralized permitting system. The office is required to implement the centralized permitting system by July 1, 2029, either by creating a new online permitting system or by modifying an existing online permitting system.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1248"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Housing & Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "D. Johnson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" D. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Pelton",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" R. Pelton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112192/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1248",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1025",
+  "title": "Exempt Auctioneers Charitable Solicitation Requirements",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Financial Services & Commerce"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The \"Colorado Charitable Solicitations Act\" (act) defines a \"paid solicitor\" as a person that, for monetary compensation, performs a service in which contributions are solicited in Colorado for a charitable purpose or for the benefit of a charitable organization. Before soliciting contributions or otherwise acting as a paid solicitor, a person that wants to act as a paid solicitor must first do the following:Register with the secretary of state by submitting an application or annual renewal form, together with certain required information and disclosures about the applicant;File with the secretary of state evidence of having procured a bond in the amount of $15,000 issued by a licensed corporate surety or an alternative form of financial security such as a savings account, deposit, or certificate of deposit available in Colorado; andPay the required registration filing fee, as established by the secretary of state.Additionally, after registering, a paid solicitor is responsible for doing the following:Filing solicitation notices with the secretary of state in advance of commencing a solicitation campaign;If the paid solicitor has custody of monetary contributions, depositing the monetary contributions at a bank or other federally insured financial institution within 2 business days after receipt; andAt the conclusion of a solicitation campaign, or annually if the campaign is ongoing, providing to the charitable organization and filing with the secretary of state a financial report of the solicitation campaign.The bill excludes from the definition of \"paid solicitor\" an auctioneer who provides auctioneer services to a charitable organization. As a result, the auctioneer is exempted from the act's registration, bond, and other requirements of paid solicitors. The exemption applies regardless of whether the auctioneer is contracted or paid to provide their auctioneer services to the charitable organization or is volunteering their auctioneer services to the charitable organization without compensation. To be exempted from the act's requirements of paid solicitors, an auctioneer who provides auctioneer services to a charitable organization may not directly receive or handle monetary donations or charitable funding on behalf of the organization with which the auctioneer is contracted or volunteering.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1025"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Agriculture, Water & Natural Resources",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture, Water & Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Caldwell",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Caldwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Martinez",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Roberts",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Roberts\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/3adb7c2cff6edd8f704346b5a6ba76c5",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/b945f7cec860bd987a45ecd82bfd7403",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

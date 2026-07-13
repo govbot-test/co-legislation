@@ -1,0 +1,146 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 022",
+  "title": "Challenges Meeting 2030 Emissions Reduction Goals",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law requires certain entities to file a clean energy plan (plan) to achieve an 80% decrease of greenhouse gas emissions caused by the entity's electricity sales in Colorado by 2030 relative to 2005 levels. Other entities may voluntarily choose to file a plan.Under current law, no later than March 31, 2026, an entity required to submit a plan may inform the division of administration (division) in the department of public health and environment in writing of challenges the entity is encountering or expects to encounter in achieving the 80% reduction of greenhouse gas emissions by 2030. The bill clarifies that an entity that has voluntarily submitted a plan may also inform the division of challenges the entity is encountering or expects to encounter in achieving the 80% reduction of greenhouse gas emissions by 2030. The bill also extends the deadline by which an entity must inform the division of challenges from March 31, 2026, to May 31, 2026.A cooperative electric association (association) exempted from regulation by the public utilities commission or a municipal utility (utility) that informs the division of challenges the association or utility is encountering or expects to encounter has until December 31, 2026, to submit to the division an updated plan with the earliest year, not later than 2040, that the association or utility expects to be able to achieve the 80% decrease of greenhouse gas emissions, relative to 2005 levels, without impairing the association's or utility's ability to maintain applicable electric reliability standards and without increasing the association's or utility's average annual electric rates greater than 1.5%.The bill prohibits the air quality control commission and the division from undertaking any action that impairs the association's or utility's ability to maintain applicable electric reliability standards or that increases the association's or utility's average annual electric rates greater than 1.5%.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb22"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Transportation & Energy",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "C. Simpson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Simpson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Snyder",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Snyder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Caldwell",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Caldwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Paschal",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Paschal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Liston",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Liston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Zamora Wilson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Zamora Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Flanell",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Flanell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Keltie",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Keltie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/91d59ded54b38ea2f167c225deca5bf0",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/82e1e716ee40ee75c3a44d828ca47ce1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-022",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

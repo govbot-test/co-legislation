@@ -1,0 +1,87 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 071",
+  "title": "Use of Surveillance Technology by Law Enforcement",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crimes, Corrections, & Enforcement",
+    "Transportation & Motor Vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill establishes the \"Surveillance Accountability and Freedom Ensured (SAFE) Act\" (SAFE Act). On and after July 1, 2027, the SAFE Act requires a law enforcement agency to use surveillance technology only for lawful purposes directly related to public safety or for an active investigation.If a law enforcement agency uses surveillance technology to collect surveillance data, the law enforcement agency must comply with certain requirements related to the collection, storage, sharing, and destruction of the data.The law enforcement agency must ensure that:Facial recognition systems are only used after a warrant is obtained or in exigent circumstances when there is an imminent threat to public safety;Traffic cameras and automated license plate readers must only be used in public spaces and for specific enforcement purposes, such as traffic violations or identifying stolen vehicles; andDrone cameras are operated in compliance with federal aviation administration regulations.A law enforcement agency may store data collected by surveillance technology only for a specified amount of time depending on the type of technology used and how the data is collected or until an active investigation is concluded.A law enforcement agency shall not sell any data that is collected from its surveillance technologies, but the law enforcement agency may share the surveillance data with another law enforcement agency if the data is related to an active investigation and the other law enforcement agency agrees to comply with the requirements of the SAFE Act. A law enforcement agency must also ensure that surveillance data is permanently destroyed at the end of an applicable retention period or once the data is no longer needed for the matter. The bill creates civil penalties for violations of these provisions.The bill also requires a law enforcement agency to make certain information related to the law enforcement agency's compliance with the SAFE Act available to residents who request it at no cost to the resident.The bill requires the attorney general to conduct an audit of a law enforcement agency every 2 years and authorizes the attorney general to bring a civil action to enforce the SAFE Act.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb71"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Judiciary",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Zamora Wilson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Zamora Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111033/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-28",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-071",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

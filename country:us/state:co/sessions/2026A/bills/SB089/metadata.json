@@ -1,0 +1,103 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 089",
+  "title": "Recreate Wildfire Matters Interim Committee",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Natural Resources & Environment",
+    "State Government"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill recreates the wildfire matters review committee (interim committee) to succeed the wildfire matters review committee that repealed on September 1, 2025. The purpose of the interim committee is to review the implementation and effectiveness of state policies and resources for wildfire prevention and mitigation and to consider and recommend legislation or other policy changes to address all matters relating to wildfire prevention and mitigation including public safety, forest health, and cooperation with appropriate federal agencies and local governments.The interim committee consists of 10 members of the general assembly appointed as follows:5 members of the senate: 3 appointed by the president of the senate and 2 appointed by the minority leader of the senate; and5 members of the house of representatives: 3 appointed by the speaker of the house of representatives and 2 appointed by the minority leader of the house of representatives. The appointing authorities must make their original appointments to the interim committee no later than June 1, 2026. The term of appointment is 2 years. Incumbent members may be reappointed to the committee.The bill requires the interim committee to meet at least twice and allows the committee to take 2 field trips during every interim. The committee's duties are to:Review the implementation and effectiveness of state policies and resources for wildfire prevention and mitigation;Seek presentations and comments from individuals with professional expertise relating to wildfire prevention and mitigation and from representatives of relevant state agencies, local governments, private industry, and impacted communities; andRecommend legislation or other policy changes to address matters related to wildfire prevention and mitigation, including public safety, forest health, and cooperation with appropriate federal agencies and local governments.The bill allows the committee to recommend up to 5 bills during each interim.The committee is repealed, effective June 30, 2031.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb89"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Agriculture & Natural Resources",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture & Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Baisley",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Baisley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Cutter",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Cutter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Velasco",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Velasco\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111682/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-089",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

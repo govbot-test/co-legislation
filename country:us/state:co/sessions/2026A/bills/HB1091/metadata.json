@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1091",
+  "title": "Homeowner's Insurance Data Privacy Protections",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill provides personal data privacy protections for consumers relating to homeowner's insurance transactions.\u00a0\u00a0\u00a0\u00a0\u00a0The bill establishes standards for an insurer, insurance producer, or surplus line insurer (licensee), and the director, officer, or agent of the licensee, as well as a processor on behalf of a licensee, relating to the use of a consumer's personal data. A licensee or processor is prohibited from processing a consumer's personal data for purposes unrelated to a homeowner's insurance transaction, selling personal data, or engaging in targeted advertising or joint marketing of cobranded financial products without first obtaining the consumer's affirmative consent to any of those practices by exercising the right to opt in to those practices. Affiliates of licensees are subject to the same requirements as licensees with respect to processing personal data.\u00a0\u00a0\u00a0\u00a0\u00a0A consumer's personal data is defined in the bill, in part, as data that identifies, relates to, describes, or is capable of being associated with a particular consumer or household and includes, among other data, a consumer's name, unique personal identifier, account number, social security number, property records, products or services purchased, account logins, information regarding the consumer's interactions with an internet application, loss history information, credit report, insurance score, insurance policy number and expiration date, and racial and ethnic origin. Personal data does not include de-identified data and publicly available data.\u00a0\u00a0\u00a0\u00a0\u00a0A consumer has the right to confirm whether a licensee is processing the consumer's personal data, to access the consumer's personal data, and to request a correction or amendment of inaccurate or incomplete personal data or the deletion of personal data that is not needed for the homeowner's insurance transaction or for specific products or services for which the consumer has given their consent.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires a licensee to provide a consumer with a data privacy notice that includes the consumer's rights with respect to personal data, including the right to know whether and with whom personal data is being shared, the type and sources of personal data being collected, and the right to opt in to the sharing or sale of personal data. The bill prohibits a licensee from retaliating against a consumer with respect to the provision of homeowner's insurance and the terms of the insurance if the consumer does not consent to opt in to certain actions relating to their personal data.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires a licensee to:Enter into a contract with a processor to ensure that those processing personal data on behalf of the licensee are complying with the consumer data privacy protections; andHave a retention policy to ensure that a consumer's personal data is deleted when it is no longer necessary for the insurance or other products or services to which the consumer has consented.\u00a0\u00a0\u00a0\u00a0\u00a0Additionally, if a licensee makes an adverse underwriting decision relating to a consumer's request for homeowner's insurance, the licensee must provide the consumer with the specific reasons for the adverse decision and allow the consumer to review the specific data relating to the adverse decision and to correct the data if appropriate. The bill prohibits a licensee from denying insurance based solely on the loss history of the previous owner of the property, or based solely on personal data received from a processor whose primary source of information is licensees, without the licensee obtaining further information that supports the adverse decision.\u00a0\u00a0\u00a0\u00a0\u00a0A consumer aggrieved by a violation of the consumer data privacy protections in the bill may bring a civil action in court and may be awarded damages for each violation, including treble damages if proved by clear and convincing evidence that the person violating the bill engaged in bad faith conduct or intentionally violated the consumer data privacy protection provisions of the bill.\u00a0\u00a0\u00a0\u00a0\u00a0In addition, the bill makes a violation of the bill an unfair or deceptive act or practice in the business of insurance and gives the commissioner of insurance the power to enforce the bill through actions against licensees and the assessment of civil penalties.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1091"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Business Affairs & Labor",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business Affairs & Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Lieder",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Lieder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Ricks",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" N. Ricks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111185/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1091",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

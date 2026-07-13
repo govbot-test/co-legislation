@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1415",
+  "title": "Optional Residential Construction Contractor Certification",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Labor & Employment"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the residential construction contractor certification enterprise (enterprise) in the department of law (department). The enterprise is and operates as a government-owned business within the department for the business purposes of using fee revenue to administer a residential construction contractor certification program (program).\u00a0\u00a0\u00a0\u00a0\u00a0The enterprise may assess a residential construction contractor certification fee (fee) only on a residential construction contractor (contractor) that applies to the department for a residential construction certificate. The total annual fee revenue shall not exceed the cost of collecting the fee, administering the program, certifying contractors, and the direct and indirect costs of the enterprise. The amount of the fee must not exceed $100 annually. The department may adopt rules to implement the fee.\u00a0\u00a0\u00a0\u00a0\u00a0The enterprise shall transmit all net revenue collected from the fee to the state treasurer, who shall credit the net revenue to the contractor certification cash fund, which is created by the bill. Money in the fund is continuously appropriated to the enterprise to administer the program.\u00a0\u00a0\u00a0\u00a0\u00a0The enterprise shall administer the program in accordance with the following goals:Preventing or reducing damage to homeowners caused by contractors who abandon work before a project is complete;Encouraging contractors to comply with the terms of a construction agreement with the homeowner; andIncreasing the likelihood of a contractor performing competently by encouraging contractors to be certified by the enterprise in accordance with certain standards.\u00a0\u00a0\u00a0\u00a0\u00a0The enterprise is governed by a board of directors (board) composed of 13 individuals appointed by the attorney general or their designee. The board shall establish criteria to evaluate contractor applications for certification. To determine whether to issue a certification, the board shall consider specified criteria.\u00a0\u00a0\u00a0\u00a0\u00a0The board shall submit a report by July 1 of each year to the committees of reference of the general assembly to which the department is assigned pursuant to statute. The report must include certain information specified in the bill.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1415"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Business Affairs & Labor",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business Affairs & Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "N. Ricks",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" N. Ricks\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114361/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1415",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

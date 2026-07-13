@@ -1,0 +1,102 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1225",
+  "title": "Distributed Energy Resources Requirements",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under current law, each subscriber to a community solar garden receives a net metering credit to their electric bill. The community solar subscriber organization can choose between a fixed bill credit or a bill credit that is adjusted annually. The bill states that, on and after July 1, 2026, an annual adjustment mechanism must be applied to fixed bill credit rates to index the value of the fixed bill credit to changing rate trends.A public utility is permitted under current law to recover its prudently incurred costs to facilitate a timely interconnection of a distributed energy resource. The bill prohibits a public utility from requiring an interconnection customer to pay the costs associated with interconnection facilities and upgrades until 30 days before the public utility incurs the costs. The bill allows a public utility to require an interconnection customer to provide security for the estimated full costs of interconnection at the time of mutual execution of an interconnection agreement.The bill requires a public utility to:On or before July 1, 2026, develop a process to allow an interconnection customer to contract with a third party to perform an interconnection study;On or before September 1, 2026, develop a process to allow for the concurrent performance of all needed interconnection studies; andOn or before October 1, 2026, develop a process to allow an interconnection customer to contract with a third party to perform any upgrades needed for interconnection, including engineering, procurement, and construction upgrades.An interconnection study and upgrades that are performed by a contracted third party must meet applicable safety, reliability, labor, and technical standards.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1225"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Energy & Environment",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Energy & Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Smith",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Willford",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Willford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Ball",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Ball\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112144/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1225",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

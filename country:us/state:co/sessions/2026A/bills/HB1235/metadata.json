@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1235",
+  "title": "Updates to Medicaid",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Law",
+    "Health Care & Health Insurance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Beginning December 1, 2026, the bill requires each transportation broker that administers nonemergency medical transportation to medicaid members to submit certain information to the state department regarding transportation providers that the transportation broker contracts with. The department of health care policy and financing (state department) is required to include this information in its annual \"SMART Act\" presentation.The bill requires the medical services board to adopt rules to i mplement the federal community engagement requirements.Under current law, the state department is required to reimburse an opioid treatment program for administering medication-assisted treatment in a jail setting. The bill amends this requirement to require the state department to reimburse a licensed provider who is licensed and authorized to prescribe, dispense, compound, or administer medication-assisted treatment in a jail setting.The bill prohibits the state department from implementing a multiple procedure payment reduction, compound billing methodology, or substantially similar reimbursement policy for outpatient therapy services.Beginning January 1, 2027, the bill requires home- and community-based service agencies to submit their medical loss ratio to the state department. The state department is required to publish this medical loss ratio data on the state department's website on an annual basis.The bill repeals the state medical assistance and services advisory council.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1235"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Feret",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Feret\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Daugherty",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Daugherty\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112166/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1235",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

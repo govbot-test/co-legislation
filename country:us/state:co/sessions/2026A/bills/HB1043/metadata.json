@@ -1,0 +1,90 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1043",
+  "title": "Transportation Network Company Discriminatory Practices",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Transportation & Motor Vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under current law, the public utilities commission (commission) may assess a civil penalty in an amount up to $550 against a transportation network company (TNC) if the TNC had written notice of a TNC driver's violation of certain prohibitions against discriminating against riders and the TNC failed to reasonably address the violation. Additionally, a driver is required to report to the TNC any refusal by the driver to provide services to a rider, and the TNC is required to annually report all such refusals to the commission.The bill removes the condition that a TNC first have written notice of a driver's violation of the discriminatory prohibitions before a civil penalty may be assessed against the TNC and increases the maximum civil penalty to $5,000. The bill also requires:A TNC to provide monthly, rather than annual, reporting to the commission regarding drivers' refusal to provide services;A TNC to provide a mechanism to allow a consumer to report a driver's refusal to provide transport to the consumer directly on the TNC's digital platform, which information must be included in the TNC's monthly report; andThe commission to anonymize the TNCs' monthly reports and make the anonymized reports available to the public.The commission may assess a civil penalty in an amount up to $5,000 for a TNC's failure to comply with the reporting requirements.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1043"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Business Affairs & Labor",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business Affairs & Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "G. Rydin",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" G. Rydin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/6bf5ca24dcda89b4456f58b83c0ca425",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/95edaeb738949abc977a578598153875",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1043",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

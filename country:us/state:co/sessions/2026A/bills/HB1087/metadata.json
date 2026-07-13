@@ -1,0 +1,90 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1087",
+  "title": "Safeguard Minors from Sex-Altering Interventions",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children & Domestic Matters",
+    "Civil Law",
+    "Crimes, Corrections, & Enforcement",
+    "Health Care & Health Insurance",
+    "Professions & Occupations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill prohibits a person, health-care provider, or mental health professional from knowingly performing surgery on, or prescribing, administering, or providing hormones or puberty blockers to, a minor for the purpose of altering the minor's biological sex characteristics, or providing mental health therapy, counseling, or referrals that promote or affirm a minor's belief that the minor was born in the wrong body or that the minor needs medical intervention to address distress related to the minor's biological sex (prohibited interventions).\u00a0\u00a0\u00a0\u00a0\u00a0The bill prohibits the state from investigating or penalizing a minor's parent, or terminating the parent's rights, for refusing to consent to a prohibited intervention for the minor. A public school, health-care provider, or a governmental entity is prohibited from withholding information from a minor's parent regarding the minor's express desire to transition the minor's biological sex.\u00a0\u00a0\u00a0\u00a0\u00a0The bill prohibits state or federal funding, medicaid reimbursement, and health insurance coverage from being used to pay for a prohibited intervention. A person who, as a minor, was subjected to a prohibited intervention may bring a civil action within 20 years after attaining the age of 18 years against the person, health-care provider, or mental health professional who performed or provided the prohibited intervention.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires a regulator to revoke a health-care provider's or mental health professional's license for performing or providing a prohibited intervention. A person who knowingly performs or provides a prohibited intervention commits a class 5 felony, and the court is required to sentence the person to the maximum term of imprisonment and impose the maximum fine.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1087"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Bottoms",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Bottoms\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111152/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1087",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

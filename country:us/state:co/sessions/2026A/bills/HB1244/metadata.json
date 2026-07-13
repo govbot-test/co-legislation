@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1244",
+  "title": "Department of Public Health and Environment Nursing Home Penalty Fund",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law requires the department of public health and environment (CDPHE) to consider certain criteria as a basis for distributing grants from the nursing home penalty cash fund (fund). The bill strikes these criteria and instead requires CDPHE to distribute such grants in accordance with priorities and allowable uses identified by the centers for medicare and medicaid services within the federal department of health and human services (centers).Current law requires the nursing home innovations grant board (board) to make recommendations for the approval of grants from the fund. The bill requires such recommendations to be consistent with the processes for grant cycles of, and priorities and allowable uses identified by, the centers.Current law requires CDPHE and the department of health care policy and financing, with the board's assistance, to jointly submit an annual report to the governor and certain legislative committees of reference regarding the expenditure of money in the fund. The bill changes the due date of the report from October 1 to January 1.In current law, the term \"benefit residents of nursing facilities\" is defined to mean that a grant has a direct impact on the residents of nursing facilities or has an indirect impact on the residents through education of nursing facility staff. The bill amends this definition to include training, as well as education, of nursing facility staff.Current law states that a governmental entity may not apply for or receive a grant from the fund unless the entity is a facility that is owned or operated by a governmental agency and licensed as a nursing care facility. The bill removes this restriction.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1244"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Joseph",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Joseph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Slaugh",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Slaugh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Exum",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" T. Exum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Frizell",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Frizell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112190/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1244",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

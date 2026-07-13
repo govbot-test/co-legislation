@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1263",
+  "title": "Conversational Artificial Intelligence Service Operator Requirements",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business & Economic Development",
+    "Professions & Occupations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill defines a \"conversational artificial intelligence service\" as an artificial intelligence system that is accessible to the general public and that primarily simulates human conversation and interaction through textual, visual, or aural communications.Effective January 1, 2027, the bill creates requirements for a person that develops and makes available a conversational artificial intelligence service (operator).For a user of a conversational artificial intelligence service who is under 18 years old (minor user), an operator is:Required to provide certain disclosures;Prohibited from providing the minor user with points or rewards to encourage engagement with the conversational artificial intelligence service;Required to institute reasonable measures to prevent the conversational artificial intelligence service from producing sexually explicit content or statements that simulate emotional dependence; andRequired to provide tools for the minor user or a parent or guardian of the minor user to manage the minor user's privacy and account settings.The bill also requires an operator to provide consumer disclosures, implement a protocol for user prompts regarding suicidal ideation or self-harm, and annually report to the attorney general's office information regarding the protocol the operator is implementing. The bill prohibits an operator from indicating or implying that any output data provided by a conversational artificial intelligence service is provided by, endorsed by, or equivalent to services provided by certain licensed or certified professionals.A violation of the bill is a deceptive trade practice, enforceable by the attorney general under the \"Colorado Consumer Protection Act\". A person that violates the bill is subject to a civil penalty of $1,000 per violation.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1263"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Business Affairs & Labor",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business Affairs & Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Camacho",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Camacho\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Mabrey",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Mabrey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Carson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "I. Jodeh",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" I. Jodeh\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112332/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1263",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 066",
+  "title": "Regulation of Compounded Weight-Loss Medication",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Law",
+    "Public Health"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill establishes regulations for the sale, transfer, or distribution of compounded weight-loss medications, which are custom-made medications that, unlike mass-produced medications, are not subject to approval by the federal food and drug administration (FDA). A person may not sell, transfer, or distribute a compounded weight-loss medication unless the person confirms that the medication:Is made from bulk drug substances and drugs that are approved by the FDA when such approval is required;Was manufactured in compliance with FDA processes; Contains bulk drug substances that are pharmaceutical grade and are accompanied by a certificate of analysis containing information that is material to the safety and efficacy of the bulk drug substances;Was manufactured at a facility that is registered with the FDA and passed an FDA inspection within the previous 2 years; andIs verified for purity and accurate dosage.Labels for compounded weight-loss medications must list all active and inactive ingredients, the quantity of those ingredients, and the ingredients' country of origin. There must also be a warning on the label stating that the compounded weight-loss medication has not been FDA-approved, has inadequate evidence of safety or efficacy, and has known and unknown side effects. A person must also provide certain disclosures to a patient when prescribing compounded weight-loss medications.The bill prohibits the use of false or misleading claims, including unsubstantiated claims, when advertising or promoting compounded weight-loss medications.A person that sells, transfers, or distributes compounded weight-lost medication must keep records related to the compounded weight-loss medication for at least 2 years after the date of expiration of the compounded weight-loss medication and make those records available for inspection by the state board of pharmacy.The state board of pharmacy may issue fines of up to $1,000 per dose of compounded weight-loss medications that are sold or distributed in violation of the bill and may revoke a pharmacy or business license for violations.The attorney general has authority to enforce this bill as a deceptive trade practice under the \"Colorado Consumer Protection Act\".(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb66"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Health & Human Services",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Carson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "I. Jodeh",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" I. Jodeh\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111047/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-28",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-066",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

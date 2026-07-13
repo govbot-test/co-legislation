@@ -1,0 +1,125 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1001",
+  "title": "Housing Developments on Qualifying Properties",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Housing",
+    "Local Government"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires a subject jurisdiction, on or after December 31, 2027, to allow a residential development to be constructed on a qualifying property that does not contain an exempt parcel, subject to an administrative approval process. A qualifying property is real property that contains no more than 5 acres of land and is owned by:A nonprofit organization with a demonstrated history of providing affordable housing;A nonprofit organization that provides public transit;A nonprofit organization that has entered into an agreement with another nonprofit organization with a demonstrated history of providing affordable housing, provided that the agreement requires the nonprofit organization with a demonstrated history of providing affordable housing to develop a residential development on the property;A school district;A state college or university;A housing authority; orA local or regional transit district or a regional transportation authority serving one or more counties.If a subject jurisdiction requests, as part of an initial development application, that a nonprofit organization with a demonstrated history of providing affordable housing provide documentation that it meets required criteria, the nonprofit organization shall provide the documentation. A subject jurisdiction shall not:Disallow construction of a residential development on a qualifying property on the basis of height if the tallest structure in the residential development is no more than 3 stories or 45 feet tall;Disallow construction of a residential development on a qualifying property on the basis of height if the tallest structure in the residential development complies with the height-related standards for the zoning district in which the residential development will be built or any zoning district that is contiguous to the qualifying property on which the residential development will be built;Disallow construction of a residential development on a qualifying property based on the number of dwelling units that the residential development will contain, except in accordance with standards listed in the bill; orApply standards to a residential development on a qualifying property that are more restrictive than the standards the subject jurisdiction applies to similar housing constructed within the subject jurisdiction, including standards related to structure setbacks from property lines; lot coverage or open space; on-site parking requirements; numbers of bedrooms in a multifamily residential development; on-site landscaping, screening, and buffering requirements; or minimum dwelling units per acre.Provided that the uses are allowed conditionally or by right within the zoning district in which a qualifying property is located, a subject jurisdiction shall allow the following uses in a residential development on a qualifying property:Child care; andThe provision of recreational, social, or educational services provided by community organizations for use by the residents of the residential development and the surrounding community.The bill requires the owner of a qualifying property to notify the county assessor that a subject jurisdiction has allowed the construction of a residential development on a qualifying property within the county.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1001"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Housing & Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "A. Boesenecker",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Boesenecker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Mabrey",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Mabrey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Exum",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" T. Exum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Gonzales",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Gonzales\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/0889c8a0fd3b9cd5176f323e9c2c68fe",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/22ae800bf44562f7bc3c1f7a27c95fa4",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1001",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

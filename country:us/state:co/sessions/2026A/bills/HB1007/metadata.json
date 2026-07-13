@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1007",
+  "title": "Improve Customer Use Distributed Energy Resources",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill defines, and creates requirements for, portable-scale solar generation devices. In addition, the bill prohibits a provider of retail electric service or wholesale energy from, among other things, requiring a customer to obtain the provider's approval before installing or using a portable-scale solar generation device. The bill also prohibits a person from restricting, prohibiting, or imposing unreasonable conditions on the installation, use, or operation of a portable-scale solar generation device.Under current law, a utility that is subject to regulation by the public utilities commission (commission) must allow for customer ownership and use of a meter collar adapter through the utility's interconnection standards. The bill requires the commission, on or before December 31, 2026, to revise existing commission interconnection rules to explicitly require commission-regulated utilities to allow for customer ownership and use of meter collar adapters and to prohibit commission-regulated utilities from requiring a production meter as a condition of interconnection for a customer-sited distributed energy resource.The bill requires municipally owned utilities and cooperative electric associations to also allow for customer ownership and use of meter collar adapters and prohibits municipally owned utilities and cooperative electric associations from requiring a production meter as a condition of interconnection for a customer-sited distributed energy resource.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1007"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Energy & Environment",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Energy & Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Smith",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Stewart",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kipp",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kipp\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f967cf71eec0c463b14eacbcbed374f1",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/99ae720957622aa0beb245927761c7a2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1007",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

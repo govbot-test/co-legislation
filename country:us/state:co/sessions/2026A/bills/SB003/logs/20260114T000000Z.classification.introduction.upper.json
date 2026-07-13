@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Introduced In Senate - Assigned to Transportation & Energy",
+    "occurred_at": "2026-01-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [
+      {
+        "name": "Transportation & Energy",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-003",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 003"
+}

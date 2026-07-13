@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 058",
+  "title": "Modifications to Voter Registration",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections & Redistricting"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill modifies the automatic voter registration process by replacing the default registration or preregistration of a person who applies for a driver's license or identification card as an unaffiliated voter with a pending registration or preregistration status (pending status). Only a person who has affirmatively chosen to be an unaffiliated voter is registered or preregistered as such. The pending status applies to a potential voter whose intent to register or preregister or whose party affiliation is unknown or pending due to a need for further information or a failure to respond.A pending voter registration or preregistration record created through existing processes may be finalized if the person affirms their intent to register or preregister, provides their desired party affiliation or identification as unaffiliated, and self-affirms their qualifications in the form required for all registrations to be complete. If a notice seeking such information is returned as undeliverable within 20 days, the pending registration or preregistration is canceled. After 20 days, an undeliverable pending registration or preregistration is marked \"inactive\". If a notice is not returned at all, or a person's response is incomplete, their pending registration or preregistration is marked \"inactive\". If a person subsequently votes in an election, their \"inactive\" pending registration or preregistration becomes an active voter registration record.A county clerk and recorder may, in their discretion, provide notice of an \"inactive\" pending registration or preregistration record and further attempt to finalize the pending registration or preregistration.The bill also adds a requirement for county clerk and recorders to mark a voter's registration as \"inactive\" if they fail to vote in 2 consecutive general elections held in even-numbered years.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb58"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Zamora Wilson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Zamora Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111053/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-28",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-058",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

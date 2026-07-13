@@ -1,0 +1,110 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1148",
+  "title": "Protections for Youth on Social Media",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children & Domestic Matters"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under the bill, a \"covered business\" is defined as a sole proprietorship, a partnership, a limited liability company, a corporation, an association, or another legal entity, or an affiliate of such a legal entity, that:Conducts business in the state and generates a majority of its annual revenue from online services;Makes available online gaming services, products, or features that are reasonably likely to be accessed by a user who is a minor or who the covered business labels as a minor (covered minor);Collects users' personal data or has users' personal data collected on its behalf by a processor; andSolely or jointly with others determines the purposes and means of the processing of users' personal data.\u00a0\u00a0\u00a0\u00a0\u00a0The bill states that a covered business that processes the personal data of a covered minor owes a minimum duty of care to the covered minor. The bill also requires a covered business to:Configure default privacy settings provided to a covered minor to the highest level of privacy and to include certain default settings;Provide a prominent, accessible, and responsive tool to allow a covered minor to request that the covered minor's account be unpublished or deleted and, if the business receives such a request, to honor it within 15 days; andImmediately delete all data that relates to the determination of a user's age after it is determined that the user is a covered minor.\u00a0\u00a0\u00a0\u00a0\u00a0The bill prohibits a covered business from:Providing a covered minor with a single setting that makes all of the default privacy settings less protective at once;Requesting or prompting a covered minor to make their privacy settings less protective;Collecting, selling, sharing, or retaining personal data of a covered minor that is not necessary to provide an online gaming service, product, or feature with which the covered minor is actively and knowingly engaged;Using previously collected personal data of a covered minor for any purpose other than a purpose for which the personal data was collected;Permitting an individual to monitor the online activity of a covered minor or to track the location of the covered minor without providing a conspicuous signal to the covered minor when the covered minor is being monitored or tracked;Using the personal data of a covered minor to select, recommend, or prioritize media for the covered minor unless the covered minor makes certain requests or takes certain actions warranting such conduct by the covered business; orSending push notifications to a covered minor between 12 midnight and 6 a.m.\u00a0\u00a0\u00a0\u00a0\u00a0The bill imposes additional specific requirements and prohibitions for a covered business that collects users' personal data for the purpose of conducting age assurance.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires a covered business to ensure that the purchase price for an online gaming service, product, or feature that is made available through the covered business's online gaming service, product, or feature and that is reasonably likely to be accessed by a covered minor is listed in United States dollars at the point of sale.\u00a0\u00a0\u00a0\u00a0\u00a0A covered business shall impose and collect a fee on each add-on transaction that is conducted by a covered minor through the covered business's online gaming service, product, or feature. The amount of the fee is 5% of the amount of the transaction. Money collected as such fees is credited to the state public school fund.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires a social media platform to provide certain information on its website or mobile application concerning privacy policies and the use of algorithms. A social media platform is prohibited from using an algorithmic recommendation system to sell or otherwise distribute an illicit substance to a covered minor.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1148"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Willford",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Willford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Y. Zokaie",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" Y. Zokaie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Roberts",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Weissman",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Weissman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111319/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1148",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1102",
+  "title": "Funding for Colorado DRIVES Account",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Transportation & Motor Vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill makes the following changes to increase the amount of revenue that is directed to the Colorado DRIVES vehicle services account (DRIVES account) created in the highway users tax fund (HUTF):Beginning on July 1, 2027, increases revenue to the DRIVES account by redirecting $2 of each late vehicle registration fee from the HUTF to the DRIVES account and, consistent with current law, crediting the remainder of the fees to the HUTF ( sections 1, 2, and 4 of the bill); Increases revenue to the DRIVES account by authorizing the department of revenue, beginning on August 12, 2026, to charge a fee for an individual who fails to appear at a scheduled appointment for a driver's license, identification card, or related service or who cancels a scheduled appointment within the 24-hour period preceding the appointment time, and crediting this fee to the DRIVES account ( section 3 ); andBeginning on July 1, 2026, increases revenue to the DRIVES account by redirecting fees for special vehicle registrations for personalized license plates from the HUTF to the DRIVES account, except that, consistent with current law, $2 of each fee is remitted to the county general fund ( sections 1, 2, and 5 ).(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1102"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Finance",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Lindsay",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lindsay\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111183/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1102",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

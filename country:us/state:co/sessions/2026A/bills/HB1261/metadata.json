@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1261",
+  "title": "Motor Vehicle Consumer Protections",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Professions & Occupations",
+    "Transportation & Motor Vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under the \"Uniform Consumer Credit Code\", a creditor must give certain notices at least 20 days before repossessing collateral. For a vehicle that is required to be registered and that is a debtor's only vehicle (qualified motor vehicle), the bill extends this notice period to 60 days. A covered person with a qualified motor vehicle subject to a lien may cure the default during the 60 days by making the back payments plus delinquency or deferral charges.The bill prohibits disabling a qualified motor vehicle for the purpose of repossessing it.The bill creates a 48-day right to cure a default that led to a qualified motor vehicle being repossessed. The creditor must notify the covered person that owns the vehicle of the repossession within 48 hours and that the qualified motor vehicle is subject to disposition unless the debt is cured. Standards are set for the notice.If the covered person fails to cure the default within 48 days after the repossession, the secured party with the repossessed qualified motor vehicle may dispose of the qualified motor vehicle. If the covered person cures the default within 48 days after the repossession, the secured party shall return the qualified motor vehicle and restore the covered person's rights under the security agreement and the associated obligations under the consumer transaction or promissory note as though the default did not occur.The bill creates a right to return a qualified motor vehicle purchased from a dealer within 3 business days. For cases in which a consumer returns a motor vehicle, the bill creates certain requirements for the consumer and the dealer. Procedures are set for unwinding the financing agreement and any security agreement.A dealer must not charge or attempt to charge a consumer for unreasonable excess mileage or unreasonable cost of repairs or use a claim of excess mileage or repairs to delay compliance with the bill.A waiver of the right to return a motor vehicle is void as against public policy. In addition to any other remedies, a consumer harmed by a dealer's violation of the bill may recover actual damages, reasonable attorney fees and costs, and, for willful or knowing violations, treble damages.A violation of the bill is an unfair or deceptive trade practice under the \"Colorado Consumer Protection Act\".(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1261"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Business Affairs & Labor",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business Affairs & Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Mabrey",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Mabrey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Ricks",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" N. Ricks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Wallace",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Wallace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Weissman",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Weissman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112330/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1261",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

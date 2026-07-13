@@ -1,0 +1,118 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1110",
+  "title": "Vulnerable Adult Financial Exploitation Banking",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Financial Services & Commerce"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the \"Adults' Security and Safeguards from Exploitation in Transactions Act\" or the \"ASSET Act\". The bill requires or authorizes a qualified individual at a bank or credit union (financial institution) to do the following when the individual reasonably suspects that a vulnerable adult (eligible adult) is the victim of financial exploitation:The individual or institution must notify appropriate local law enforcement or the county agency handling adult protective services; andThe individual or institution may notify a third party previously designated by or reasonably associated with the eligible adult.\u00a0\u00a0\u00a0\u00a0\u00a0A financial institution or qualified individual may delay a disbursement from an account if the financial institution or qualified individual:Reasonably believes that the requested disbursement may result in financial exploitation of an eligible adult;Provides written notification of the delay and the reason for the delay to all parties authorized to transact business on the account within 2 business days after the requested disbursement; except that a party who is reasonably believed to have engaged in financial exploitation of the eligible adult need not be so notified; andContinues its internal review of the suspected or attempted financial exploitation.\u00a0\u00a0\u00a0\u00a0\u00a0The delay may continue until:The financial institution or qualified individual reasonably believes that the eligible adult is not subject to financial exploitation;Local law enforcement or the county agency handling adult protective services concludes its investigation; orA court orders that the delay be removed.\u00a0\u00a0\u00a0\u00a0\u00a0A financial institution or qualified individual must make a determination within 90 days after beginning the delay of a disbursement or, if waiting on the investigation of local law enforcement or a county agency handling adult protective services, within 180 days. The disbursement must be made or refused based on the conclusions of the investigation or the expiration of the time.\u00a0\u00a0\u00a0\u00a0\u00a0A financial institution and qualified individual are immune from liability arising from the actions or from failing to take the actions authorized in the bill if the act or failure to act was made in good faith.\u00a0\u00a0\u00a0\u00a0\u00a0A financial institution must provide access to or copies of records that are relevant to the suspected or attempted financial exploitation of an eligible adult to agencies charged with administering state adult protective services laws and to local law enforcement. The records made available to agencies are not public records, as defined in the \"Colorado Open Records Act\".(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1110"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Finance",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Camacho",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Camacho\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Jackson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Catlin",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Catlin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Danielson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Danielson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Simpson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Simpson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111221/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1110",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

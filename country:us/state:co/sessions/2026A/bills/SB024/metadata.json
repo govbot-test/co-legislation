@@ -1,0 +1,113 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 024",
+  "title": "State & Local Unmanned Aircraft Regulation",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Local Government",
+    "State Government",
+    "Transportation & Motor Vehicles"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the \"Unmanned Aircraft Systems Rights and Authorities Act\". The bill does the following:Authorizes an individual to operate an unmanned aircraft system (drone system) for recreational purposes in this state;Authorizes a person to operate a drone system for commercial purposes within this state if the business is lawful and the operation is in compliance with state and federal law;Prohibits the state or a political subdivision of the state (local government) from requiring the registration of an unmanned aircraft or a drone system beyond what may be required by state and federal law;Clarifies that the operation of a drone system in compliance with federal law does not, standing alone, give rise to legal liability;Establishes and limits the regulatory authority of the state; andEstablishes and limits the regulatory authority of a local government.In connection with establishing and limiting the regulatory authority of the state, the bill authorizes the state to regulate the use of drone systems owned by or used by the state or launching from or landing on state property. Exceptions to the state's regulatory authority are made for emergencies, maintenance, technical malfunctions, and law enforcement.In connection with establishing and limiting the regulatory authority of local governments, the bill prohibits a local government from regulating ownership, operation, design, manufacture, testing, maintenance, licensing, registration, certification, or equipment requirements or qualifications, training, or certification of a pilot, operator, or observer. A local government may regulate the use of drone systems owned by or used by the local government or launching from or landing on local government property. A local government's resolution or ordinance that is general in nature, such as a nuisance regulation, applies to a drone system.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb24"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Local Government & Housing",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Local Government & Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Liston",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Liston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Michaelson Jenet",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Michaelson Jenet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Soper",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Soper\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/750ccaebcd884d135692fb091199518a",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/d8a155a3e854e26db75ad4a7425f04c0",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-024",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

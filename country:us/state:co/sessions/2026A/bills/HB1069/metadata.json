@@ -1,0 +1,108 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1069",
+  "title": "Availability of Emergency Medical Services",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health Care & Health Insurance",
+    "Insurance",
+    "Labor & Employment"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill clarifies that \"emergency services\" includes transportation of an individual to an appropriate location other than a hospital or community integrated health-care service agency (agency).The use of telemedicine when an insured person has encountered an ambulance service or agency to prevent the need to transport the person to an emergency department is included in the definition of \"emergency services\", which services are required to be made available to insured persons 24 hours per day, 7 days per week.The bill defines \"first responder\" to include:A peace officer;A firefighter;A volunteer firefighter;An emergency medical service provider; orA mental health professional who responds in a professional capacity to a justifiable medical emergency.The bill requires the executive director of the department of public health and environment to adopt rules by June 1, 2027, authorizing an emergency medical service provider with a community paramedic endorsement who is employed by, volunteering for, or contracting with a licensed agency to provide for the inventory, compliance, and administration of, or to directly administer, medications, procedures, or diagnostic testing.Beginning January 1, 2027, the bill requires the department of health care policy and financing to reimburse the following entities under the \"Colorado Medical Assistance Act\":An ambulance service or an agency for transportation by an ambulance or other vehicle to a hospital or other destination as deemed appropriate by the ambulance service's or agency's medical director;An ambulance service or an agency for treatment on the scene of a medical emergency, which treatment does not result in transportation; andA qualified provider, an ambulance service, or an agency for evaluation by telemedicine of a person being treated by an ambulance service or an agency for the purpose of preventing the need to transport the person to a hospital.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1069"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Feret",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Feret\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Stewart",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Mullica",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Mullica\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/110986/download",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/e3ecf91ebfb82d87bd4a77f2b433e35c",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1069",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

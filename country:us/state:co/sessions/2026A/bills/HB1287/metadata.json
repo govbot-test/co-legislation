@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1287",
+  "title": "Sunset Division of Real Estate",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Professions & Occupations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Sunset Process - House Transportation, Housing, and Local Government Committee. The bill implements the recommendations of the department of regulatory agencies in its sunset review and report concerning certain regulatory functions of the division of real estate (division), including the real estate commission (commission), the registration of subdivision developers, and requirements for home warranty service contracts. Specifically: Sections 1 through 5 of the bill continue the division, including the commission and subdivision developers, for 11 years, until 2037, and remove home warranty service contracts from the sunset schedule; Section 6 authorizes the commission to deny a license to an applicant who has committed any of certain offenses; Section 7 authorizes the commission to order a licensee who commits any of certain offenses to pay restitution. Section 7 also extends the time that must elapse before the commission may consider an application for licensure from a person whose license was revoked from one year to 2 years. Section 7 also updates gendered language to gender-neutral language. Sections 7, 13, 14, and 21 allow the commission to communicate with licensees via electronic mail for certain purposes; Section 8 authorizes the commission to inactivate the license of a licensee who fails to comply with continuing education requirements. Section 8 also allows the division to charge a fee to each provider that submits a continuing education course. Section 9 clarifies that any licensed broker may elect to have a license issued in a previously used legal name. Section 9 also updates gendered language to gender-neutral language. Sections 10 and 11 remove language requiring the commission to serve subpoenas in the same manner as subpoenas issued by a district court and substitute language stating that subpoenas may be enforced by a court with jurisdiction; Section 12 requires the division to establish protocols addressing the security of electronic correspondence; and Sections 15 through 21 update gendered language to gender-neutral language.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1287"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Housing & Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "A. Boesenecker",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Boesenecker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Brooks",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Brooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "I. Jodeh",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" I. Jodeh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kolker",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kolker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112523/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1287",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

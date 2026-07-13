@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1106",
+  "title": "Eviction Protections for Tenants",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts & Judicial",
+    "Housing"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill limits the number of forcible entry and detainer (eviction) actions that a county court schedules on one business day.\u00a0\u00a0\u00a0\u00a0\u00a0The bill prohibits including a minor defendant as a named defendant in an eviction complaint when a parent or adult guardian is also listed as a defendant on the same complaint.\u00a0\u00a0\u00a0\u00a0\u00a0The bill prohibits a court from entering judgment without a trial or a hearing when a tenant's answer to an eviction complaint expresses an intent to cure nonpayment.\u00a0\u00a0\u00a0\u00a0\u00a0The bill specifies that the following reasons excuse a tenant from filing a timely written answer to an eviction complaint: A hospitalization, a sickness or injury, a reasonable accommodation request for a disability, a lack of proper service, a transportation issue, a complication related to electronic filing that was reasonably outside of the tenant's control, and a court issue that was reasonably outside of the tenant's control.\u00a0\u00a0\u00a0\u00a0\u00a0When a tenant in an eviction action asserts that they were affected by one of the specified reasons, the bill requires a court to:Relieve a tenant from final judgment, vacate any judgment or writ of restitution that was issued, and provide the tenant with a reasonable amount of time to file an answer;Permit additional and amended pleadings; andExtend the trial date.\u00a0\u00a0\u00a0\u00a0\u00a0The bill repeals appeals bond in eviction cases.\u00a0\u00a0\u00a0\u00a0\u00a0The bill extends the time for executing a writ of restitution in an eviction action from 48 hours to 30 days, except in cases involving substantial violations.\u00a0\u00a0\u00a0\u00a0\u00a0The bill prohibits the execution of writs in eviction actions during inclement weather.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1106"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Lindsay",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Velasco",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Velasco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Michaelson Jenet",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Michaelson Jenet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Weissman",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Weissman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111210/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1106",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

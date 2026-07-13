@@ -1,0 +1,107 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1030",
+  "title": "Data Center & Utility Modernization",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business & Economic Development",
+    "Energy"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the data center development and incentive program (program) operated by the Colorado data center development authority (authority), which is newly created in the Colorado office of economic development (office) ( section 1 of the bill). The authority consists of 9 members, as follows:2 members appointed by the governor with the consent of the senate;The director of the Colorado energy office or the director's designee;One member who has experience in water projects or water resource management, appointed by the president of the senate;One member who has experience in clean and renewable energy, appointed by the speaker of the house of representatives;2 members who have experience in data center development, with one member appointed by the speaker of the house of representatives and one member appointed by the president of the senate;One member representing a statewide organization that represents workers in trade crafts who construct data centers, appointed by the speaker of the house of representatives; andOne member representing a statewide organization that represents contractors who construct data centers, appointed by the president of the senate.To incentivize efficient data center development, the program allows a 100% state sales and use tax exemption on qualified purchases to the operator of a certified data center. To be eligible for certification, the operator of the data center, or a data center operator collectively with participating data center tenants, must:Have initiated a preliminary consultation with the utility that will provide electricity for the data center project regarding interconnection feasibility, capacity, and infrastructure requirements;Commit to making a $250 million minimum investment in data center infrastructure within 5 years;Commit to creating new full-time jobs, including employees and long-term service and maintenance positions, that satisfy specified criteria and breaking ground on the data center project within 2 years of obtaining certification;Commit to complying, and ensure that the utility that provides electricity to the data center also complies, with craft labor requirements, apprenticeship utilization requirements, and prevailing wage requirements; andCommit to obtaining certification under one of several energy efficiency standards, implementing water stewardship strategies that optimize operational water management, ensuring that all backup power generation associated with the data center project meets specified requirements, and consulting with the department of natural resources.To obtain certification, a data center operator must apply to the authority in a form and manner to be determined by the authority. The authority is required to review a data center operator's application for certification and may award certification to a data center operator that has demonstrated that it will satisfy the certification criteria ( section 1 ).A data center operator that obtains certification for a data center project is eligible for a 100% state sales and use tax exemption on the purchase and use of qualified data center infrastructure and systems for 20 years from the date that the data center project was certified, so long as the data center satisfies ongoing post-certification requirements and submits annual compliance reports to the authority. As long as the data center meets post-certification requirements as demonstrated in the annual compliance reports, a data center operator of a certified data center may apply to the authority for an extension of the sales and use tax exemption for an additional 10 years. If the authority determines that a data center operator is not fulfilling its obligations and commitments to retain certification, the authority may revoke the certification and the data center operator is required to repay the state for the sales and use tax benefits that it received ( sections 1 and 5 ). The exemption for a certified data center does not apply to local sales and use taxes unless the exemption is expressly included at the time of adoption or amendment of the local sales tax ordinance or resolution ( section 4 ).The bill allows a utility regulated by the public utilities commission (commission) to submit a targeted resource acquisition application to the commission to propose methods of meeting emerging large-load customer needs. The bill also specifies how a utility may finance resource and infrastructure needs in connection with emerging large-load customers ( section 3 ).(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1030"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Energy & Environment",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Energy & Environment",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Duran",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Valdez",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Valdez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Mullica",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Mullica\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/ad54225189ae8fc5efc0823c57283dd0",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/549e7c7cd233cb5037bb2f08a0697f2d",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1030",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

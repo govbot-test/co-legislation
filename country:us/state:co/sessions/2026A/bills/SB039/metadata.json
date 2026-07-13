@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 039",
+  "title": "Fire and Police Pension Association Disability and Survivor Benefits",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Local Government",
+    "State Government"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The fire and police pension association (association) currently provides disability retirement and survivor benefits (disability and survivor benefits) for eligible members of the association (members) who become disabled or die. The bill recodifies and reorganizes the disability and survivor benefits statutes, removes outdated provisions, and clarifies ambiguous language. In addition, the bill makes the following modifications to the disability and survivor benefits statutes:Removes the current requirement that the association require every member who applies for disability retirement benefits to have 3 independent medical exams and instead authorizes the board of the association (board) to appoint a medical advisor to assess the needs of each applicant for disability retirement benefits;Authorizes the board to adopt rules to streamline the appeal process for disability retirement benefit applicants who are denied benefits and rules to better administer members' mental health claims;Allows the association to require a member who is occupationally disabled to participate in a rehabilitation and retraining program to help the member gain additional skills and knowledge so the member can earn a wage doing a job other than being a police officer or firefighter;Clarifies that a member who is a total disability retirement benefit recipient will begin receiving a cost of living adjustment when the member starts receiving a total disability retirement benefit;Clarifies eligibility for a member to apply for disability retirement benefits; Repeals the statute that makes an employer liable for the payment of disability retirement benefits if a member's disability existed at the commencement of employment, the employment was not ordered by a court, and the employer failed to require the member to complete and file a health history form prior to commencing employment; andRequires members to fill out a health history form, which notifies the association of any preexisting health conditions, prior to employment.The bill does not change the amounts of disability retirement and survivor benefits or the length of time a member must be employed to be eligible for a benefit, nor does it require additional money from the state, employers, or members.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb39"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Finance",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "B. Pelton",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" B. Pelton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Snyder",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Snyder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Boesenecker",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Boesenecker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Taggart",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Taggart\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/110989/download",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/b109a421b36bda49676c39e532338091",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-039",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

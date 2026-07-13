@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 003",
+  "title": "End-of-Life Management of Electric Vehicle Batteries",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Natural Resources & Environment"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Senate Bill 25-163 created the \"Battery Stewardship Act\", which requires the establishment of battery stewardship organizations (organizations) and the submittal of battery stewardship plans (plans) to the executive director of the department of public health and environment (executive director) for the collection, transportation, processing, and recycling of certain batteries.The bill expands the scope of the \"Battery Stewardship Act\" to cover the end-of-life management of propulsion batteries, which are batteries that are primarily used to supply power to an electric or hybrid vehicle, and establishes requirements concerning propulsion batteries that differ from the requirements for the batteries currently contemplated by the \"Battery Stewardship Act\".No later than April 1, 2028, and every 5 years thereafter, an organization must submit a plan for the collection, transportation, processing, reuse, repurposing, and recycling of propulsion batteries as part of a battery stewardship program. The bill specifies what a plan must contain to be approved by the executive director. On and after August 1, 2028, a provider of propulsion batteries selling, making available for sale, or distributing propulsion batteries or vehicles containing a propulsion battery in or into the state is required to participate in and finance an organization that has submitted a plan.An organization implementing a plan on behalf of providers of propulsion batteries is required to develop a website that includes educational and promotional materials and safety information related to battery storage and collection activities and submit annual reports to the executive director that concern certain information about the preceding year of plan implementation.The bill includes requirements for the marking and labeling of propulsion batteries and requires the solid and hazardous waste commission to, no later than July 1, 2027, adopt rules establishing a process for the department of public health and environment to certify an entity as a qualified propulsion battery recycler.On and after August 1, 2028, all propulsion batteries in the state must be managed in accordance with the requirements established by the bill.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb3"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Transportation & Energy",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Cutter",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Cutter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Wallace",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Wallace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Brown",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Brown\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/d796c1ac241ca8960e727aa57a5d816e",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/ebcb5b094f61b683b141ddd4b964895a",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-003",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

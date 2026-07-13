@@ -1,0 +1,90 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1047",
+  "title": "Protections for Residential Tenants",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Housing"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires a plaintiff that files a complaint concerning the unlawful detention of real property to include certain documentation with the complaint.The bill requires that if a landlord posts a written demand or notice, the landlord must:Include in the demand or notice certain information; andRedact from the document certain personal identifying information.Under current law, when a landlord commences an action for forcible entry and detainer, any court record of the action is a suppressed court record. If the court issues an order granting the landlord possession of the premises, the record is no longer a suppressed court record unless the parties agree that the record remain suppressed. Under the bill, such a court record remains suppressed unless it concerns a substantial violation of the lease. A court may publish a judicial opinion concerning the action if the names and identifiers of the parties are anonymized.The bill requires a landlord to provide a tenant at least one rent payment option that does not require the tenant to access an online portal or pay a transaction fee.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1047"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Judiciary",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Joseph",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Joseph\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/823a5cc87e1da2e653bc3286d57acff7",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/6fb580d630f5581ce2218bb120fdde65",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1047",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

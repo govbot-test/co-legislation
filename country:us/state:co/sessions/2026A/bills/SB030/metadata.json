@@ -1,0 +1,90 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 030",
+  "title": "Local Access State Parks Grant Program",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Local Government"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "In accordance with the \"Keep Colorado Wild Pass Act\", a person registering their motor vehicle in Colorado may, at the time of registration, elect to purchase a keep Colorado wild pass as an annual state parks and public lands pass for their motor vehicle. The keep Colorado wild pass provides the person access by car, bike, or foot to any Colorado state park or other participating public land for the duration of the vehicle's registration period. The option to purchase a keep Colorado wild pass is offered at the time of registration of any passenger motor vehicle, light-weight truck, motorcycle, or recreational vehicle. Currently, the cost for a keep Colorado wild pass is $29.All money collected from the purchase and sale of the keep Colorado wild pass is remitted to the department of revenue, which in turn transmits the money, minus administrative costs, to the state treasurer.By statute, the first $36 million collected from the keep Colorado wild pass is allocated to the following 3 funds:$32.5 million to the parks and outdoor recreation cash fund for state parks maintenance, staffing, and resources;$2.5 million to the backcountry search and rescue fund, in furtherance of the goal of supporting Colorado's search and rescue volunteers who respond to backcountry emergencies and who develop educational programs and campaigns to promote backcountry safety; and$1 million to the Colorado avalanche information center fund, in furtherance of the goal of protecting winter recreationists by supporting backcountry avalanche safety and awareness.The amounts allocated to these 3 funds are adjusted annually based on changes to the United States department of labor's bureau of labor statistics consumer price index for Denver-Aurora-Lakewood for all items and all urban consumers.After allocating the first $36 million to the 3 funds, as specified above, statute currently directs the state treasurer to credit any remaining money collected from the purchase and sale of the keep Colorado wild pass as follows:One-half of any remaining money is credited to the wildlife cash fund; andOne-half of any remaining money is credited to the parks and outdoor recreation cash fund, in furtherance of the goals of:Building and maintaining new state parks on a regular basis in partnership with local governments, conservationists, recreationists, and other land management agencies; andFunding Colorado regional outdoor partnerships to support community-driven conservation and recreation planning and projects.The bill modifies how, after the allocation of the first $36 million, any remaining money collected from the purchase and sale of the keep Colorado wild pass is allocated. The bill creates the state park and state wildlife area access cash fund (fund) for the purpose of supporting local governments in efforts to improve roads and other infrastructure that provide local access to state parks and state wildlife areas accessed from within a local government's boundary (local access). The bill directs the entirety of any remaining money to the fund, instead of dividing and allocating the remaining money between the wildlife cash fund and the parks and outdoor recreation cash fund.The bill also creates the state park and state wildlife area access grant program (grant program). The bill requires the division of local government (division) in the department of local affairs to administer the grant program and to award grants to local governments that apply for a grant to improve local access. Money in the fund is used to pay the grant awards.The bill preserves the current allocation of the first $36 million, adjusted annually, to the parks and outdoor recreation cash fund, the backcountry search and rescue fund, and the Colorado avalanche information center fund. The bill also specifies that, if no applications for local access grants are received by the division by December 31, 2029, and by December 31 for each year thereafter, half of the remaining money collected from the purchase and sale of the keep Colorado wild pass is transferred to the wildlife cash fund and half is transferred to the parks and outdoor recreation cash fund in furtherance of specific goals.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb30"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Baisley",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Baisley\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/9a2708b047458b3a7d074595b5f0917e",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/4628e32fc0065176b67db68cff10a432",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-030",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

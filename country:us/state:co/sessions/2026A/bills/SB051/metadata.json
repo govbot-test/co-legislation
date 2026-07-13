@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 051",
+  "title": "Age Attestation on Computing Devices",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children & Domestic Matters"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires an operating system provider to:Provide an accessible interface at account setup that requires an account holder to indicate the birth date or age of the user of that device to provide a signal regarding the user's age bracket (age signal) to applications available in a covered application store;Provide an application developer (developer) that requests an age signal, with respect to a particular user, the technical ability to call an age signal via a reasonably consistent real-time application programming interface that identifies, at a minimum, the user's age-bracket data; andSend only the minimum amount of information necessary to comply with the bill. An operating system provider shall not share an age signal with a third party for a purpose not required by the bill.The bill requires a developer to request an age signal with respect to a particular user from an operating system provider or a covered application store when the developer's application is downloaded and launched. A developer that receives an age signal is deemed to have knowledge of the age range of the user to whom that age signal pertains across all platforms of the application and points of access of the application. However, if a developer has clear and convincing information that a user's age is different than the age indicated by an age signal, the developer shall use that information as the primary indicator of the user's age range.A developer shall not:Request more information from an operating system provider or a covered application store than is necessary to comply with the bill; orShare an age signal with a third party for a purpose not required by the bill.A person that violates the bill must pay a civil penalty of not more than $2,500 for each minor affected by each negligent violation or not more than $7,500 for each minor affected by each intentional violation. The penalty is assessed and recovered in a civil action brought by the attorney general.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb51"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Business, Labor, & Technology",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business, Labor, & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Ball",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Ball\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Paschal",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Paschal\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/110990/download",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/44d3b946d792c4999c79277c17776cd2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-051",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

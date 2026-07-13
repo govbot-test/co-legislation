@@ -1,0 +1,90 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1055",
+  "title": "My Colorado Card Pilot Program",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Public Health"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the my Colorado card pilot program (pilot program) in the department of public health and environment (department) to provide individuals in grades 6 through 12 (youth) access to cultural, arts, recreational, or extracurricular activities throughout the state (activities). The department must develop a physical or digital my Colorado card for the youth participating in the pilot program to access the activities covered by the pilot program.No later than December 30, 2026, the department, after obtaining feedback and recommendations from community-led organizations no later than December 1, 2026, must select a limited number of pilot communities to participate in the pilot program (selected pilot communities). A selected pilot community must appoint a coordination team to support youth participation in the pilot program.The department must also coordinate with the selected pilot communities and community-led organizations to:Identify youth in the selected pilot communities to participate in the pilot program;Facilitate access to activities for youth participating in the pilot program; andCollect nonidentifying participation data for evaluation and reporting purposes.The department shall evaluate the pilot program on an annual basis to assess certain components of the pilot program. On or before December 1, 2027, and on or before each December 1 thereafter, the department shall submit a report to certain committees of the general assembly summarizing the results of the department's evaluation, observed outcomes and challenges of the pilot program, and recommendations regarding the continuation or modification of the pilot program.The pilot program repeals on September 1, 2031, subject to the sunset review process.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1055"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Education",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Lindsay",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lindsay\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/bedced7ed8d264e81fd36504908803cc",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/312a6553437072883bef8403de6b023c",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1055",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

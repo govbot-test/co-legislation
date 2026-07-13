@@ -1,0 +1,87 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1247",
+  "title": "Property Insurance Appraisal Clause Claim Disputes",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance",
+    "Professions & Occupations"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires each policy or contract of homeowner's insurance (policy) issued or renewed in the state on or after January 1, 2027, to include a mandatory and binding appraisal process, if requested by either the insured or the insurer, for determination of disputed claims for damage to property, including a determination of the amount of loss, causation, and necessary scope of repair or replacement of the property. The appraisal process does not determine coverage under the terms of the policy.The bill specifies the appraisal process requirements, including who can serve as a fair and competent appraiser and umpire, the selection of an appraiser by each party, and the joint selection of an umpire by the parties' appraisers, prior to commencing negotiations, in the event the insured and insurer cannot resolve the dispute. The affirmative vote of the appraisers or of an appraiser and the umpire determines the loss amount. The insured and insurer each pay their own expenses for their appraiser and share the expenses of the umpire. The bill includes a timeline for completing the appraisal process, including completion within 4 months after the umpire is selected. The bill tolls the timelines for certain contract provisions while the appraisal process is pending.The bill also specifies information that must be provided to an insured with respect to an insurer's initial review of a claim. An insurer shall provide written evidence supporting an initial coverage determination. If the amount of loss is disputed, the insured may submit third-party damage assessments and the insurer shall reprocess the claim, taking into account the third-party damage assessments.The bill declares that it is an unfair method of competition and unfair or deceptive act or practice in the business of insurance to willfully or repeatedly violate the provisions of the bill concerning the appraisal clause process for policies.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1247"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Business Affairs & Labor",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business Affairs & Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "R. Keltie",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Keltie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112194/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1247",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

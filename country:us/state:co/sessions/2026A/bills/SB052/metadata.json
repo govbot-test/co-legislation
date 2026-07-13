@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 052",
+  "title": "Coal Transition Community Investment",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Labor & Employment"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill establishes a first and preferred opportunity for available employment for coal transition workers (hiring preference). A business entity located in a coal transition community that is engaged in the business of constructing or operating railroads, utilities, energy generation facilities, or advanced manufacturing facilities (covered business) is required to comply with the hiring preference. A covered business does not include the state government or a local government.A covered business is required to make good faith efforts to provide a hiring preference to a coal transition worker who meets the minimum qualifications for an employment position (qualified coal transition worker). A covered business may hire an individual who is not a qualified coal transition worker only if either a qualified coal transition worker did not apply for employment with the covered business or each qualified coal transition worker declined a job offer from a covered business.A covered business is required to report annually to the executive director of the department of labor and employment or their designee (executive director). The executive director is required to adopt policies and procedures to implement the bill.Currently, a public entity is not allowed to invest public funds in certain types of investments, such as equity instruments, instruments convertible to equity, or equity interests, or to deposit public funds with any person except certain depository institutions, which are primarily banks. The bill authorizes a public entity to deposit or invest, either directly or through an investment firm or other third party authorized by the public entity, public funds from a payment or settlement that the public entity has received to offset the socioeconomic impacts to a community or government from the closure of a coal mine or coal power generating station in any investment permitted by an investment policy approved by the public entity.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb52"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Agriculture & Natural Resources",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture & Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Catlin",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Catlin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Roberts",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lukens",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lukens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Mauro",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Mauro\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/110982/download",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/59386d7033b2ac210d5e978133263c04",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-27",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-052",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

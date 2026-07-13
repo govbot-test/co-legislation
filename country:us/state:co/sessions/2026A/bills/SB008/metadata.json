@@ -1,0 +1,98 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 008",
+  "title": "Mental Health Access",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Human Services"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill establishes the adult mental health services program (program) to facilitate access for adults to mental health services, including substance use disorder services, and to respond to identified mental health needs. The program reimburses providers for up to 6 mental health sessions with an adult and may provide additional reimbursement, subject to available money. The adult mental health program enterprise (enterprise), created in the bill, creates, operates, and funds the program. The enterprise is required to enter into an agreement with a vendor to create or use an existing website or web-based application as a portal that is available to adults and providers to facilitate the program. The department of human services is required to annually report to the general assembly about the program.The bill establishes the internet-enabled mental health access grant program (grant program) to award grants to entities that use the internet to facilitate mental health services. The enterprise administers the grant program. The enterprise shall annually report to the health and human services committees of the house of representatives and the senate about the grant program.The bill creates the mental health services enterprise as a government-owned business within the behavioral health administration for the business purpose of imposing and collecting a surcharge on internet service account holders in Colorado and to use the surcharge revenue to create, operate, and fund the adult mental health services program and internet-enabled mental health access grant program. Each internet service provider shall collect from its account holders located in Colorado the mental health services access surcharge and remit the surcharge to the enterprise.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb8"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Health & Human Services",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "D. Michaelson Jenet",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Michaelson Jenet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Gilchrist",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Gilchrist\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/957066c9bc6a9dec1dbef36d48fbfe2f",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/12f94e97f206d543172a059527cdc7ff",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-008",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

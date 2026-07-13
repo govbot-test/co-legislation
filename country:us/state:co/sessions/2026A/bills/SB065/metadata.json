@@ -1,0 +1,111 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "SB 065",
+  "title": "Systemic Insecticide Use Limitations",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture",
+    "Natural Resources & Environment"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "On and after January 1, 2029, the bill prohibits a person from selling, offering for sale, or otherwise distributing in the state field crop seeds coated or treated with systemic insecticide (coated or treated seeds), which is an insecticide designed to be absorbed by plants, unless the buyer presents at the point of sale a certificate authorizing the purchase of such seeds from a seed dealer and the use of such seeds on agricultural property.A person may apply to the commissioner of agriculture (commissioner) for approval to serve as a third-party verifier (approved third-party verifier) to determine whether a specified use of coated or treated seeds is necessary and appropriate. On and after January 1, 2029, a person that seeks to apply such coated or treated seeds on agricultural property must work with an approved third-party verifier to determine if such use is necessary and appropriate.The approved third-party verifier shall conduct a pest risk assessment and prepare a report on the assessment. If the approved third-party verifier determines that the use of coated or treated seeds is necessary and appropriate on the agricultural property, they may issue a certificate authorizing the use of coated or treated seeds on the agricultural property for a period up to one year.The commissioner shall adopt rules to implement a program ensuring that coated or treated seeds are used on agricultural property only when needed and expected to be effective and may enforce against an approved third-party verifier's or seed dealer's noncompliance with the requirements of the bill, including by suspending or revoking approval of the third-party verifier or the seed dealer's license or by assessing a fine in an amount not to exceed $50,000 per violation. Approved third-party verifiers and seed dealers must annually report to the commissioner, and the commissioner must include a summary of the reports and the implementation of the bill in the commissioner's annual \"State Measurement for Accountable, Responsive, and Transparent (SMART) Government Act\" presentation to the general assembly.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-sb65"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In Senate - Assigned to Agriculture & Natural Resources",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture & Natural Resources",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "C. Kipp",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kipp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Wallace",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Wallace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Brown",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Velasco",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Velasco\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111045/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-28",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB26-065",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}

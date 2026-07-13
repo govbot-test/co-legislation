@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [
+      {
+        "name": "State, Civic, Military, & Veterans Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HCR26-1002",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 1002"
+}

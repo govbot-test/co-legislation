@@ -1,0 +1,115 @@
+{
+  "legislative_session": "2026A",
+  "identifier": "HB 1046",
+  "title": "Regulate Earned-Wage Access Services",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business & Economic Development",
+    "Financial Services & Commerce"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires a person to obtain a license to provide earned-wage access services (provider) but allows current providers to continue providing the services without a license until a license is issued or denied. The licensing, administrative, and disciplinary functions of the regulation of providers are performed by the assistant attorney general (administrator) who administers the \"Uniform Consumer Credit Code\". The administrator is given several powers, including adopting rules, related to this regulation.License application and issuance standards and procedures are established. A provider is issued a license if the administrator finds that the financial responsibility, character, and fitness of the applicant and of the applicant's members, managers, partners, officers, and directors are sufficient to demonstrate that the applicant will operate the business honestly and fairly and in compliance with the bill.The license fee is set by the administrator to cover the cost of regulating providers. Administrative procedures are established. A license is valid for one year, and to renew a license, a licensee must file a renewal form annually. If a licensee fails to pay the prescribed renewal fee on or before May 1 of each year, the licensee must pay a penalty of $5 per day per license until the license is renewed, but if a licensee fails to pay the appropriate renewal and penalty fees by May 15, the licensee's license automatically expires.The administrator may deny an application for a license or take disciplinary action against a licensee for failing to meet the standards set in the bill.To discipline a provider, the administrator may deny an application for licensure, revoke the license, suspend the license, issue a cease-and-desist order, impose a civil penalty of up to $1,000 per violation, bar the person from applying for or holding a license for 5 years after a revocation, issue a letter of admonition, or impose a penalty of $200 per day for records violations. A respondent aggrieved by an action or order of the administrator may obtain judicial review of the action or order in the Colorado court of appeals.A licensee is required to maintain records in conformity with the bill, rules adopted under the bill, and generally accepted accounting principles and practices in a manner that will enable the administrator to determine if the licensee is complying with the bill. A licensee shall give the administrator free access to the records in the licensee's storage location. A licensee need not preserve records pertaining to an earned-wage access services transaction for more than one year. Standards are set for this access.A licensee must file an annual report that includes all relevant information that the bill and the administrator reasonably require concerning the business and operations conducted during the preceding calendar year. Standards are set for the report. The administrator must keep the report confidential and not open it to the public for inspection pursuant to the \"Colorado Open Records Act\". If a licensee fails to file an annual report by April 15, the administrator may impose a penalty of $5 per day until the report is filed, but if the licensee fails to file the report and pay this penalty by May 1 of the same year, the licensee's license automatically expires.After the administrator has examined a licensee's records, the administrator shall provide a report of the examination to the licensee and may require the licensee to take corrective action. The licensee shall take the corrective action and provide proof that the corrective action was taken. The administrator is prohibited from disclosing the name or identity of a person whose acts or conduct is under investigation or examination or the facts disclosed in the investigation or examination, except for disclosures in actions or enforcement proceedings.A provider has the duty to:Develop and implement policies and procedures to respond to questions raised by consumers and address complaints from consumers;If the provider offers a consumer the option to receive proceeds for a service fee (proceeds), offer to the consumer at least one reasonable option to obtain proceeds at no cost to the consumer and clearly explain how to elect the no-cost option;Make certain disclosures about the earned-wage access services to the consumer;Inform the consumer before implementing material changes to the terms and conditions of the earned-wage access services agreement;Allow the consumer to cancel use of the earned-wage access services at any time without incurring a cancellation fee;Provide proceeds to a consumer by the means mutually agreed upon by the consumer and the provider; andTo be repaid for outstanding proceeds or payment of service fees or other amounts owed in connection with earned-wage access services from a consumer's account at a depository institution, comply with federal law and reimburse the consumer for the full amount of any overdraft or insufficient funds fees imposed on the consumer that were caused by the provider attempting to seek payment on a date before the date or in an amount different from the amount disclosed to the consumer.A provider shall not:Share with an employer a portion of a service fee that was received from or charged to a consumer for earned-wage access services;Require a consumer's credit score provided by a consumer reporting agency to determine the consumer's eligibility for earned-wage access services;Accept payment of outstanding proceeds or service fees from a consumer by means of a credit card or charge card;Charge a consumer a late fee, a deferral fee, interest, or any other penalty or charge for failure to pay outstanding proceeds or service fees;Report to a collection agency or to a debt collector information about a consumer regarding the inability of the provider to be repaid outstanding proceeds or service fees;Impose a service fee in excess of $5 for an advance of proceeds in an amount less than $75 or $7 for an advance of proceeds in an amount more than $75; except that the fee may be increased for inflation;Enter into an agreement with an employer that would require a consumer who is an employee of the employer to use earned-wage access services as a necessary condition of receiving payment of wages;Compel a consumer to pay outstanding proceeds or service fees to the provider through a lawsuit, the use of a third party to pursue collection from the consumer, or the sale of outstanding proceeds to a third-party collector or debt buyer. The collection limitations do not apply to the act of compelling payment of outstanding proceeds paid through fraudulent or other unlawful means or to pursuing an employer for breach of its contractual obligations to the provider.Solicit a tip, gratuity, or donation during the time between when a consumer requests proceeds and when the provider confirms that a transfer of proceeds has been approved and provides a listing of the fees that will be charged.The administrator may bring a civil action to recover a civil penalty of up to $5,000 for willfully violating the bill, and, if the court finds that the defendant has engaged in a course of repeated and willful violations, the court may assess a civil penalty of up to $10,000 per violation. In addition, the administrator may recover reasonable costs of the investigation and action and may request an order for reimbursement of reasonable attorney fees.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-co-2026a-hb1046"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced In House - Assigned to Finance",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Camacho",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Camacho\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Duran",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Frizell",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Frizell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Mullica",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Mullica\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/d5bdf754b634ecab61202be6a5e72019",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/4ace1f26100422b094e28119f4a4d06e",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB26-1046",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:08Z"
+  }
+}
