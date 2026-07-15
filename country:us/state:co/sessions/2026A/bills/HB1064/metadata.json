@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Legislative Oversight Committee Concerning the Treatment of Persons with Behavioral Health Disorders in the Criminal and Juvenile Justice Systems. Current law establishes the youthful offender system (system) in the department of corrections (department) as a sentencing option that provides a continuum of services. The bill:Updates references to the juveniles and young adults who are eligible for or participating in the system;Revises certain legislative intent provisions to emphasize lasting behavioral changes in preparation for reentry, trauma-informed care, addressing criminogenic risk, accountability, healthy relationship building, and system participant and staff safety;Expresses the general assembly's intent that juveniles and young adults with physical, intellectual, mental, or behavioral health disabilities or conditions, receive equitable treatment in sentencing to the system and reasonable accommodations once in the system;Adds certain data related to system completion rates to an existing annual reporting requirement for the department;Adds requirements for evidence-informed rehabilitative treatment and life skills programming and for individual therapy, family therapy, or substance use disorder treatment;Establishes requirements for system participant evaluations, plans for addressing participants' needs and skills, and case manager duties;Requires the department, in consultation with relevant experts, to make and publish on its website recommendations for integrating a trauma-informed standard of care with current system practices to promote the health and safety of system participants; andExpands certain procedural protections for system participants with mental or behavioral health conditions or intellectual and developmental disabilities.(Note: This summary applies to this bill as introduced.)"
+      "abstract": "Current law establishes the youthful offender system (system) in the department of corrections (department) as a sentencing option that provides a continuum of services. The act:Updates references to the juveniles and young adults who are eligible for or participating in the system;Revises certain legislative intent provisions to emphasize lasting behavioral changes in preparation for reentry, trauma-informed care, addressing criminogenic risk, accountability, healthy relationship building, and system participant and staff safety;Expresses the general assembly's intent that juveniles and young adults with physical, intellectual, mental, or behavioral health disabilities or conditions receive equitable treatment in sentencing to the system and reasonable accommodations once in the system;Adds certain data related to system completion rates to an existing annual reporting requirement for the department;Adds requirements for evidence-informed rehabilitative treatment and life skills programming and for individual therapy, family therapy, or substance use disorder treatment;Establishes requirements for system participant evaluations, plans for addressing participants' needs and skills, and case manager duties;Requires the department, in consultation with relevant experts, to make and publish on its website recommendations for integrating a trauma-informed standard of care with current system practices to promote the health and safety of system participants; andExpands certain procedural protections for system participants with mental or behavioral health conditions or intellectual and developmental disabilities.(Note: This summary applies to this bill as enacted.)"
     }
   ],
   "other_titles": [],
@@ -22,6 +22,208 @@
     }
   ],
   "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Considered Senate Amendments - Result was to Concur - Repass",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Considered Senate Amendments - Result was to Laid Over Daily",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 03/02/2026 - No Amendments",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Passed with Amendments - Floor",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Judiciary Refer Unamended to Senate Committee of the Whole",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Judiciary",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Second Reading Special Order - Passed with Amendments - Committee, Floor",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Second Reading Laid Over Daily - No Amendments",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Committee on Health & Human Services Refer Amended to House Committee of the Whole",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Health & Human Services",
       "date": "2026-01-14",
@@ -67,34 +269,423 @@
       "organization_id": null
     },
     {
-      "name": "D. Michaelson Jenet",
-      "classification": "sponsor",
+      "name": "J. Bacon",
+      "classification": "cosponsor",
       "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Michaelson Jenet\"}",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Brown",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Clifford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Clifford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. English",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. English\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Espenoza",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Espenoza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Froelich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Froelich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Gilchrist",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Gilchrist\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lindsay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Mabrey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Mabrey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Martinez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Mauro",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Mauro\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Nguyen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Nguyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Phillips",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Phillips\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Story",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Story\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Ball",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Ball\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Cutter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Cutter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Daugherty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Daugherty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Exum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" T. Exum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Gonzales",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Gonzales\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Hinrichsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" N. Hinrichsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "I. Jodeh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" I. Jodeh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kipp",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kipp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kolker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kolker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Lindstedt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" W. Lindstedt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Marchman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Marchman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Wallace",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Wallace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Weissman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Weissman\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113779/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-27",
+      "classification": ""
+    },
+    {
+      "note": "Final Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113430/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-18",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112731/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-02",
+      "classification": ""
+    },
+    {
+      "note": "Revised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112653/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112112/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112063/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-17",
+      "classification": ""
+    },
+    {
       "note": "Introduced",
       "links": [
         {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/a3c3ca51573b13064093142c484c6612",
+          "url": "https://leg.colorado.gov/bill_files/110808/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/10157ce77c1816773660e269e2cc75f9",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-14",
       "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Amendment L.004",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18049/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-26",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.003",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/17850/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-17",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/17816/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Judiciary on 02/23/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/4e1ac693e9475dfafab6564a9ea08942",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/615b9921b3c4288e53a98cfad8a742c2",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/ca6dc685439c2c8dcd5ae1c3f4fdbc6d",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f4431a698cc2f340e47d10d1e54a289c",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f2c53c23b5bd2b6c912d6024014cc833",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Health & Human Services on 02/10/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/2bf6bc0ef188f19e6752485a0121a2f2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116554/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/110888/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Colorado Session Laws of 2026",
+      "citation": "Chapter: 15 Youthful Offender System Updates",
+      "citation_type": "chapter",
+      "effective": "2026-08-12",
+      "expires": null,
+      "url": "https://leg.colorado.gov/laws/session-laws/HB26-1064/15/download"
+    }
+  ],
   "sources": [
     {
       "url": "https://leg.colorado.gov/bills/HB26-1064",
@@ -109,7 +700,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T06:47:42.469852Z"
   }
 }

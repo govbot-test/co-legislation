@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.003",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "d5f303bc-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 067",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30725/votes/45486",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

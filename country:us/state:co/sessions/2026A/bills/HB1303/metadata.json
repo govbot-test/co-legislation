@@ -9,7 +9,12 @@
   "subject": [
     "Energy"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law requires the energy and carbon management commission (commission) to adopt rules to require certification for welders working on oil and gas process lines, including rules that require passing an exam. The act changes the reference to the welder exam from 'the International Code Council Exam F31, national standard journeyman mechanical, or an analogous successor exam', which is not applicable to welders, to certain other examinations that are applicable to welders in the oil and gas industry.\u00a0\u00a0\u00a0\u00a0\u00a0In certain instances, the act changes 'oil and gas operations' to 'energy and carbon management operations' to ensure uniformity of terminology and to align statutory references to 'operations' to those operations that are within the scope of the commission's regulatory authority.(Note: This summary applies to this bill as enacted.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,162 @@
     }
   ],
   "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Passed - No Amendments",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Senate Committee on State, Veterans, & Military Affairs Refer Unamended - Consent Calendar to Senate Committee of the Whole",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "House Second Reading Special Order - Passed - No Amendments",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "House Committee on State, Civic, Military, & Veterans Affairs Refer Unamended to House Committee of the Whole",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "State, Civic, Military, & Veterans Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
       "date": "2026-02-27",
@@ -92,10 +253,100 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Rich\"}",
       "organization_id": null
+    },
+    {
+      "name": "M. Duran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Phillips",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Phillips\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Coleman\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115972/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-05",
+      "classification": ""
+    },
+    {
+      "note": "Final Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115200/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-24",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114208/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
+    },
+    {
+      "note": "Revised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114140/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-06",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113347/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-16",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113312/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-13",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -108,8 +359,62 @@
       "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Committee Report for State, Veterans, & Military Affairs on 03/31/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/7bf57b073f10df220ccb00111e96e95e",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for State, Civic, Military, & Veterans Affairs on 03/12/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/647d0ba5205424cfee28654bf80f1d26",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117209/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-15",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113120/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-10",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Colorado Session Laws of 2026",
+      "citation": "Chapter: 124 Technical Changes to Energy & Carbon Mgmt Statutes",
+      "citation_type": "chapter",
+      "effective": "2026-08-12",
+      "expires": null,
+      "url": "https://leg.colorado.gov/laws/session-laws/HB26-1303/124/download"
+    }
+  ],
   "sources": [
     {
       "url": "https://leg.colorado.gov/bills/HB26-1303",
@@ -124,7 +429,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:55:00Z",
     "text_extraction_latest_update": "2026-07-13T07:01:28.468541Z"
   }
 }

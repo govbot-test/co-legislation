@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Provides for the payment of expenses of the executive, legislative, and judicial departments of the state of Colorado, and of its agencies and institutions, for and during the fiscal year beginning July 1, 2026, except as otherwise noted.(Note: This summary applies to this bill as introduced.)"
+      "abstract": "Provides for the payment of expenses of the executive, legislative, and judicial departments of the state of Colorado, and of its agencies and institutions, for and during the fiscal year beginning July 1, 2026, except as otherwise noted.(Note: This summary applies to this bill as enacted.)"
     }
   ],
   "other_titles": [],
@@ -22,6 +22,206 @@
     }
   ],
   "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Consideration of First Conference Committee Report result was to Adopt Committee Report - Repass",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Consideration of First Conference Committee Report result was to Adopt Committee Report - Repass",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Considered Senate Amendments - Result was to Not Concur - Request Conference Committee",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Special Order - Passed with Amendments - Committee, Floor",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Appropriations Refer Amended to Senate Committee of the Whole",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Appropriations",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2026-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Second Reading Special Order - Passed with Amendments - Floor",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Second Reading Special Order - Laid Over Daily with Amendments - Floor",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Committee on Appropriations Refer Unamended to House Committee of the Whole",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Appropriations",
       "date": "2026-04-06",
@@ -89,12 +289,1207 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \" B. Kirkmeyer\"}",
       "organization_id": null
+    },
+    {
+      "name": "J. Bacon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Boesenecker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Boesenecker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Clifford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Clifford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Duran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Espenoza",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Espenoza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Garc\u00eda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Garc\\u00eda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Gilchrist",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Gilchrist\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Goldstein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Goldstein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lindsay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. McCluskie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. McCluskie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Nguyen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Nguyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Paschal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Paschal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Phillips",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Phillips\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Rydin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" G. Rydin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Story",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Story\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Titone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" B. Titone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Woodrow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Woodrow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kolker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kolker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Lindstedt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" W. Lindstedt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Snyder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Snyder\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Amendment S.003",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19309/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment S.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19307/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.136",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19299/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.143",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19300/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.151",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19297/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.146",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19293/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.139",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19295/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.138",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19294/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.147",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19291/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.087",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19292/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.095",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19289/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.120",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19290/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.119",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19287/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.137",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19288/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.114",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19284/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.091",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19285/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.152",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19279/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.096",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19280/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.099",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19281/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.094",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19282/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.118",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19274/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.085",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19275/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.097",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19276/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.121",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19270/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.111",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19271/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.149",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19272/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.134",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19268/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.125",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19265/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.089",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19266/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.124",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19264/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.116",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19263/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.128",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19260/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.140",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19261/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.135",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19258/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.150",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19259/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.145",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19257/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.133",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19256/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.131",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19255/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.123",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19254/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.090",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19253/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.107",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19199/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-14",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.112",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19200/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-14",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19136/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-10",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19135/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-10",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.059",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19133/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-10",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.082",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19134/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-10",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H.006",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19089/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H.008",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19088/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H.007",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19087/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H.005",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19086/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.077",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19084/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.078",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19082/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.016",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19083/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.003",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19081/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.076",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19080/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.079",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19078/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.030",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19079/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.021",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19077/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.028",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19076/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.012",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19075/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.065",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19074/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.051",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19073/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.068",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19071/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.044",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19072/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.055",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19069/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.061",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19061/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.060",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19062/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.014",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19060/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.025",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19059/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19058/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.053",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19057/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.041",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19056/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.029",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19053/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.033",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19054/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.032",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19055/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.023",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19051/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.038",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19052/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.008",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19050/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.026",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19049/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.056",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19044/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.024",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19045/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.064",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19046/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.071",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19047/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.072",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19048/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.009",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19043/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.080",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19037/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.066",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19038/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.007",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19039/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.048",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19040/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.040",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19041/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.034",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19042/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Colorado Session Laws of 2026",
+      "citation": "Chapter: 436 2026-27 Long Bill",
+      "citation_type": "chapter",
+      "effective": "2026-05-08",
+      "expires": null,
+      "url": "https://leg.colorado.gov/laws/session-laws/HB26-1410/436/download"
+    }
+  ],
   "sources": [
     {
       "url": "https://leg.colorado.gov/bills/HB26-1410",
@@ -109,7 +1504,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T19:19:03.123804Z"
   }
 }

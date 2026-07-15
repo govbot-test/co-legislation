@@ -24,6 +24,16 @@
   ],
   "actions": [
     {
+      "description": "House Committee on Energy & Environment Postpone Indefinitely",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
       "description": "Introduced In House - Assigned to Energy & Environment",
       "date": "2026-01-14",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -74,19 +84,49 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/ad54225189ae8fc5efc0823c57283dd0",
+          "url": "https://leg.colorado.gov/bill_files/110760/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/549e7c7cd233cb5037bb2f08a0697f2d",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-14",
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Energy & Environment on 05/07/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f986a9b4da80177c40cdbaa3eab0f786",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117139/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-08",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111637/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -102,7 +142,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T07:01:41.888538Z"
   }
 }

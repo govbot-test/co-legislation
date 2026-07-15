@@ -9,7 +9,12 @@
   "subject": [
     "Education & School Finance (Pre & K-12)"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The act repeals a professional development program for science teachers (program) on July 1, 2027. For the 2024-25 state fiscal year, the general assembly appropriated $3 million from the state education fund for the program, which money is available for expenditure through the 2026-27 state fiscal year. The act reduces the appropriation to $1.5 million.(Note: This summary applies to this bill as enacted.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,170 @@
     }
   ],
   "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Special Order - Passed - No Amendments",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Appropriations Refer Unamended - Consent Calendar to Senate Committee of the Whole",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Appropriations",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2026-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "House Third Reading Laid Over Daily - No Amendments",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "House Second Reading Special Order - Passed - No Amendments",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
+    {
+      "description": "House Committee on Appropriations Refer Unamended to House Committee of the Whole",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:55:00Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Appropriations",
       "date": "2026-04-02",
@@ -89,6 +258,72 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116752/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-28",
+      "classification": ""
+    },
+    {
+      "note": "Final Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116638/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-21",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114724/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
+    },
+    {
+      "note": "Revised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114659/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114393/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-11",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114277/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-08",
+      "classification": ""
+    },
+    {
       "note": "Introduced",
       "links": [
         {
@@ -102,6 +337,28 @@
   ],
   "documents": [
     {
+      "note": "Committee Report for Appropriations on 04/14/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/eade98760ea143f1e10e9de5105ab7b0",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Appropriations on 04/06/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f0e8c099c8a68a3c6ff748ecdbfa366a",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
       "note": "Initial Fiscal Note",
       "links": [
         {
@@ -113,7 +370,16 @@
       "classification": "fiscal-note"
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Colorado Session Laws of 2026",
+      "citation": "Chapter: 168 Repeal Science Teacher Professional Dev Program",
+      "citation_type": "chapter",
+      "effective": "2026-05-27",
+      "expires": null,
+      "url": "https://leg.colorado.gov/laws/session-laws/HB26-1354/168/download"
+    }
+  ],
   "sources": [
     {
       "url": "https://leg.colorado.gov/bills/HB26-1354",
@@ -128,7 +394,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:55:00Z",
     "text_extraction_latest_update": "2026-07-13T06:19:51.876722Z"
   }
 }

@@ -24,6 +24,27 @@
   ],
   "actions": [
     {
+      "description": "House Committee on Transportation, Housing & Local Government Postpone Indefinitely",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
       "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
       "date": "2026-01-14",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -68,19 +89,38 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/67edc05a38686870f2636d02c45db828",
+          "url": "https://leg.colorado.gov/bill_files/110818/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f9ffd8d0bf03b735b77baa1dd33dafa2",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-14",
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Transportation, Housing & Local Government on 03/25/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/ec51380b8d85026dec9f14d82c57c3d3",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112023/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-13",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -96,7 +136,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T06:32:46.925425Z"
   }
 }

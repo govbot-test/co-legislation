@@ -9,7 +9,12 @@
   "subject": [
     "Courts & Judicial"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill gives the courts authority to make determinations for the care and custody of pet animals in proceedings for dissolution of marriage and legal separation. The bill permits a court to issue an emergency protection order concerning the custody and care of a pet animal.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,45 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Appropriations Lay Over Unamended - Amendment(s) Failed",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Committee on Judiciary Refer Unamended to Appropriations",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Judiciary",
       "date": "2026-02-04",
@@ -60,7 +104,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Judiciary on 02/24/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/6f5e3240ad10f072aa28def4c044dbe1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117229/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-17",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112315/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -76,7 +154,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:50:42.993342Z"
   }
 }

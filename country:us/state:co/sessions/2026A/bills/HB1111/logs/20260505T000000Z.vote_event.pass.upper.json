@@ -1,0 +1,78 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1111 to the Committee on Appropriations.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "5bf8530a-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1111",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Adrienne Benavidez",
+      "voter_id": "~{\"name\": \"Adrienne Benavidez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Bright",
+      "voter_id": "~{\"name\": \"Scott Bright\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Frizell",
+      "voter_id": "~{\"name\": \"Lisa Frizell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Kolker",
+      "voter_id": "~{\"name\": \"Chris Kolker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Mullica",
+      "voter_id": "~{\"name\": \"Kyle Mullica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cleave Simpson",
+      "voter_id": "~{\"name\": \"Cleave Simpson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marc Snyder",
+      "voter_id": "~{\"name\": \"Marc Snyder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Janice Marchman",
+      "voter_id": "~{\"name\": \"Janice Marchman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cathy Kipp",
+      "voter_id": "~{\"name\": \"Cathy Kipp\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30766/votes/45292",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

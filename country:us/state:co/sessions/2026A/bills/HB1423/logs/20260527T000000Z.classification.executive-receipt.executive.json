@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Sent to the Governor",
+    "occurred_at": "2026-05-27",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1423",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1423"
+}

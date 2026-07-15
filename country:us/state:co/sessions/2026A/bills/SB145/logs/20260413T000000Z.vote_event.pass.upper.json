@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.004",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "b8b76e60-8002-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 145",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30255/votes/44741",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

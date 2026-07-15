@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Considered Senate Amendments - Result was to Laid Over Daily",
+    "occurred_at": "2026-05-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1252",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1252"
+}

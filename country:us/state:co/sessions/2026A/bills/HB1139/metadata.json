@@ -14,7 +14,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Section 2 of the bill requires entities that use an artificial intelligence system or algorithm (AI system) for the purpose of conducting utilization review of health-care services, including health insurance carriers, pharmacy benefit managers, private utilization review organizations, behavioral health administrative services organizations, and managed care entities, to ensure that the AI system complies with certain requirements specified in the bill when determining coverage for services. Specifically, the AI system used must:Not base its determination solely on group data; andMake determinations based on medical or clinical history, the patient's individual clinical circumstances, and other relevant factors specified in the bill, with denial of coverage reviewed by a licensed clinician or physician.\u00a0\u00a0\u00a0\u00a0\u00a0The AI system may be used to assist in utilization review, including expedited approvals. A denial or delay of coverage for a service based in whole or in part on medical necessity must be reviewed by a licensed clinician or physician who is competent to evaluate the specific clinical issues.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 3 defines a \"mental health companion chatbot\", in part, as an AI system that:Uses generative artificial intelligence to provide adaptive, personalized, and emotionally resonant responses to sustain a one-on-one relationship with a user;Engages in interactive conversations similar to those an individual would have with a licensed mental health professional; andIs represented by the AI systems provider as, or that a reasonable person believes to be, capable of providing mental health therapy or of helping to manage or treat mental health conditions.\u00a0\u00a0\u00a0\u00a0\u00a0 Sections 2, 5, 6, and 7:Declare that an AI systems provider engages in the unauthorized practice of psychotherapy if the AI system used:Represents, states, or indicates, explicitly or implicitly, that the AI system is a human mental health provider or is authorized to engage in the practice of psychotherapy;Uses prohibited titles, abbreviations or descriptions of professions, credentials, or services that only a mental health professional authorized to provide psychotherapy in the state (regulated professional) may use;Delivers psychotherapy services that would be considered the practice of psychotherapy without oversight by an individual who is a regulated professional; orIs a mental health companion chatbot and: Fails to provide clear and conspicuous notice to the user that the AI system is not a human and is not authorized to provide psychotherapy, therapy, or counseling or to manage or treat mental health conditions; fails to disclose that the AI system is artificial intelligence when asked; fails to implement a protocol to address suicidal ideation or self-harm expressed by users, including referring users to a suicide hotline or crisis text line; or sells, shares, or discloses identifiable mental health data or conditions the use of the mental health companion chatbot on a user agreeing to those practices;Allow for the use of an AI system to provide general information, support, or education, without representing that the AI system is a regulated professional;Exempt from the bill the development, testing, or evaluation of an AI system conducted for the purpose of research by an institutional review board; andProhibit a regulated professional from billing a public or private payer for psychotherapy services that are provided directly to a client and that are conducted by an AI system or for supervision of candidates or professional consultations that are provided by an AI system without human oversight.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 4 requires a regulated professional to disclose to a client the purposes for which the regulated professional uses AI systems or therapeutic or diagnostic devices that include AI systems in their practice and when those AI systems or devices are used, the right of a client to consent to a disclosure of confidential communications, and other disclosures.\u00a0\u00a0\u00a0\u00a0\u00a0 Sections 2 and 7 prohibit a health insurance carrier and a payer of services under the \"Colorado Medical Assistance Act\" and the \"Children's Basic Health Plan Act\" from paying for psychotherapy services that are provided directly to a client and that are conducted by an AI system.(Note: This summary applies to this bill as introduced.)"
+      "abstract": "On and after January 1, 2027, when determining coverage for health-care services, the act requires entities that use an artificial intelligence system (AI system) for the purpose of conducting utilization review of health-care services, including health insurance companies (carriers), pharmacy benefit managers, private utilization review organizations, behavioral health administrative services organizations, and managed care entities (entities), ensure that the AI system complies with certain requirements specified in the act. Specifically, an entity shall ensure that the AI system:Makes determinations based on medical or clinical history, the patient's individual clinical circumstances, and other relevant clinical factors specified in the act, with denial of coverage reviewed by a licensed clinician or physician or other competent regulated professional who is competent to evaluate the specific clinical issues and review the health benefit plan's terms of coverage (competent regulated professional);Does not base its determination solely on group data without reference to the individual's data;Is not used in any way that discriminates against individuals in violation of other state or federal laws and is fairly and equitably applied, including in accordance with regulations and guidance issued by the federal department of health and human services; andIs periodically reviewed to ensure the AI systems outcomes are accurate and reliable and that an individual's health data is not used beyond its intended or stated purpose.\u00a0\u00a0\u00a0\u00a0\u00a0Entities that use AI systems shall disclose to the division of insurance, the department of human services, or the department of health care policy and financing, as applicable, the utilization review functions for which the AI system will be used and the points in the utilization review process when it will be used, the process for human oversight of adverse coverage determinations, and the process for maintaining audit information to ensure that the use of the AI system complies with the requirements in the act.\u00a0\u00a0\u00a0\u00a0\u00a0The AI system may be used to assist in utilization review, including expedited approvals. A carrier's denial of coverage for a service based in whole or in part on medical necessity shall not be issued solely on the output of an AI system without human review by a licensed clinician or physician or other competent regulated professional.\u00a0\u00a0\u00a0\u00a0\u00a0Further, the act prohibits a carrier and a payer of services under the 'Colorado Medical Assistance Act' and the 'Children's Basic Health Plan Act' from paying for psychotherapy services that are provided directly to a client and that are conducted by an AI system.(Note: This summary applies to this bill as enacted.)"
     }
   ],
   "other_titles": [],
@@ -24,6 +24,176 @@
     }
   ],
   "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Special Order - Passed - No Amendments",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Business, Labor, & Technology Refer Unamended to Senate Committee of the Whole",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Business, Labor, & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Senate Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Business, Labor, & Technology",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business, Labor, & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Second Reading Special Order - Passed with Amendments - Committee, Floor",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Second Reading Laid Over Daily - No Amendments",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Committee on Health & Human Services Refer Amended to House Committee of the Whole",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Health & Human Services",
       "date": "2026-02-04",
@@ -59,10 +229,204 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Lieder\"}",
       "organization_id": null
+    },
+    {
+      "name": "L. Cutter",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Cutter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Daugherty",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Daugherty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Duran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Froelich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Froelich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lindsay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Nguyen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Nguyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Story",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Story\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Titone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" B. Titone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Amabile",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Amabile\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Gonzales",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Gonzales\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Hinrichsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" N. Hinrichsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "I. Jodeh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" I. Jodeh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kipp",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kipp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Marchman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Marchman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Mullica",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Mullica\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117025/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-03",
+      "classification": ""
+    },
+    {
+      "note": "Final Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116723/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-27",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116305/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-11",
+      "classification": ""
+    },
+    {
+      "note": "Revised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116145/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-08",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113334/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-16",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113279/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-13",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -75,8 +439,117 @@
       "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Amendment L.007",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18471/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-13",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.006",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18472/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-13",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18231/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-04",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18230/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-04",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Business, Labor, & Technology on 05/05/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/cdf2aaef33ce562b3b38538cf472b654",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Health & Human Services on 03/04/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/add94dd12ff194a3558f6e954264cf5f",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117314/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-08",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "First Revised Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115746/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-05",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112690/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-02",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Colorado Session Laws of 2026",
+      "citation": "Chapter: 325 Use of Artificial Intelligence in Health Care",
+      "citation_type": "chapter",
+      "effective": "2027-01-01",
+      "expires": null,
+      "url": "https://leg.colorado.gov/laws/session-laws/HB26-1139/325/download"
+    }
+  ],
   "sources": [
     {
       "url": "https://leg.colorado.gov/bills/HB26-1139",
@@ -91,7 +564,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T07:00:18.880791Z"
   }
 }

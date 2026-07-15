@@ -1,0 +1,78 @@
+{
+  "identifier": "",
+  "motion_text": "Refer Senate Bill 26-152, as amended, to the Committee of the Whole.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "4bf52d18-8001-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 152",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Mark Baisley",
+      "voter_id": "~{\"name\": \"Mark Baisley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marc Catlin",
+      "voter_id": "~{\"name\": \"Marc Catlin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tony Exum",
+      "voter_id": "~{\"name\": \"Tony Exum\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "William Lindstedt",
+      "voter_id": "~{\"name\": \"William Lindstedt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Mullica",
+      "voter_id": "~{\"name\": \"Kyle Mullica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Byron Pelton",
+      "voter_id": "~{\"name\": \"Byron Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tom Sullivan",
+      "voter_id": "~{\"name\": \"Tom Sullivan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matt Ball",
+      "voter_id": "~{\"name\": \"Matt Ball\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Cutter",
+      "voter_id": "~{\"name\": \"Lisa Cutter\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30625/votes/45142",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

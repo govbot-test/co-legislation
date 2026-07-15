@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.001",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "eaa7aaea-8000-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1428",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30844/votes/45494",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1420 to the Committee of the Whole.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "cb3e31b0-8000-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1420",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Andrew Boesenecker",
+      "voter_id": "~{\"name\": \"Andrew Boesenecker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Max Brooks",
+      "voter_id": "~{\"name\": \"Max Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lori Garcia Sander",
+      "voter_id": "~{\"name\": \"Lori Garcia Sander\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Jackson",
+      "voter_id": "~{\"name\": \"Jamie Jackson\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Mandy Lindsay",
+      "voter_id": "~{\"name\": \"Mandy Lindsay\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kenny Nguyen",
+      "voter_id": "~{\"name\": \"Kenny Nguyen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amy Paschal",
+      "voter_id": "~{\"name\": \"Amy Paschal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacque Phillips",
+      "voter_id": "~{\"name\": \"Jacque Phillips\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Richardson",
+      "voter_id": "~{\"name\": \"Chris Richardson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Larry Don Suckla",
+      "voter_id": "~{\"name\": \"Larry Don Suckla\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elizabeth Velasco",
+      "voter_id": "~{\"name\": \"Elizabeth Velasco\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rebekah Stewart",
+      "voter_id": "~{\"name\": \"Rebekah Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meg Froelich",
+      "voter_id": "~{\"name\": \"Meg Froelich\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30603/votes/45010",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -18,6 +18,30 @@
   ],
   "actions": [
     {
+      "description": "Signed by the Speaker of the House",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
       "description": "House Third Reading Passed - No Amendments",
       "date": "2026-01-14",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -673,15 +697,22 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/110862/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-15",
+      "classification": ""
+    },
+    {
       "note": "Resolution/Memorial",
       "links": [
         {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/c9ad337a5e009d0d30ab7c1ce8f14aba",
+          "url": "https://leg.colorado.gov/bill_files/110744/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/75436b8c585c5f563bafa5d4657c447a",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-14",
@@ -691,12 +722,8 @@
       "note": "Revised",
       "links": [
         {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/24eda80e49ee136e9a1adc059083d501",
+          "url": "https://leg.colorado.gov/bill_files/110652/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/24a24578ef85791af62de051a326d5e2",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-14",
@@ -706,12 +733,8 @@
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/8013a06a5aeb23e369287e0fde2ed35e",
+          "url": "https://leg.colorado.gov/bill_files/110646/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f08bdf3eb21f624bcd2fd61d9acad64c",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-14",
@@ -721,12 +744,8 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/13439c1208b27a2d1da6bf71b2e2bc66",
+          "url": "https://leg.colorado.gov/bill_files/110630/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f8d2366f930f90643156232458098f08",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-14",
@@ -749,7 +768,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:57Z",
     "text_extraction_latest_update": "2026-07-13T06:25:01.436713Z"
   }
 }

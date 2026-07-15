@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The bill requires certain transit agencies (covered transit agencies) to take specific actions in the following areas to increase transit access:Low-income fare discount programs;Programs for individuals experiencing homelessness and individuals who are members of households that receive rental assistance administered by a public housing agency (partner pass programs);Information for transit riders;Language access initiatives;Access to restroom amenities; andReporting requirements.\u00a0\u00a0\u00a0\u00a0\u00a0 Low-income fare discount programs. Beginning on June 30, 2027, covered transit agencies that have at least 10 million unlinked passenger trips in the most recent year (large covered transit agencies) must offer a low-income fare discount program. Through this program, a large covered transit agency must offer, to individuals who meet income-based eligibility requirements, free or discounted fares, transit passes, or other equivalent fare benefits for the use of the large covered transit agency's transit services, including paratransit services and any supplemental accessible transportation program. This discount is available to each eligible individual as the option to receive either:A discount that provides at least a 50% reduction from the standard fare; orAt least 20 single-ride benefits per month, which may be provided as single-ride transit passes or, for paratransit services or a supplemental accessible transportation program, one-way trips at no fare cost.\u00a0\u00a0\u00a0\u00a0\u00a0 Partner pass programs. Beginning on June 30, 2027, all covered transit agencies, regardless of size, must operate a partner pass program. A partner pass program is operated by a covered transit agency in partnership with public housing agencies and organizations that primarily serve individuals experiencing homelessness or who are at risk of homelessness. Through this program, a covered transit agency must offer passes for unlimited use of the covered transit agency's standard fixed-route transit services throughout the covered transit agency's service area, excluding airport fare service, for a period of at least 6 months, at no cost to the transit rider, to individuals experiencing homelessness and individuals who are members of households that receive rental assistance administered by a public housing agency.\u00a0\u00a0\u00a0\u00a0\u00a0 Information for transit riders. Beginning on June 30, 2027, a large covered transit agency must ensure that clear, up-to-date transit system maps are displayed at all rail stations, bus stations, and bus rapid transit stops. A covered transit agency of any size must ensure that information on fare rates and structures and eligibility requirements and application instructions for fare discount programs is available online and displayed in all transit vehicles and at all rail stations, bus stations, and transit stops with a covered shelter. A covered transit agency may meet these requirements by displaying summary information and a link or quick response (QR) code to a website with detailed information.\u00a0\u00a0\u00a0\u00a0\u00a0 Language access initiatives. Beginning on June 30, 2027, a covered transit agency of any size must ensure that all publicly available information that it disseminates related to accessing its transit services, including fare structures, transit maps, service schedules, and the rights and responsibilities of transit riders, is translated into languages that are widely spoken in any county in which the covered transit agency operates or that are required by a covered transit agency's existing language access plan.\u00a0\u00a0\u00a0\u00a0\u00a0 Access to restroom amenities. Beginning on January 1, 2028, for all long-haul transit routes for which the average scheduled end-to-end run time is at least 3 hours, a covered transit agency of any size must provide transit riders an alternate opportunity to access restroom facilities if an onboard restroom is out of service.\u00a0\u00a0\u00a0\u00a0\u00a0 Reporting requirements. Covered transit agencies are required to annually report their progress on the action areas required by the bill, and other required information, to the governor and a joint meeting of the transportation committees of the general assembly beginning on or before January 31, 2028, and on or before each January 31 thereafter. Covered transit agencies must post this annual report on a publicly accessible website. Covered transit agencies are only required to report information that they already collect.(Note: This summary applies to this bill as introduced.)"
+      "abstract": "The act requires certain transit agencies that have at least one million unlinked passenger trips in the most recent year, and that are not the Colorado department of transportation or a regional transportation authority that provides funding for but does not directly provide transit services (covered transit agencies), to take specific actions to increase transit access.\u00a0\u00a0\u00a0\u00a0\u00a0On and after June 30, 2027, a covered transit agency shall ensure that clear, up-to-date transit system maps are displayed at all rail stations, bus stations, and bus rapid transit stops and that information on fare rates and structures and eligibility requirements and application instructions for fare discount programs is available online and displayed in all transit vehicles and at all rail stations, bus stations, and transit stops with a covered shelter. A covered transit agency may meet these requirements by displaying summary information and a link or quick response (QR) code to a website with detailed information. A covered transit agency is not required to replace its fixed signage, displays, or maps solely to comply with these new requirements and, instead, is only required to update the required information upon the regularly scheduled replacement of any signage, displays, or maps.\u00a0\u00a0\u00a0\u00a0\u00a0On and after June 30, 2027, a covered transit agency shall ensure that all publicly available information that it disseminates related to accessing its transit services, including fare structures, transit maps, service schedules, and the rights and responsibilities of transit riders, is translated into languages that are widely spoken in any county in which the covered transit agency operates or that are required by a covered transit agency's existing language access plan. A covered transit agency may use an existing language access plan to satisfy these language access requirements.\u00a0\u00a0\u00a0\u00a0\u00a0Covered transit agencies are required to annually report their progress on the action areas required by the act, and other required information, to the governor and a joint meeting of the transportation committees of the general assembly beginning on or before January 31, 2028, and on or before each January 31 thereafter. Covered transit agencies must post this annual report on a publicly accessible website. Covered transit agencies are only required to report information that they already collect and may satisfy any of the information required to be reported by referencing or including a link to a publicly accessible official report that includes the required information.(Note: This summary applies to this bill as enacted.)"
     }
   ],
   "other_titles": [],
@@ -22,6 +22,213 @@
     }
   ],
   "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Considered Senate Amendments - Result was to Concur - Repass",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Considered Senate Amendments - Result was to Laid Over Daily",
+      "date": "2026-05-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Passed with Amendments - Committee",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Special Order - Laid Over Daily - No Amendments",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Transportation & Energy Refer Amended to Senate Committee of the Whole",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Transportation & Energy",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Second Reading Special Order - Passed with Amendments - Committee",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Second Reading Laid Over Daily - No Amendments",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Committee on Transportation, Housing & Local Government Refer Amended to House Committee of the Whole",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
       "date": "2026-02-19",
@@ -69,16 +276,242 @@
       "organization_id": null
     },
     {
+      "name": "A. Benavidez",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" A. Benavidez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Marchman",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Marchman\"}",
+      "organization_id": null
+    },
+    {
       "name": "E. Velasco",
       "classification": "sponsor",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Velasco\"}",
       "organization_id": null
+    },
+    {
+      "name": "J. Bacon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Camacho",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Camacho\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Carter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Carter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. English",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. English\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Froelich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Froelich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Lieder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Lieder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Nguyen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Nguyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Phillips",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Phillips\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Rutinel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Rutinel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Cutter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Cutter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Exum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" T. Exum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Gonzales",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Gonzales\"}",
+      "organization_id": null
+    },
+    {
+      "name": "I. Jodeh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" I. Jodeh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kipp",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kipp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kolker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kolker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Sullivan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" T. Sullivan\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116745/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-28",
+      "classification": ""
+    },
+    {
+      "note": "Final Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116604/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-21",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116118/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-08",
+      "classification": ""
+    },
+    {
+      "note": "Revised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116033/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-07",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113695/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-25",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113669/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-24",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -91,8 +524,106 @@
       "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Amendment L.009",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19893/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.007",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18572/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-18",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.004",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18573/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-18",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18571/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-18",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Transportation & Energy on 05/04/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/87ce5975ec04574903361632b214780f",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Transportation, Housing & Local Government on 03/18/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/319119a48ea7450fdf26104f0a660a0a",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "First Revised Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113623/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113381/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-17",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Colorado Session Laws of 2026",
+      "citation": "Chapter: 161 Transit Access",
+      "citation_type": "chapter",
+      "effective": "2026-05-27",
+      "expires": null,
+      "url": "https://leg.colorado.gov/laws/session-laws/HB26-1269/161/download"
+    }
+  ],
   "sources": [
     {
       "url": "https://leg.colorado.gov/bills/HB26-1269",
@@ -107,7 +638,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:40:37.028668Z"
   }
 }

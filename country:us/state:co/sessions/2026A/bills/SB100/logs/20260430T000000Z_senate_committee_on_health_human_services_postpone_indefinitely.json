@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Committee on Health & Human Services Postpone Indefinitely",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Health & Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-100",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 100"
+}

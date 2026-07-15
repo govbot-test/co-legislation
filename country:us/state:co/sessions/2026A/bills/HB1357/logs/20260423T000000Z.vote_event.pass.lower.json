@@ -1,0 +1,60 @@
+{
+  "identifier": "",
+  "motion_text": "Approve the first draft conference committee report of the first conference committee on H.B. 26-1357.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "d7e403b8-8000-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1357",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jeff Bridges",
+      "voter_id": "~{\"name\": \"Jeff Bridges\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Brown",
+      "voter_id": "~{\"name\": \"Kyle Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Barbara Kirkmeyer",
+      "voter_id": "~{\"name\": \"Barbara Kirkmeyer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rick Taggart",
+      "voter_id": "~{\"name\": \"Rick Taggart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Judy Amabile",
+      "voter_id": "~{\"name\": \"Judy Amabile\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Emily Sirota",
+      "voter_id": "~{\"name\": \"Emily Sirota\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30504/votes/45202",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

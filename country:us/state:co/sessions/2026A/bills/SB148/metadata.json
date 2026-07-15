@@ -9,7 +9,12 @@
   "subject": [
     "Energy"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The Colorado Clean Energy Fund (CCEF) is a nonprofit institution with experience administering clean energy financing programs and is the designated green bank for the federal environmental protection agency's region 8. The CCEF administers an on-bill repayment program (program) to help finance certain energy-related upgrades installed at a utility customer's premises that are associated with the utility meter. Under the program, in partnership with Colorado-based utilities, the CCEF finances energy-related upgrades that are then repaid through a customer's monthly utility bill payments.\u00a0\u00a0\u00a0\u00a0\u00a0The bill directs the state treasurer to, on August 15, 2026, execute a loan agreement with the CCEF for a low-interest loan of $50 million from the unclaimed property trust fund.The purpose of the loan is to capitalize and expand the CCEF's on-bill repayment program and to accelerate utility adoption of the program.\u00a0\u00a0\u00a0\u00a0\u00a0The Colorado energy office is required to review the design of the program before August 1, 2026. The bill specifies certain requirements for the program and for a utility to access the funding for the program, including requirements related to disclosures, notices, transfers of responsibility for an on-bill repayment obligation, and interest rates.\u00a0\u00a0\u00a0\u00a0\u00a0The CCEF is required to submit annual reports to the joint budget committee, the Colorado energy office, and the state treasurer detailing the deployment of the program.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,45 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Appropriations Postpone Indefinitely",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Transportation & Energy Refer Amended to Appropriations",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Transportation & Energy",
       "date": "2026-03-25",
@@ -84,7 +128,96 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.003",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19177/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-13",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19178/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-13",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19179/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-13",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Appropriations on 05/07/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/948eb45bad4e76b7e855b82e8e68a2fd",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Transportation & Energy on 04/13/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/7868ea20532207d00994c23e8498dfb5",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116935/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-02",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "First Revised Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114667/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-15",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114122/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-03",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -100,7 +233,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T06:35:34.352848Z"
   }
 }

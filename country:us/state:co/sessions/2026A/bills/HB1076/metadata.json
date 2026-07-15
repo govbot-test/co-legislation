@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The bill makes the following changes to statutes concerning the department of transportation (department):Changes the name of the freight mobility and safety branch within the transportation development division of the department to the office of freight mobility and safety ( sections 1, 3, 5,  and  9 of the bill);Clarifies that each state agency is responsible for paying its proportionate part of the cost of maintenance and operation of fueling infrastructure to support its motor vehicle fleet ( section 2 );Clarifies that a driver of a commercial vehicle may not enter the farthest left-hand general purpose lane when driving specified sections of interstate 70 ( section 4 );Clarifies which transportation commission district represents the city and county of Broomfield ( section 6 );Relocates a provision concerning the chief engineer from the statutory section governing the highway maintenance division to the statutory section governing the chief engineer ( sections 7  and  8 );Repeals a statutory section concerning a study prepared by legislative council staff on the transportation commission districts, which has been completed ( section 10 );Redirects revenue from a permitting fee imposed by the department on companies authorized to install and remove tire chains, as established in Senate Bill 25-069, from the highway users tax fund to the state highway fund ( section 11 );Repeals outdated and obsolete provisions concerning the highway users tax fund ( sections 12  and  13 );Defines \"toll evasion\" for purposes of civil penalties, enforcement, and administration of the use of a toll highway ( section 14 );Establishes a 4-year term limit for members of the nonattainment area air pollution mitigation enterprise board who are appointed by the governor and clarifies when the initial term for each appointment ends ( section 15 ); andRepeals a requirement that the transportation commission approve transfers of money directed by the division of aeronautics from the aviation account of the transportation infrastructure revolving fund to the aviation fund, which amounts must not exceed transfers previously approved by the Colorado aeronautical board ( section 16 ).(Note: This summary applies to this bill as introduced.)"
+      "abstract": "The act makes the following changes to statutes relating to transportation:Changes the name of the freight mobility and safety branch within the development division of the department of transportation to the office of freight mobility and safety;Clarifies that each state agency is responsible for paying its proportionate part of the cost of maintenance and operation of fueling infrastructure to support its motor vehicle fleet;Clarifies that the definition of 'gas spot price' means the Henry Hub natural gas spot price as reported by the United States energy information administration or another price index selected by the commission;Permits the Colorado energy and carbon management commission to change the natural gas index used each quarter when setting the spot price, depending on regional market dynamics;Clarifies that the department of revenue shall not issue an instruction permit or endorsement to a person who is under 21 years old to drive a motorcycle unless the applicant has successfully completed an instruction program in motorcycle safety that is approved by the Colorado state patrol;Clarifies that if an individual renews their license online, they must attest they have had an eye exam by an optometrist or ophthalmologist within the past year;Modifies how driver license expiration dates are calculated to allow for online renewal of driver licenses and identification cards when the credential photograph is greater than 10 years old;Clarifies that the driver of a commercial vehicle, including a bus, must affix tire chains or approved alternate traction devices to the number of drive wheel tires required by and in the manner prescribed by the department of transportation's rules governing chain law and passenger vehicle traction law requirements on the state highway system;Removes 'tire cables' as comparable traction basis to define 'alternative traction device';Clarifies that a driver of a commercial vehicle may not enter the farthest left-hand general purpose lane when driving specified sections of interstate 70;Clarifies that the city and county of Broomfield is added to transportation commission district 4;Relocates a provision concerning the chief engineer from the statutory section governing the highway maintenance division to the statutory section governing the chief engineer;Clarifies that the division of transit and rail does not have exclusive authority over transit and rail;Repeals a statutory section concerning a study prepared by legislative council staff on the transportation commission districts, which has been completed;Redirects revenue from a permitting fee imposed by the department of transportation on companies authorized to install and remove tire chains from the highway users tax fund to the state highway fund;Eliminates the department of transportation's authority to establish rules related to noise mitigation and removes references to noise mitigation rules; Repeals provisions concerning the special account for highway bridge repair and allocations of certain past revenues within the highway users tax fund; Defines 'toll evasion' as failing to pay a toll; avoiding a toll; or entering or exiting a toll lane outside of a designated access or egress point, including swerving between a toll lane and a general purpose lane, without regard to whether a toll was assessed or paid;Permits the transportation enterprise board to pay the deductible on insurance policies it purchases for public passenger rail service to cover passenger rail liabilities;Permits the clean transit enterprise board to extend the 2-year limit on spending money from the local transit operations cash fund for capital awards; Establishes a 4-year term limit for members of the nonattainment area air pollution mitigation enterprise board who are appointed by the governor and clarifies when the initial term for each appointment ends; andRepeals a requirement that the transportation commission approve transfers of money directed by the division of aeronautics from the aviation account of the transportation infrastructure revolving fund to the aviation fund, which amounts must not exceed transfers previously approved by the Colorado aeronautical board.(Note: This summary applies to this bill as enacted.)"
     }
   ],
   "other_titles": [],
@@ -23,6 +23,203 @@
     }
   ],
   "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "House Considered Senate Amendments - Result was to Concur - Repass",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "House Considered Senate Amendments - Result was to Laid Over Daily",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Passed with Amendments - Committee, Floor",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Transportation & Energy Refer Amended to Senate Committee of the Whole",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Transportation & Energy",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "House Second Reading Special Order - Passed with Amendments - Committee",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "House Second Reading Laid Over Daily - No Amendments",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
+      "description": "House Committee on Transportation, Housing & Local Government Refer Amended to House Committee of the Whole",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
       "date": "2026-02-02",
@@ -68,10 +265,172 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Paschal\"}",
       "organization_id": null
+    },
+    {
+      "name": "M. Ball",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Ball\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Lindstedt",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" W. Lindstedt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Duran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Froelich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Froelich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Nguyen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Nguyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Rutinel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Rutinel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Cutter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Cutter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Hinrichsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" N. Hinrichsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kipp",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kipp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Snyder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Snyder\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116987/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-03",
+      "classification": ""
+    },
+    {
+      "note": "Final Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116731/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-27",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115779/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-05",
+      "classification": ""
+    },
+    {
+      "note": "Revised",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115735/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112115/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112052/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-17",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -84,8 +443,95 @@
       "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Amendment S.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19891/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.004",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19884/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19691/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-29",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/17809/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Transportation & Energy on 04/29/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/78abd29d8f68045c880544c9be732006",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Transportation, Housing & Local Government on 02/10/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/07037df64f5701c48e5e8ba0335a648d",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111589/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-09",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Colorado Session Laws of 2026",
+      "citation": "Chapter: 265 Transportation Statutory Clean-Up",
+      "citation_type": "chapter",
+      "effective": "2026-08-12",
+      "expires": null,
+      "url": "https://leg.colorado.gov/laws/session-laws/HB26-1076/265/download"
+    }
+  ],
   "sources": [
     {
       "url": "https://leg.colorado.gov/bills/HB26-1076",
@@ -100,7 +546,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:57Z",
     "text_extraction_latest_update": "2026-07-13T06:44:48.711416Z"
   }
 }

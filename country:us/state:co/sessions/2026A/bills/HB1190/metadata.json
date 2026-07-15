@@ -10,7 +10,12 @@
     "Business & Economic Development",
     "Liquor, Tobacco, & Marijuana"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates an expanded sales room permit, which authorizes a manufacturer, limited winery, or wholesaler that manufactures beer (producer) to:Operate a restaurant at the producer's sales room; orSell or provide alcohol beverages that are not manufactured by the permit holder by the drink for consumption at the sales room if the alcohol beverage is a craft product.A producer must obtain a separate expanded sales room permit for each location. To obtain an expanded sales room permit, a producer must apply to the state licensing authority. To operate an expanded sales room, the producer must:Have sandwiches and light snacks available for consumption on the premises; andNot sell at the sales room the authorized alcohol beverages in an amount in excess of 50% of the total sales of alcohol beverages.The state licensing authority will establish the application fee for an expanded sales room permit.The bill authorizes a vintner's restaurant licensee to sell and ship wine directly to an individual who has joined a winery club. To create a winery club, the vintner's restaurant licensee must obtain and retain, for as long as the club is active, each member's name, address, and age and a record of how the member's age was verified. To join a winery club, an individual must apply to the vintner's restaurant that created the winery club. To ship wine to an address, a vintner's restaurant licensee must verify the recipient is a member of the club and that the delivery address is the same address on file for the member.Under current law, a distillery pub licensee may sell its spirits at wholesale in an amount up to 2,700 liters per product per year. The bill raises the limit to 8,100 liters per product per year.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -18,6 +23,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Business Affairs & Labor Postpone Indefinitely",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Business Affairs & Labor",
       "date": "2026-02-09",
@@ -77,7 +92,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Business Affairs & Labor on 03/26/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/1a8ac973c5151bf745cc80467a3808fd",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117151/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-08",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113087/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-10",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -93,7 +142,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T07:08:59.105664Z"
   }
 }

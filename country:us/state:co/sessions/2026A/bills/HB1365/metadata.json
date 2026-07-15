@@ -9,7 +9,12 @@
   "subject": [
     "Health Care & Health Insurance"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Joint Budget Committee. Current law authorizes medicaid reimbursement for therapy using equine movement provided by a licensed physical therapist, a licensed occupational therapist, or a certified speech-language pathologist. The bill repeals this provision and reduces the 2026-27 appropriation to the department of health care policy and financing by $181,514.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Appropriations Postpone Indefinitely",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Appropriations",
       "date": "2026-04-02",
@@ -102,6 +123,17 @@
   ],
   "documents": [
     {
+      "note": "Committee Report for Appropriations on 04/07/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/beca8e8ecaedb4e877ab0f681fb54719",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
       "note": "Initial Fiscal Note",
       "links": [
         {
@@ -109,7 +141,7 @@
           "media_type": "application/pdf"
         }
       ],
-      "date": "2026-04-02",
+      "date": "2026-04-03",
       "classification": "fiscal-note"
     }
   ],
@@ -128,7 +160,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:16:00.698602Z"
   }
 }

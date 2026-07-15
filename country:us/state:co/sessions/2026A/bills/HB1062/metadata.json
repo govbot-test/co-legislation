@@ -9,7 +9,12 @@
   "subject": [
     "Fiscal Policy & Taxes"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law allows any individual to deduct amounts, up to certain caps based on the individual's age, received as pensions or annuities from any source, to the extent included in federal adjusted gross income.Notwithstanding the caps on the deduction for amounts received as pensions or annuities from other sources, current law allows any individual who is 65 years old or older at the close of a taxable year to subtract the total amount of social security benefits that the individual received from the individual's federal taxable income, to the extent those benefits were included in federal taxable income, when determining the individual's state taxable income. This subtraction is also allowed to any individual who is 55 years old or older and has an adjusted gross income for the applicable tax year that is less than or equal to $75,000 if filing individually or $95,000 if filing jointly.For income tax years commencing on or after January 1, 2027, the bill removes all caps on the deduction for amounts received as pensions and annuities and allows any individual who is 55 years old or older, regardless of income, to subtract the total amount that the individual received as pension or annuity income from the individual's federal taxable income, to the extent that income was included in federal taxable income, when determining the individual's state taxable income.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Finance Postpone Indefinitely",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Finance",
       "date": "2026-01-14",
@@ -52,19 +73,38 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/bfbbebc5a1fe2509462b08249c272f4c",
+          "url": "https://leg.colorado.gov/bill_files/110838/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/73b19482da164fe627e7b71517545fbe",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-14",
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Finance on 02/09/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/ddc76da002fad79f2496a2afaf60fbb2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111236/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -80,7 +120,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T06:21:23.621256Z"
   }
 }

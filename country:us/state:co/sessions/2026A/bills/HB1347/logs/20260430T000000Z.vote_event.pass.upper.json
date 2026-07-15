@@ -1,0 +1,66 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1347 to the Committee on Appropriations.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-30",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "cd887024-8001-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1347",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Scott Bright",
+      "voter_id": "~{\"name\": \"Scott Bright\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Cutter",
+      "voter_id": "~{\"name\": \"Lisa Cutter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsey Daugherty",
+      "voter_id": "~{\"name\": \"Lindsey Daugherty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Frizell",
+      "voter_id": "~{\"name\": \"Lisa Frizell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Weissman",
+      "voter_id": "~{\"name\": \"Mike Weissman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Iman Jodeh",
+      "voter_id": "~{\"name\": \"Iman Jodeh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Mullica",
+      "voter_id": "~{\"name\": \"Kyle Mullica\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30667/votes/45067",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

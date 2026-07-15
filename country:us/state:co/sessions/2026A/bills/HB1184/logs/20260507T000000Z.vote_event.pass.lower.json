@@ -1,0 +1,60 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt the first conference report for HB26-1184.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "0bd284c4-8001-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1184",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tisha Mauro",
+      "voter_id": "~{\"name\": \"Tisha Mauro\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Cutter",
+      "voter_id": "~{\"name\": \"Lisa Cutter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meghan Lukens",
+      "voter_id": "~{\"name\": \"Meghan Lukens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Baisley",
+      "voter_id": "~{\"name\": \"Mark Baisley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dusty Johnson",
+      "voter_id": "~{\"name\": \"Dusty Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Janice Marchman",
+      "voter_id": "~{\"name\": \"Janice Marchman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30841/votes/45401",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

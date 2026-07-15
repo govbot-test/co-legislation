@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Postpone House Bill 26-1030 indefinitely.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "bb232d6e-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1030",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Carlos Barron",
+      "voter_id": "~{\"name\": \"Carlos Barron\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ken DeGraaf",
+      "voter_id": "~{\"name\": \"Ken DeGraaf\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lori Goldstein",
+      "voter_id": "~{\"name\": \"Lori Goldstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Jackson",
+      "voter_id": "~{\"name\": \"Jamie Jackson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Junie Joseph",
+      "voter_id": "~{\"name\": \"Junie Joseph\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amy Paschal",
+      "voter_id": "~{\"name\": \"Amy Paschal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manny Rutinel",
+      "voter_id": "~{\"name\": \"Manny Rutinel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Slaugh",
+      "voter_id": "~{\"name\": \"Scott Slaugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lesley Smith",
+      "voter_id": "~{\"name\": \"Lesley Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jenny Willford",
+      "voter_id": "~{\"name\": \"Jenny Willford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dan Woog",
+      "voter_id": "~{\"name\": \"Dan Woog\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elizabeth Velasco",
+      "voter_id": "~{\"name\": \"Elizabeth Velasco\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alex Valdez",
+      "voter_id": "~{\"name\": \"Alex Valdez\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30887/votes/45427",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

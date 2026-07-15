@@ -10,7 +10,12 @@
     "Natural Resources & Environment",
     "State Government"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires the general assembly, starting in state fiscal year 2027-28, to appropriate certain amounts to the wildfire resilient homes grant program cash fund, which amounts must be based on the amount of money in the wildfire mitigation capacity development fund that is used to fund grants in the prior state fiscal year. In awarding home hardening grants through the wildfire resilient homes grant program, the division of fire prevention and control in the department of public safety is required to prioritize homeowners who are income qualified or who lack the ability to perform the home hardening work because of age, disability, or illness.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -18,6 +23,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Agriculture, Water & Natural Resources Postpone Indefinitely",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Agriculture, Water & Natural Resources",
       "date": "2026-03-02",
@@ -61,7 +76,63 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18729/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Agriculture, Water & Natural Resources on 03/23/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/59953d1a07fc9060aa9e7f0c14f91ff1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117226/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-17",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note Memorandum",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113670/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-24",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113223/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-12",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -77,7 +148,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T07:00:56.760745Z"
   }
 }

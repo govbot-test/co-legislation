@@ -1,0 +1,30 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.001",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "948f9430-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 189",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Iman Jodeh",
+      "voter_id": "~{\"name\": \"Iman Jodeh\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30747/votes/45705",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

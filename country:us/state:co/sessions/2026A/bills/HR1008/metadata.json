@@ -20,6 +20,16 @@
   ],
   "actions": [
     {
+      "description": "House Committee on State, Civic, Military, & Veterans Affairs Postpone Indefinitely",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
       "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
       "date": "2026-04-13",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -70,7 +80,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for State, Civic, Military, & Veterans Affairs on 04/20/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/22a014bb01faccf116b18553fcfe684d",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -86,7 +108,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T07:01:22.757337Z"
   }
 }

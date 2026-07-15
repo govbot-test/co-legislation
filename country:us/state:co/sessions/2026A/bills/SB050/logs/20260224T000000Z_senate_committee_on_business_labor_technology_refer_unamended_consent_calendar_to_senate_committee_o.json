@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Senate Committee on Business, Labor, & Technology Refer Unamended - Consent Calendar to Senate Committee of the Whole",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Business, Labor, & Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-050",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 050"
+}

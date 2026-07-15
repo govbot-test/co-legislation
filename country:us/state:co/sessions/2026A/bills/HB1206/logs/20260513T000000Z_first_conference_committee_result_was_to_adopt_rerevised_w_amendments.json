@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "First Conference Committee Result was to Adopt Rerevised w/ Amendments",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"joint\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1206",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1206"
+}

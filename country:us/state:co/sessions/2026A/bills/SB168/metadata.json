@@ -10,7 +10,12 @@
     "General Assembly",
     "State Government"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires any 2 or more legislators who organize themselves according to a common interest, ideology, issue, identity, or for any other reason and who accept, receive, or expend money, other than their own private, personal money (legislative caucus) to deliver to the legislative council staff a quarterly report that lists all money that the legislative caucus received, accepted, or expended during the previous quarter. The legislative council staff is required to post each report received on a publicly accessible page on the website of the general assembly.\u00a0\u00a0\u00a0\u00a0\u00a0Each legislative caucus is required to provide the legislative council staff with accurate contact information for the caucus and shall promptly inform the legislative council staff of any changes to that contact information. A legislative caucus that does not receive, accept, or expend any money in a quarter shall file a no activity report as prescribed by the legislative council staff.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -18,6 +23,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
       "date": "2026-04-17",
@@ -69,7 +90,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for State, Veterans, & Military Affairs on 05/05/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/e6d5521029b837ac96715fc1157b9675",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114932/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-20",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -85,7 +129,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T06:15:03.511713Z"
   }
 }

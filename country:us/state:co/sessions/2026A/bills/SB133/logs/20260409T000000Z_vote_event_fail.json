@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Refer Senate Bill 26-133 to the Committee on Finance.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-09",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "677cc14a-8001-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 133",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30216/votes/44810",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

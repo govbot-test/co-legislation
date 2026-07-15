@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Committee on Health & Human Services Witness Testimony and/or Committee Discussion Only",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Health & Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-006",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 006"
+}

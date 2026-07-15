@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by the President of the Senate",
+    "occurred_at": "2026-05-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1369",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1369"
+}

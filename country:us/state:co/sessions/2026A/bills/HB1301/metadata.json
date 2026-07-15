@@ -10,7 +10,12 @@
     "Fiscal Policy & Taxes",
     "Health Care & Health Insurance"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill is a referred measure that will, if approved by the voters of the state at the 2026 general election, increase the excise tax on liquor by:$0.0733 per gallon, or the same per unit volume tax applied to metric measure, on all malt liquors and hard cider;$0.08 per liter on all vinous liquors except hard cider; and$0.6026 per liter on all spirituous liquors.This excise tax must be collected on the respective beverages not otherwise exempt from the tax, sold, offered for sale, or used in the state. The bill, if approved by the voters of the state at the 2026 general election, would also increase the state retail marijuana sales and excise taxes each by 0.42 percentage points.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires the treasurer to transfer an amount equal to the tax revenue raised as a result of the bill to the hospital support account that is created in the capital construction fund. The department of human services may expend money from the hospital support account in the following priority order:First, to fund the construction of the Colorado mental health institute at Aurora created in section 2 of the bill (institute);Second, to fund the operational expenses associated with the institute; andThird, to fund the operational expenses associated with long-term civil commitment facilities in Mesa County.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 2 creates the institute, the construction, operation, and maintenance of which is funded by money in the hospital support account. The institute is a state institution for the treatment of persons with mental health, behavioral health, or substance use disorders. The institute operates under the control and supervision of the department of human services (department). The head of the administrative division overseeing the institute is permitted to appoint or employ necessary administrators, physicians, nurses, attendants, and other personnel required for the proper conduct of the institute. The administrative division head is permitted to contract with the board of regents of the University of Colorado health sciences center or other state-supported institutions of higher education to provide necessary medical services. Section 2 establishes criteria for access to inpatient civil beds at the institute.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -18,6 +23,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Health & Human Services Postpone Indefinitely",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Health & Human Services + Finance",
       "date": "2026-02-25",
@@ -74,7 +95,85 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.004",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18570/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-18",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.003",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18567/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-18",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18568/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-18",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18569/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-18",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Health & Human Services on 03/18/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/1d85923c1bbaf2947e06cb57461a1705",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116670/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-26",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113321/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-16",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -90,7 +189,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:24:07.068690Z"
   }
 }

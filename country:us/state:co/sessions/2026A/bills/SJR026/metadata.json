@@ -16,6 +16,18 @@
   ],
   "actions": [
     {
+      "description": "Introduced In House - Assigned to",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
       "description": "Senate Third Reading Passed - No Amendments",
       "date": "2026-05-13",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -398,7 +410,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T06:50:37.964492Z"
   }
 }

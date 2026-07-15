@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Second Reading Special Order - Passed - No Amendments",
+    "occurred_at": "2026-04-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-101",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 101"
+}

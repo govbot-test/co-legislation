@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "House Third Reading Passed with Amendments - Floor",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-138",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 138"
+}

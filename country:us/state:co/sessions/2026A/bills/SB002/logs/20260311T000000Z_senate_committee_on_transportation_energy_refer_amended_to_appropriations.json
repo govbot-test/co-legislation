@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Senate Committee on Transportation & Energy Refer Amended to Appropriations",
+    "occurred_at": "2026-03-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Transportation & Energy",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-002",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 002"
+}

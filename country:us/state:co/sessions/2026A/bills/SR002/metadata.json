@@ -18,6 +18,18 @@
   ],
   "actions": [
     {
+      "description": "Signed by the President of the Senate",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
+    {
       "description": "Senate Third Reading Passed - No Amendments",
       "date": "2026-01-14",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -51,20 +63,54 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \" R. Rodriguez\"}",
       "organization_id": null
+    },
+    {
+      "name": "J. Coleman",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Simpson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Simpson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/110858/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-15",
+      "classification": ""
+    },
+    {
+      "note": "Resolution/Memorial",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/110850/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    },
+    {
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/054c6583d1af6232b687a7f9aba97417",
+          "url": "https://leg.colorado.gov/bill_files/110638/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/1769a95b98d7dd443d71c7fff69d3406",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-14",
@@ -74,12 +120,8 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/74d88f2952e2d9aa6e8d3fcbe0a3c46a",
+          "url": "https://leg.colorado.gov/bill_files/110639/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/9db7c9712e4f645dd78b6ec9d90cde6e",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-14",
@@ -102,7 +144,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:57Z",
     "text_extraction_latest_update": "2026-07-13T07:06:49.779259Z"
   }
 }

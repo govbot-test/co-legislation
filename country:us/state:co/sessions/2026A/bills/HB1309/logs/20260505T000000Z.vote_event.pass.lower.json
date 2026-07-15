@@ -1,0 +1,30 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.005",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "40f34c68-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1309",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Chris Richardson",
+      "voter_id": "~{\"name\": \"Chris Richardson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30727/votes/45570",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

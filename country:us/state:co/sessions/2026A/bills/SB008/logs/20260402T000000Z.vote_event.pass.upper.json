@@ -1,0 +1,66 @@
+{
+  "identifier": "",
+  "motion_text": "Postpone Senate Bill 26-008 indefinitely.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "d6628614-8004-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 008",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Scott Bright",
+      "voter_id": "~{\"name\": \"Scott Bright\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Cutter",
+      "voter_id": "~{\"name\": \"Lisa Cutter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsey Daugherty",
+      "voter_id": "~{\"name\": \"Lindsey Daugherty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Frizell",
+      "voter_id": "~{\"name\": \"Lisa Frizell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Weissman",
+      "voter_id": "~{\"name\": \"Mike Weissman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Iman Jodeh",
+      "voter_id": "~{\"name\": \"Iman Jodeh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Mullica",
+      "voter_id": "~{\"name\": \"Kyle Mullica\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30109/votes/44133",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

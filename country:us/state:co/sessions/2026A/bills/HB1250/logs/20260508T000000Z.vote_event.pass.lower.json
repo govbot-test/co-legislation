@@ -1,0 +1,30 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment J.002",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "b2fdc99e-8000-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1250",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Scott Bottoms",
+      "voter_id": "~{\"name\": \"Scott Bottoms\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30899/votes/45590",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

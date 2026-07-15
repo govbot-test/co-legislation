@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Senate Committee on Appropriations Refer Amended - Consent Calendar to Senate Committee of the Whole",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1406",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1406"
+}

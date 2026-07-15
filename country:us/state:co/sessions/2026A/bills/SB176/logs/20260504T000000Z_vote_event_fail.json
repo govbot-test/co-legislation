@@ -1,0 +1,66 @@
+{
+  "identifier": "",
+  "motion_text": "Refer Senate Bill 26-176 to the Committee on Appropriations.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-04",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "16f25f0c-8004-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 176",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "John Carson",
+      "voter_id": "~{\"name\": \"John Carson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lindsey Daugherty",
+      "voter_id": "~{\"name\": \"Lindsey Daugherty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nick Hinrichsen",
+      "voter_id": "~{\"name\": \"Nick Hinrichsen\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Byron Pelton",
+      "voter_id": "~{\"name\": \"Byron Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katie Wallace",
+      "voter_id": "~{\"name\": \"Katie Wallace\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dylan Roberts",
+      "voter_id": "~{\"name\": \"Dylan Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Weissman",
+      "voter_id": "~{\"name\": \"Mike Weissman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30705/votes/45398",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

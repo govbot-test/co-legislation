@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Committee on State, Civic, Military, & Veterans Affairs Witness Testimony and/or Committee Discussion Only",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HCR26-1001",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 1001"
+}

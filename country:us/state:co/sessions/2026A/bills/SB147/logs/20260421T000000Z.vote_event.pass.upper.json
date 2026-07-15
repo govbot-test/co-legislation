@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.008",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "67e3a0a8-8002-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 147",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30412/votes/44735",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

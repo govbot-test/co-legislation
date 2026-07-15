@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Introduced In Senate - Assigned to Judiciary",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1134",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1134"
+}

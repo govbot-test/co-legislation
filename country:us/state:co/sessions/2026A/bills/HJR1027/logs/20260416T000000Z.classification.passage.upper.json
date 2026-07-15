@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by the President of the Senate",
+    "occurred_at": "2026-04-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HJR26-1027",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 1027"
+}

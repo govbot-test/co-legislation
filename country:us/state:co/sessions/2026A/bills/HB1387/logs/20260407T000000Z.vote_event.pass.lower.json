@@ -1,0 +1,90 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1387, as amended, to the Committee of the Whole.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "5fcf6c4e-8002-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1387",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Andrew Boesenecker",
+      "voter_id": "~{\"name\": \"Andrew Boesenecker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Bottoms",
+      "voter_id": "~{\"name\": \"Scott Bottoms\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Junie Joseph",
+      "voter_id": "~{\"name\": \"Junie Joseph\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen McCormick",
+      "voter_id": "~{\"name\": \"Karen McCormick\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Matt Soper",
+      "voter_id": "~{\"name\": \"Matt Soper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rick Taggart",
+      "voter_id": "~{\"name\": \"Rick Taggart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brianna Titone",
+      "voter_id": "~{\"name\": \"Brianna Titone\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elizabeth Velasco",
+      "voter_id": "~{\"name\": \"Elizabeth Velasco\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yara Zokaie",
+      "voter_id": "~{\"name\": \"Yara Zokaie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Emily Sirota",
+      "voter_id": "~{\"name\": \"Emily Sirota\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Brown",
+      "voter_id": "~{\"name\": \"Kyle Brown\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30183/votes/44284",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

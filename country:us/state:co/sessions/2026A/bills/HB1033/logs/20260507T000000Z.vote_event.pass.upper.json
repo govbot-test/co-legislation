@@ -1,0 +1,66 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1033, as amended, to the Committee on Finance.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "dbd34c7c-8000-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1033",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Robert Rodriguez",
+      "voter_id": "~{\"name\": \"Robert Rodriguez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dylan Roberts",
+      "voter_id": "~{\"name\": \"Dylan Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marc Catlin",
+      "voter_id": "~{\"name\": \"Marc Catlin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nick Hinrichsen",
+      "voter_id": "~{\"name\": \"Nick Hinrichsen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Byron Pelton",
+      "voter_id": "~{\"name\": \"Byron Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rod Pelton",
+      "voter_id": "~{\"name\": \"Rod Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessie Danielson",
+      "voter_id": "~{\"name\": \"Jessie Danielson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30864/votes/45414",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

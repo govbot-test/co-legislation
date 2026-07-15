@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1341 to the Committee on Finance.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "be213d4c-8000-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1341",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Lori Garcia Sander",
+      "voter_id": "~{\"name\": \"Lori Garcia Sander\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lori Goldstein",
+      "voter_id": "~{\"name\": \"Lori Goldstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dusty Johnson",
+      "voter_id": "~{\"name\": \"Dusty Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mandy Lindsay",
+      "voter_id": "~{\"name\": \"Mandy Lindsay\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meghan Lukens",
+      "voter_id": "~{\"name\": \"Meghan Lukens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matthew Martinez",
+      "voter_id": "~{\"name\": \"Matthew Martinez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lesley Smith",
+      "voter_id": "~{\"name\": \"Lesley Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katie Stewart",
+      "voter_id": "~{\"name\": \"Katie Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tammy Story",
+      "voter_id": "~{\"name\": \"Tammy Story\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Larry Don Suckla",
+      "voter_id": "~{\"name\": \"Larry Don Suckla\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ty Winter",
+      "voter_id": "~{\"name\": \"Ty Winter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tisha Mauro",
+      "voter_id": "~{\"name\": \"Tisha Mauro\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen McCormick",
+      "voter_id": "~{\"name\": \"Karen McCormick\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30262/votes/44462",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

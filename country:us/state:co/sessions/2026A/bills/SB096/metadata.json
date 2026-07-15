@@ -11,7 +11,12 @@
     "Crimes, Corrections, & Enforcement",
     "Military & Veterans"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill allows defendant veterans to request an eligibility assessment to determine if they are eligible for veteran deferred sentencing. The bill states the offenses eligible and the requirements that must be met by veteran defendants to qualify for veteran deferred sentencing. The bill establishes what a court must include in a veteran defendant's deferred sentence and establishes what a veteran defendant must do to complete their deferred sentence and when they are eligible for discharge from probation and for dismissal of their charges.The bill requires courts to consider veteran status, when disclosed, when considering the sentence of a veteran defendant. The bill requires law enforcement, courts, and corrections personnel to receive training regarding justice-involved veterans. The bill requires courts to track and report the number of veteran defendants receiving, completing, declining, and denied veteran-deferred sentences. The bill requires the division of criminal justice in the department of public safety to develop a plan to track and evaluate outcomes of veteran defendants who receive veteran-deferred sentences.The bill requires the department of corrections (department) to create a veteran identification process that must be implemented in all offender diagnostic centers that allows the department to record which offenders are veterans. The bill requires that veteran offenders be considered, when appropriate, for correctional facility veteran housing units and veteran services and have their veteran status be considered in structuring their rehabilitation program.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -19,6 +24,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Judiciary Postpone Indefinitely",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Judiciary",
       "date": "2026-02-11",
@@ -62,7 +83,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Judiciary on 04/13/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/85d82aff6df0f9a9f676b15fd03520d3",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113227/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-12",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -78,7 +122,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:49:33.684441Z"
   }
 }

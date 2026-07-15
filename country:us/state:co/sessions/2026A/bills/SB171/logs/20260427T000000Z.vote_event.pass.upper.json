@@ -1,0 +1,78 @@
+{
+  "identifier": "",
+  "motion_text": "Refer Senate Bill 26-171 to the Committee of the Whole and with a recommendation that it be placed on the consent calendar.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-27",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "7d398ba2-8002-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 171",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Mark Baisley",
+      "voter_id": "~{\"name\": \"Mark Baisley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marc Catlin",
+      "voter_id": "~{\"name\": \"Marc Catlin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tony Exum",
+      "voter_id": "~{\"name\": \"Tony Exum\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "William Lindstedt",
+      "voter_id": "~{\"name\": \"William Lindstedt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Mullica",
+      "voter_id": "~{\"name\": \"Kyle Mullica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rod Pelton",
+      "voter_id": "~{\"name\": \"Rod Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tom Sullivan",
+      "voter_id": "~{\"name\": \"Tom Sullivan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matt Ball",
+      "voter_id": "~{\"name\": \"Matt Ball\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Cutter",
+      "voter_id": "~{\"name\": \"Lisa Cutter\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30547/votes/44950",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

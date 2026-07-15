@@ -1,0 +1,37 @@
+{
+  "action": {
+    "description": "House Committee on Transportation, Housing & Local Government Refer Amended to House Committee of the Whole",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "House Committee of the Whole",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Local Government",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1099",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1099"
+}

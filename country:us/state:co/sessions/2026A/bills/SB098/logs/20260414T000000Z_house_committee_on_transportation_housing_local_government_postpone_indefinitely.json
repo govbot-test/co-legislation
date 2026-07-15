@@ -1,0 +1,29 @@
+{
+  "action": {
+    "description": "House Committee on Transportation, Housing & Local Government Postpone Indefinitely",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Local Government",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-098",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 098"
+}

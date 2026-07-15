@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Postpone Senate Bill 26-091 indefinitely using a reversal of the previous roll call. There was no objection to the use of the reverse roll call, therefore, the bill was postponed indefinitely.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-06",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "c2206b72-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 091",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Max Brooks",
+      "voter_id": "~{\"name\": \"Max Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Regina English",
+      "voter_id": "~{\"name\": \"Regina English\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ryan Gonzalez",
+      "voter_id": "~{\"name\": \"Ryan Gonzalez\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rebecca Keltie",
+      "voter_id": "~{\"name\": \"Rebecca Keltie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sheila Lieder",
+      "voter_id": "~{\"name\": \"Sheila Lieder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Javier Mabrey",
+      "voter_id": "~{\"name\": \"Javier Mabrey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bob Marshall",
+      "voter_id": "~{\"name\": \"Bob Marshall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tisha Mauro",
+      "voter_id": "~{\"name\": \"Tisha Mauro\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Chris Richardson",
+      "voter_id": "~{\"name\": \"Chris Richardson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gretchen Rydin",
+      "voter_id": "~{\"name\": \"Gretchen Rydin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Larry Don Suckla",
+      "voter_id": "~{\"name\": \"Larry Don Suckla\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean Camacho",
+      "voter_id": "~{\"name\": \"Sean Camacho\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Naquetta Ricks",
+      "voter_id": "~{\"name\": \"Naquetta Ricks\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30823/votes/45354",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

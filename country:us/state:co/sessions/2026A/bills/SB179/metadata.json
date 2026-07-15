@@ -12,7 +12,12 @@
     "Public Health",
     "State Government"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law prohibits a principal from discriminating, taking adverse action, or retaliating against a worker who, in good faith, raises a reasonable concern about workplace violations of government health or safety rules.\u00a0\u00a0\u00a0\u00a0\u00a0The bill adds the university of Colorado hospital authority and the Denver health and hospital authority to the definition of 'principal'. The bill further clarifies that any action or potential action arising under the law regarding worker rights related to health and safety is not subject to the limitations, notice requirements, procedural requirements, or liability restrictions set forth in the 'Colorado Governmental Immunity Act'. (Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -20,6 +25,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Business, Labor, & Technology Postpone Indefinitely",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Business, Labor, & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Business, Labor, & Technology",
       "date": "2026-04-23",
@@ -63,7 +84,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Business, Labor, & Technology on 04/30/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/054bc66dd96d3ca35d2d2d94bf14d54c",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115404/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-29",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -79,7 +123,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T07:06:24.547324Z"
   }
 }

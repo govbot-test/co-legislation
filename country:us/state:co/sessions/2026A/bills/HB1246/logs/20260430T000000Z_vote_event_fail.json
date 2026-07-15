@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1246, as amended, to the Committee of the Whole.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-30",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "222e439a-8004-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1246",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Carlos Barron",
+      "voter_id": "~{\"name\": \"Carlos Barron\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ken DeGraaf",
+      "voter_id": "~{\"name\": \"Ken DeGraaf\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lori Goldstein",
+      "voter_id": "~{\"name\": \"Lori Goldstein\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jamie Jackson",
+      "voter_id": "~{\"name\": \"Jamie Jackson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Junie Joseph",
+      "voter_id": "~{\"name\": \"Junie Joseph\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Amy Paschal",
+      "voter_id": "~{\"name\": \"Amy Paschal\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Manny Rutinel",
+      "voter_id": "~{\"name\": \"Manny Rutinel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lesley Smith",
+      "voter_id": "~{\"name\": \"Lesley Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jenny Willford",
+      "voter_id": "~{\"name\": \"Jenny Willford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ty Winter",
+      "voter_id": "~{\"name\": \"Ty Winter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Woog",
+      "voter_id": "~{\"name\": \"Dan Woog\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Elizabeth Velasco",
+      "voter_id": "~{\"name\": \"Elizabeth Velasco\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Alex Valdez",
+      "voter_id": "~{\"name\": \"Alex Valdez\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30671/votes/45674",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

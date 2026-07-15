@@ -1,0 +1,66 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1282 to the Committee of the Whole and with a recommendation that it be placed on the consent calendar.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "f8dc5c7c-8001-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1282",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Judy Amabile",
+      "voter_id": "~{\"name\": \"Judy Amabile\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeff Bridges",
+      "voter_id": "~{\"name\": \"Jeff Bridges\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Bright",
+      "voter_id": "~{\"name\": \"Scott Bright\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Frizell",
+      "voter_id": "~{\"name\": \"Lisa Frizell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cathy Kipp",
+      "voter_id": "~{\"name\": \"Cathy Kipp\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Janice Rich",
+      "voter_id": "~{\"name\": \"Janice Rich\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Janice Marchman",
+      "voter_id": "~{\"name\": \"Janice Marchman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30713/votes/45186",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

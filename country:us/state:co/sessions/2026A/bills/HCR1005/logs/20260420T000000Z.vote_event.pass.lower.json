@@ -1,0 +1,90 @@
+{
+  "identifier": "",
+  "motion_text": "Postpone HCR26-1005 indefinitely using a reversal of the previous roll call. There was no objection to the use of the reverse roll call, therefore, the bill was postponed indefinitely.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "7b7f59ca-8004-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HCR 1005",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Scott Bottoms",
+      "voter_id": "~{\"name\": \"Scott Bottoms\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Brandi Bradley",
+      "voter_id": "~{\"name\": \"Brandi Bradley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael Carter",
+      "voter_id": "~{\"name\": \"Michael Carter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cecelia Espenoza",
+      "voter_id": "~{\"name\": \"Cecelia Espenoza\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lisa Feret",
+      "voter_id": "~{\"name\": \"Lisa Feret\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meg Froelich",
+      "voter_id": "~{\"name\": \"Meg Froelich\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephanie Luck",
+      "voter_id": "~{\"name\": \"Stephanie Luck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kenny Nguyen",
+      "voter_id": "~{\"name\": \"Kenny Nguyen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Naquetta Ricks",
+      "voter_id": "~{\"name\": \"Naquetta Ricks\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Chad Clifford",
+      "voter_id": "~{\"name\": \"Chad Clifford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jenny Willford",
+      "voter_id": "~{\"name\": \"Jenny Willford\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30395/votes/44698",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

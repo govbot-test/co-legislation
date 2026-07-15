@@ -1,0 +1,54 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1320, as amended, to the Committee of the Whole.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "23824acc-8002-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1320",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "William Lindstedt",
+      "voter_id": "~{\"name\": \"William Lindstedt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rod Pelton",
+      "voter_id": "~{\"name\": \"Rod Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lynda Zamora Wilson",
+      "voter_id": "~{\"name\": \"Lynda Zamora Wilson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tom Sullivan",
+      "voter_id": "~{\"name\": \"Tom Sullivan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katie Wallace",
+      "voter_id": "~{\"name\": \"Katie Wallace\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30436/votes/44761",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

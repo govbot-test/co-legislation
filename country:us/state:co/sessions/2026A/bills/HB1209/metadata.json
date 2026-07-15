@@ -10,7 +10,12 @@
     "Fiscal Policy & Taxes",
     "Local Government"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law restricts the annual amount of property tax revenue that a local government or a special district may collect to the amount of property tax revenue collected in the previous year plus 5.5%, with certain adjustments. This statutory limit does not apply to school districts or home rule municipalities. The limit may be waived by voter approval of the voters of the taxing entity (waived jurisdictions).Current law also restricts the annual amount of property tax revenue that a waived jurisdiction may collect to the greatest amount of qualified property tax revenue collected by the taxing entity in a previous property tax year increased by 5.25% multiplied by the number of property tax years in a reassessment cycle. Similarly, the annual amount of property tax revenue that a school district may collect is limited to the greatest amount of the local share of statewide total program property tax revenue collected by a school district in a previous property tax year increased by the greater of 6% multiplied by the number of property tax years in a reassessment cycle or the sum of the percentage by which the general assembly annually increases the statewide base per pupil funding for public education from kindergarten through twelfth grade and the percentage increase in pupil enrollment for both the relevant property tax year and the other property tax year in the same reassessment cycle. Both of these statutory property tax revenue limits may also be waived by voters, except that individual school districts are not able to locally waive their individual property tax limits and, instead, must seek statewide voter approval to waive the school district limit.The bill temporarily reduces the operative percentage adjustments in these 3 statutory property tax revenue limits to 4% for property tax years beginning on or after January 1, 2027, but before January 1, 2033.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -18,6 +23,27 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Transportation, Housing & Local Government Postpone Indefinitely",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
       "date": "2026-02-12",
@@ -71,7 +97,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Transportation, Housing & Local Government on 03/10/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/63297474298ef5605eac24230fb88cba",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112896/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -87,7 +136,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T06:31:51.183200Z"
   }
 }

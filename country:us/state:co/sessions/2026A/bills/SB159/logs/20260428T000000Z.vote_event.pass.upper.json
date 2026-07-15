@@ -1,0 +1,90 @@
+{
+  "identifier": "",
+  "motion_text": "Refer Senate Bill 26-159 to the Committee of the Whole.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "84ee262c-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 159",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cecelia Espenoza",
+      "voter_id": "~{\"name\": \"Cecelia Espenoza\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ava Flanell",
+      "voter_id": "~{\"name\": \"Ava Flanell\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Matt Soper",
+      "voter_id": "~{\"name\": \"Matt Soper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jennifer Bacon",
+      "voter_id": "~{\"name\": \"Jennifer Bacon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chad Clifford",
+      "voter_id": "~{\"name\": \"Chad Clifford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lorena Garcia",
+      "voter_id": "~{\"name\": \"Lorena Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Rebecca Keltie",
+      "voter_id": "~{\"name\": \"Rebecca Keltie\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Scott Slaugh",
+      "voter_id": "~{\"name\": \"Scott Slaugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yara Zokaie",
+      "voter_id": "~{\"name\": \"Yara Zokaie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael Carter",
+      "voter_id": "~{\"name\": \"Michael Carter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Javier Mabrey",
+      "voter_id": "~{\"name\": \"Javier Mabrey\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30598/votes/45163",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

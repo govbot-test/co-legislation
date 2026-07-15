@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House Committee on Appropriations Postpone Indefinitely",
+    "occurred_at": "2026-05-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-080",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 080"
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.002 (Attachment B) to amendment L.001.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "cdb16ac0-8000-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1432",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Carlos Barron",
+      "voter_id": "~{\"name\": \"Carlos Barron\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Regina English",
+      "voter_id": "~{\"name\": \"Regina English\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30917/votes/45728",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

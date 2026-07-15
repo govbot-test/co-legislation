@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Introduced In Senate - Assigned to Transportation & Energy",
+    "occurred_at": "2026-03-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [
+      {
+        "name": "Transportation & Energy",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1237",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1237"
+}

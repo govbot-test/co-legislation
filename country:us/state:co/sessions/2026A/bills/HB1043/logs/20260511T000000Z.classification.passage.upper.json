@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Senate Third Reading Passed - No Amendments",
+    "occurred_at": "2026-05-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1043",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1043"
+}

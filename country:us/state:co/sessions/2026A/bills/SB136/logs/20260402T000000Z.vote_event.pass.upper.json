@@ -1,0 +1,30 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.002",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "49300628-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 136",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Jessie Danielson",
+      "voter_id": "~{\"name\": \"Jessie Danielson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30101/votes/44538",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Committee of the Whole Amendment - Change from Passed to Lost",
+    "occurred_at": "2026-04-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-095",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 095"
+}

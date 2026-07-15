@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Second Reading Passed - No Amendments",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1297",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1297"
+}

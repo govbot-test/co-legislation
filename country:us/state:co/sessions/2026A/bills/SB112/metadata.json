@@ -10,7 +10,12 @@
     "Courts & Judicial",
     "Crimes, Corrections, & Enforcement"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under current law, a court is required to release a person on a personal recognizance bond if the person was charged with an offense for a violation with a maximum penalty that does not exceed 6 months' imprisonment and the court cannot require the person to give security of any kind for their appearance for trial other than their personal recognizance, unless certain conditions exist. The bill clarifies that these provisions apply in both state and municipal courts. The bill adds to the conditions for which a person may be required to give security that the defendant previously failed to appear in court 2 or more times in the present case.Existing law prohibits a court from imposing a monetary condition of release for a defendant charged with a traffic offense, petty offense, or comparable municipal offense, or a municipal offense for which there is no comparable state misdemeanor offense, with specified exceptions. The bill adds exceptions for:A petty offense for theft, criminal mischief, or arson, or a comparable municipal offense, or a municipal offense involving threats of violence, injury, or property damage, if the defendant has previously failed to appear in court 2 or more times in the present case; andAny other petty offense, traffic offense, or a comparable municipal offense, or a municipal offense for which there is no comparable state offense, if the defendant has previously failed to appear for a court proceeding 2 or more times in the present case and has another pending charge for the same offense in the same jurisdiction.The bill states that if a defendant's counsel is present at a court proceeding as required by a court and the defendant is not present, with the exceptions of trial, arraignment, contested hearings, and hearings in which a witness or victim is testifying before the court, the defendant's absence may not be considered a failure to appear. The bill applies the exceptions involving previous instances of a defendant's failure to appear for a municipal court proceeding only when, prior to issuing a warrant for the arrest of the defendant for the previous failure to appear, the court conducted a search to determine whether the defendant was being held in a correctional facility or county jail, and at the time of the previous failure to appear, the court had certain processes in place governing failures to appear.The bill requires municipal courts to not consider a person's absence from a place and time specified in a summons or summons and complaint as a failure to appear if the person's counsel is present on their behalf.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -18,6 +23,110 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Second Reading Lost with Amendments - Committee, Floor",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Laid Over to 03/23/2026 - No Amendments",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Laid Over to 03/20/2026 - No Amendments",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Laid Over to 03/19/2026 - No Amendments",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Laid Over to 03/18/2026 - No Amendments",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Laid Over to 03/17/2026 - No Amendments",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Laid Over to 03/16/2026 - No Amendments",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Laid Over to 03/13/2026 - No Amendments",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Judiciary Refer Amended to Senate Committee of the Whole",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Judiciary",
       "date": "2026-02-11",
@@ -69,7 +178,140 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment S.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18710/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.032",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18704/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.031",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18705/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.030",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18702/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.033",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18698/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.028",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18697/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.006",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18696/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.025",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18694/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.005",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18334/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-09",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18331/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-09",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Judiciary on 03/09/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/478c7fa7e7122f1ff1253fa10e0a0dc5",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112033/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-16",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -85,7 +327,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T06:26:55.383050Z"
   }
 }

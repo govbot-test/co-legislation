@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Committee on State, Civic, Military, & Veterans Affairs Postpone Indefinitely",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HCR26-1001",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 1001"
+}

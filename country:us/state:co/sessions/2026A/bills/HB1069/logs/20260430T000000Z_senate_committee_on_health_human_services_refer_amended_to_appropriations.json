@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Senate Committee on Health & Human Services Refer Amended to Appropriations",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Health & Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1069",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1069"
+}

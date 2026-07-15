@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Refer Senate Bill 26-083 to the Committee of the Whole.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "c9538ca8-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 083",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Sean Camacho",
+      "voter_id": "~{\"name\": \"Sean Camacho\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Carson",
+      "voter_id": "~{\"name\": \"John Carson\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Julie Gonzales",
+      "voter_id": "~{\"name\": \"Julie Gonzales\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Junie Joseph",
+      "voter_id": "~{\"name\": \"Junie Joseph\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Stephanie Luck",
+      "voter_id": "~{\"name\": \"Stephanie Luck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dylan Roberts",
+      "voter_id": "~{\"name\": \"Dylan Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matt Soper",
+      "voter_id": "~{\"name\": \"Matt Soper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Weissman",
+      "voter_id": "~{\"name\": \"Mike Weissman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Frizell",
+      "voter_id": "~{\"name\": \"Lisa Frizell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Javier Mabrey",
+      "voter_id": "~{\"name\": \"Javier Mabrey\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30359/votes/44601",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

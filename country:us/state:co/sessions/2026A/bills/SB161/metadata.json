@@ -11,7 +11,12 @@
     "Fiscal Policy & Taxes",
     "Liquor, Tobacco, & Marijuana"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under current law, an excise tax of 15% is levied and collected on the first sale or transfer of unprocessed retail marijuana by a retail marijuana cultivation facility, and a sales tax of 15% is imposed on sales of retail marijuana and retail marijuana products by a retailer. The bill lowers the excise tax to $1 per pound of unprocessed retail marijuana and replaces the 15% sales tax with a sales tax structure that is based on the content of intoxicating cannabinoids in retail cannabis products. The sales tax may be changed by an act of the general assembly but may not exceed 2 cents per milligram of total intoxicating cannabinoids until January 1, 2030, and 5 cents thereafter.\u00a0\u00a0\u00a0\u00a0\u00a0The legislative council staff shall make projections based on the tax changes and propose adjustments to the joint budget committee in order to stabilize intoxicating cannabinoid tax revenue. If such a proposal is made, the joint budget committee may propose legislation to stabilize the tax revenue.\u00a0\u00a0\u00a0\u00a0\u00a0Current law creates a bifurcated regulatory structure for marijuana and intoxicating hemp. The bill moves the testing and safety elements from the department of revenue to the department of public health and environment (department). The state licensing authority (authority) in the department of revenue is currently directed to adopt rules to, among other things, establish testing standards. The bill transfers these responsibilities from the authority to the department. Mandatory compliance testing requirements are shifted from throughout the supply chain to the point at which products are packaged for sale to or use by consumers. Mandatory compliance testing standards are set by a new reference laboratory, which will also conduct statewide off-shelf surveillance testing of intoxicating cannabis products. This means that the products are tested at the retail level where consumers may purchase them.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires the following be made available for public inspection via an online portal:Adverse health reports, including the product manufacturer and basis for the report, with personally identifiable information related to the affected customers redacted; andTraceability information and testing results for intoxicating cannabis products transferred to a consumer, so that consumers may access and view product batches, manufacturers, cultivators, or retailers and the associated traceability or testing data.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires marijuana product producers to be registered with the department and regulated in a like manner as other food manufacturers. The department may enforce labeling and content claim requirements and impose penalties for health- and labeling-related violations or refer violations to the authority for license discipline.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -19,6 +24,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Finance Postpone Indefinitely",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Finance",
       "date": "2026-04-15",
@@ -70,7 +91,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Finance on 04/28/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/a13faf2902d5949820b1ab0f33593bec",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115154/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-24",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -86,7 +130,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:50:56.473130Z"
   }
 }

@@ -10,7 +10,12 @@
     "Energy",
     "Housing"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill establishes requirements for landlords, unit owners, and associations governing common interest communities (association) for billing a tenant for utility service. A landlord, a unit owner, or an association may individually bill a tenant using a submeter or bill a tenant through a ratio utility billing system, which is a system that allocates utility service costs among individual tenants based on a unit's square footage, occupancy, or other physical characteristics.Starting on January 1, 2027, all new residential construction must install individual submeters for each individual unit to measure water consumption for each unit. A tenant's utility bill for water utility service must be calculated based on the individual submeter reading.For existing residential properties and other types of utility service other than water service, the landlord, unit owner, or association may use a ratio utility billing system if they meet certain requirements.A landlord, a unit owner, or an association shall disclose to a tenant in the tenant's rental agreement the method by which the tenant's utility bills will be calculated. If a landlord, a unit owner, or an association uses a ratio utility billing system, they must deduct at least 10% of the total utility service bill before allocating individual costs to tenants in order to account for utility service to common areas of a residential premises.If a landlord, a unit owner, or an association is found in violation of the provisions of the bill, the aggrieved tenant may file a civil action in court and, if the tenant prevails, recover actual damages from utility bill overages, additional damages in an amount not to exceed 25% of the utility bill overages, and any attorney fees or court costs.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -18,6 +23,27 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Transportation, Housing & Local Government Postpone Indefinitely",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
       "date": "2026-02-20",
@@ -79,7 +105,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Transportation, Housing & Local Government on 03/18/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/cac39a33e4179365d0b6156d55ffae0f",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117158/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-08",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112786/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-03",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -95,7 +155,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:16:26.396759Z"
   }
 }

@@ -10,7 +10,12 @@
     "Education & School Finance (Pre & K-12)",
     "Housing"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Section 4 of the bill creates the 'Building Excellent Teacher and Employee Residences Act' (BETER). BETER creates a new school district financing opportunity for the development of housing for teachers and other school district and public school staff (workforce housing).\u00a0\u00a0\u00a0\u00a0\u00a0The bill creates an application process by which a school district (applicant) may apply to the workforce housing assistance board (board) for financial assistance in connection with developing a workforce housing project. The division of public school capital construction assistance within the department of education (division of public school capital construction assistance) and the division of housing within the department of local affairs (division of housing) shall assist applicants in identifying workforce housing needs and in submitting applications to the board. No later than June 1, the board, with the support of the division of housing and division of public school capital construction assistance, shall review these applications according to guidelines that the board establishes and creates an initial prioritized list of workforce housing projects to award financial assistance. The board shall submit this initial prioritized list to the state board of education and the state housing board for comment. No later than July 15, the board shall determine a final prioritized list of projects for which the board will provide financial assistance.\u00a0\u00a0\u00a0\u00a0\u00a0The board may only award financial assistance to an applicant for a workforce housing project if:The board determines that the project complies with affordability, tenancy, and environmental and building requirements established by the board; andUnless the board grants an exemption, the applicant provides matching money in an amount at least equal to the portion of the total development cost of the workforce housing project that can be financed with and supported by net operating income generated from the project.The board may only provide an amount of financial assistance to an applicant for a workforce housing project that is equal to or less than the portion of the amount of the workforce housing project's total development cost that exceeds the amount that the applicant can finance and support with the workforce housing project's net operating income.\u00a0\u00a0\u00a0\u00a0\u00a0The board may provide financial assistance to an applicant for a workforce housing project by awarding matching grants that are paid out of the workforce housing assistance fund (fund) or by instructing the state treasurer to enter into a financed purchase of an asset or certificate of participation agreement. In this context, the financed purchase of an asset or certificate of participation agreement means a lease-purchase agreement between the state treasurer and a trustee pursuant to which:The state makes rental payments that include principal and interest components; andThe trustee, pursuant to an indenture of trust, creates certificates of participation evidencing undivided interests in the payments made by the state under the lease-purchase agreement. Any payment obligation of the state as part of a financed purchase of an asset or certificate of participation agreement is subject to annual appropriation and does not create an indebtedness or multiple fiscal year financial obligation of the state within the meaning of any provision of the state constitution or state statute.\u00a0\u00a0\u00a0\u00a0\u00a0If the state treasurer enters into a financed purchase of an asset or certificate of participation agreement, the board shall enter into a sub-financed purchase of an asset or certificate of participation agreement for the workforce housing project with the applicant that will use the workforce housing. The sub-financed purchase of an asset or certificate of participation agreement must:Require the applicant to perform for the state all duties of the state to maintain and operate the workforce housing project and to make periodic rental payments to the state or otherwise make a payment to the state in the amount of the matching money required for the award of financial assistance; andProvide for the transfer of ownership of the workforce housing from the state to the applicant upon the fulfillment of both the state's obligations under the financed purchase of an asset or certificate of participation agreement and the applicant's obligations under the sub-financed purchase of an asset or certificate of participation agreement.\u00a0\u00a0\u00a0\u00a0\u00a0The board is required to present an annual written report to the education and finance committees of the house of representatives and the senate regarding the provision of financial assistance to applicants. The board is also required to post a similar report on the department of education's website.\u00a0\u00a0\u00a0\u00a0\u00a0 Sections 5, 6, 7, and 8 establish the funding mechanism for the fund. The state constitution restricts the use of the principal of the public school fund and only allows for the use of public school fund interest and income. Sections 6 and 7 clarify that public school fund interest and income includes realized and unrealized gains and directs the transfer of the lesser of an amount of interest and income equal to 2.5% of the total value of the public school fund after making currently required interest and income distributions from the public school fund or $40 million to the state public school fund. Section 5  creates the public school fund income stabilization account within the public school fund and directs the treasurer to credit the difference between the amount transferred from the public school fund to the state public school fund as described in section 6 and $40 million to the account. The uses of the account are limited to supplementing payment from or the principal of the public school fund. Section 8 directs the state treasurer to annually transfer an amount equal to the amount transferred from the public school fund to the state public school fund pursuant to section 6 from the state education fund to the fund. \u00a0\u00a0\u00a0\u00a0\u00a0 Section 1 expands school district powers concerning the development and financing of workforce housing. Specifically, section 1 allows for school districts to:Acquire, construct, improve, own, operate, lease, and lease-purchase workforce housing;Issue bonds to finance workforce housing;Enter into contracts with public entities and private parties to finance workforce housing; andCreate enterprises for the acquisition, construction, improvement, ownership, operation, leasing, and lease-purchasing of workforce housing.Section 1 also describes the characteristics of bonds issued by school district-created enterprises for the purpose of financing workforce housing.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 2 adds certain school district and school district enterprise lease agreements, lease-purchase agreements, and revenue bonds entered into or issued in connection with financing workforce housing to the state intercept program.\u00a0\u00a0\u00a0\u00a0\u00a0 Sections 3, 9, and 10 grant the division of public school capital construction assistance, the state treasurer, and the division of housing the powers necessary to implement the bill.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -18,6 +23,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Education Postpone Indefinitely",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Education",
       "date": "2026-03-12",
@@ -85,7 +106,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Education on 05/06/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/21364d476a0553186b521fb88e4f73be",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117202/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-11",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113679/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-24",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -101,7 +156,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:45:16.107824Z"
   }
 }

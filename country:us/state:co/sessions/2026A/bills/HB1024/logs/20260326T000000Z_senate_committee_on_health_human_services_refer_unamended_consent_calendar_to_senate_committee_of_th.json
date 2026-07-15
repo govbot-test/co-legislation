@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Senate Committee on Health & Human Services Refer Unamended - Consent Calendar to Senate Committee of the Whole",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Health & Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1024",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1024"
+}

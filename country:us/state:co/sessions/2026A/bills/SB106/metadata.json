@@ -9,7 +9,12 @@
   "subject": [
     "Elections & Redistricting"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires the secretary of state (secretary) to adopt rules to establish a process by which a registered elector may choose not to automatically receive a mail ballot packet for all elections that the county clerk and recorder conducts by mail ballot on or after November 2, 2027. The rules must include a process by which a registered elector who has chosen not to receive mail ballots may choose to resume receipt of mail ballots. The secretary is required to develop public-facing communications explaining that choosing not to receive a mail ballot packet is voluntary. A registered elector who has chosen not to receive a mail ballot packet must either vote in person at a voter service and polling center or request a mail ballot.For each mail ballot election conducted by a county clerk and recorder on or after November 2, 2027, each county clerk and recorder is required to report to the secretary the number of registered electors in the county who chose not to receive a mail ballot packet for the election and the number of mail ballot packets that the county clerk and recorder did not send as a result for that election. The secretary is required to use the information submitted by each county clerk and recorder to determine the reduction in the costs that each county incurred in conducting the election and to make the information reported by the county clerk and recorders and the savings determined by the secretary available to the public on the secretary's website.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
       "date": "2026-02-11",
@@ -60,7 +81,52 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18250/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18251/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for State, Veterans, & Military Affairs on 03/05/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/4df4b2eba7debb4ee520194848422d7b",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112578/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-25",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -76,7 +142,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:25:56.535513Z"
   }
 }

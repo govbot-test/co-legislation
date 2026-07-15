@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Committee on Finance Postpone Indefinitely",
+    "occurred_at": "2026-05-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1222",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1222"
+}

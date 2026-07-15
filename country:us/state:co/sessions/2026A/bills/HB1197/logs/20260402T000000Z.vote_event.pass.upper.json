@@ -1,0 +1,66 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1197 to the Committee on Appropriations.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "1f63c2ae-8002-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1197",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Marc Catlin",
+      "voter_id": "~{\"name\": \"Marc Catlin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James Coleman",
+      "voter_id": "~{\"name\": \"James Coleman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cathy Kipp",
+      "voter_id": "~{\"name\": \"Cathy Kipp\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Byron Pelton",
+      "voter_id": "~{\"name\": \"Byron Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rod Pelton",
+      "voter_id": "~{\"name\": \"Rod Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Jessie Danielson",
+      "voter_id": "~{\"name\": \"Jessie Danielson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dylan Roberts",
+      "voter_id": "~{\"name\": \"Dylan Roberts\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30108/votes/44092",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

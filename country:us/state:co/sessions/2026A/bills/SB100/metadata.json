@@ -9,7 +9,12 @@
   "subject": [
     "Children & Domestic Matters"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires a youth sports organization and local government that provides youth athletic activities (youth sports organization) to have at least one adult who possesses a current first aid, CPR, and AED certification present at each youth athletic activity.Current law requires all youth sports organization coaches who work directly with youth members to obtain a criminal history record check (background check) prior to employment. The bill requires chaperones who accompany the youth sports organization on a trip that includes one or more overnight stays to pass a background check. The bill requires a coach or chaperone who lived outside the U.S. for more than 180 days since the coach's or chaperone's last background check to also obtain an international background check. The act creates a cause of action for failing to conduct a background check.Current law prohibits a youth sports organization from hiring a person to be a coach if the person has been convicted of certain crimes. The bill adds crimes of violence and other violent crimes to the list of disqualifying offenses.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Health & Human Services Postpone Indefinitely",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:57Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Health & Human Services",
       "date": "2026-02-11",
@@ -84,7 +105,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Health & Human Services on 04/30/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/cd3632589a12b8fe35ba369fc6ed80a2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117201/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-11",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112471/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -100,7 +155,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:57Z",
     "text_extraction_latest_update": "2026-07-13T06:23:00.678021Z"
   }
 }

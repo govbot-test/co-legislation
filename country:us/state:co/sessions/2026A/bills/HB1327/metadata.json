@@ -11,7 +11,12 @@
     "Labor & Employment",
     "Professions & Occupations"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the large employer health-care support enterprise (enterprise) to impose, assess, and collect the large employer health-care support fee (enterprise fee) in the amount of $2,300 for each supported worker for the calendar year in an amount determined by the enterprise board (enterprise board) that reflects the costs of the services provided by the enterprise . A worker who is receiving medical assistance benefits under the state medical assistance program, except for a worker eligible for medical assistance benefits based on disability, is a supported worker (supported worker).\u00a0\u00a0\u00a0\u00a0\u00a0An employer is subject to the enterprise fee if the employer is a large employer, which is defined in the bill as an employer that has 500 or more supported workers (large employer). An employer is exempted from paying the enterprise fee if the employer:Provides affordable health coverage to all workers working 20 or more hours per week or 80 or more hours per month;Is a franchisee of the employer;Is a nonprofit employer;Is a public employer; orHas a collective bargaining agreement with its employees that includes health-care coverage.\u00a0\u00a0\u00a0\u00a0\u00a0The business purpose s of the enterprise are to use enterprise fee revenue to  help large employers retain supported workers who are not provided employer-sponsored affordable health coverage by using enterprise fee revenue to:Help finance the costs for medical assistance benefits for large employers' supported workers ; and Provide reimbursement grants to large employers for some or all of an employer's costs incurred for allowing a worker to buy into an employer-sponsored health benefit plan, should the employer choose to participate in the worker buy-in program created in the bill.This These business service s reduce s lost productivity due to worker illness and training costs to replace workers who may otherwise seek employment that provides affordable health coverage.\u00a0\u00a0\u00a0\u00a0\u00a0Starting with a review of the 2027 calendar year, the department of health care policy and financing (HCPF) every employer that employed 500 or more workers in the state shall prepare an annual employer report on or before January 31, 2028, and on or before the same date each year thereafter, that includes information about the employer's employees, including the employee's name, date of birth, hours worked, and dates of employment for the preceding calendar year. An employer may seek an exemption from the requirement to file the annual employer report by demonstrating that it provides affordable health coverage to all workers working 20 or more hours per week or 80 or more hours per month. Upon receipt of the annual employer report, the enterprise shall determine whether an employer is a large employer and shall issue a report by March of the following same calendar year that identifies large employers by their number of supported workers for the preceding calendar year and impose the enterprise fee on each large employer . An employer may contest the employer's identification as a large employer. Once identified, a large employer shall either pay the enterprise fee for each of the large employer's supported workers or demonstrate that it provides will offer affordable health coverage to all workers working 20 or more hours per week or 80 or more hours per month. The enterprise may adjust the amount of the enterprise fee to reflect the cost of the services, for inflation, or for other reasons. A large employer commits a petty offense and is subject to a civil penalty for\u00a0\u00a0\u00a0\u00a0\u00a0 The enterprise shall contract with the department of revenue to collect and enforce the payment of the enterprise fee on behalf of the enterprise, including the failure to provide information necessary to calculate the enterprise fee or to either timely pay the enterprise fee or demonstrate that the large employer offers affordable health coverage as specified in the bill. The department of revenue may collect interest and penalties and institute collection actions on behalf of the enterprise.\u00a0\u00a0\u00a0\u00a0\u00a0Enterprise revenue is used to support the pay for payment of medical assistance benefits for working-age adults under the state medical assistance program, and to increase reimbursement rates for ensure access to health-care providers providing medical assistance program services, to ensure worker access to medical services and to pay for large employer reimbursement grants under the worker buy-in program for large employers that pay the enterprise fee.\u00a0\u00a0\u00a0\u00a0\u00a0The enterprise is governed by the enterprise board, and the enterprise board shall report annually to the general assembly on the enterprise revenue and the enterprise's use of the enterprise revenue in support of large employers.\u00a0\u00a0\u00a0\u00a0\u00a0If the enterprise determines that the enterprise to would receive more than $100 million dollars in its first 5 fiscal years, the state treasurer shall credit the additional fee revenue to the large employer fee cash fund created in the state treasury for administration by HCPF, and that fee revenue is subject to the state fiscal year spending limit imposed by section 20 of article X of the state constitution and the excess revenues cap. The money in the large employer fee cash fund shall be used by HCPF to pay for costs for medical assistance benefits to support large employers' supported workers enterprise shall reduce the amount of the enterprise fee.(Note: Italicized words indicate new material added to the original summary; dashes through words indicate deletions from the original summary.)(Note: This summary applies to the reengrossed version of this bill as introduced in the second house.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -19,6 +24,133 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Finance Postpone Indefinitely",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Finance",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Second Reading Special Order - Passed with Amendments - Committee, Floor",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Committee on Appropriations Refer Amended to House Committee of the Whole",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Committee on Finance Refer Amended to Appropriations",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "House Committee on Health & Human Services Refer Amended to Finance",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Health & Human Services",
       "date": "2026-03-09",
@@ -158,10 +290,56 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \" Y. Zokaie\"}",
       "organization_id": null
+    },
+    {
+      "name": "M. Lindsay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Nguyen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Nguyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Ricks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" N. Ricks\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reengrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115836/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-05",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115732/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -174,7 +352,239 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.006",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19882/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.008",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19879/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.015",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19877/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.014",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19872/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.012",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19869/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.009",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19870/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
+      "note": "Amendment J.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19786/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-01",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.005",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19783/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-01",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.003",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18884/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-30",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18885/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-30",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18768/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-24",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Finance on 05/07/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/35616450351fb3f1487c5c5a460f6992",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Appropriations on 05/01/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/24a3b2b188caa966a8984d73289651c0",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Finance on 03/30/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/19071cca0b23d4d3f02fcacc992de6ac",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Health & Human Services on 03/24/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/a87ce1c6a82b9d5036209e707bef539a",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116679/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-26",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fourth Revised Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115925/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-06",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Third Revised Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114294/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Second Revised Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113773/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-27",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "First Revised Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113627/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-24",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113326/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-16",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -190,7 +600,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:16:42.265569Z"
   }
 }

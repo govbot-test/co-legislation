@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Considered House Amendments - Result was to Pass",
+    "occurred_at": "2026-04-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-121",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 121"
+}

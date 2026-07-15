@@ -11,7 +11,12 @@
     "Housing",
     "Natural Resources & Environment"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires a gas distribution utility (utility) to exempt carbon dioxide emissions resulting from the combustion of gas by residential customers from the utility's clean heat plan filed with the public utilities commission (commission). A utility must exclude residential carbon dioxide emissions from the baseline and projected emissions calculations used in the utility's clean heat plan.\u00a0\u00a0\u00a0\u00a0\u00a0If a utility has already submitted a clean heat plan to the commission prior to the effective date of the bill, the utility may submit a revised clean heat plan to the commission that excludes residential carbon dioxide emissions from the utility's baseline and projected emissions calculations. The bill requires the commission to adopt rules that allow a utility to submit a revised clean heat plan.\u00a0\u00a0\u00a0\u00a0\u00a0The bill permits a utility to recover costs related to a system safety and integrity project, which is defined as a certain type of project that improves the safety or integrity of the gas distribution system.\u00a0\u00a0\u00a0\u00a0\u00a0The bill repeals a prohibition on a gas utility providing incentives to customers for establishing gas service to a property.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -19,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Energy & Environment Postpone Indefinitely",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Energy & Environment",
       "date": "2026-02-04",
@@ -86,7 +101,52 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/17905/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/17906/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Energy & Environment on 02/19/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/407879499538c3c889b27e92f618dfbc",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112036/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-17",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -102,7 +162,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:22:15.021855Z"
   }
 }

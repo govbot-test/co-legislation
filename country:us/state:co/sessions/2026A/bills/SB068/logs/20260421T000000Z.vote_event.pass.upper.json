@@ -1,0 +1,66 @@
+{
+  "identifier": "",
+  "motion_text": "Refer Senate Bill 26-068, as amended, to the Committee of the Whole.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "d4cee668-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 068",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Scott Bright",
+      "voter_id": "~{\"name\": \"Scott Bright\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Julie Gonzales",
+      "voter_id": "~{\"name\": \"Julie Gonzales\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Barbara Kirkmeyer",
+      "voter_id": "~{\"name\": \"Barbara Kirkmeyer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Kolker",
+      "voter_id": "~{\"name\": \"Chris Kolker\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Larry Liston",
+      "voter_id": "~{\"name\": \"Larry Liston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeff Bridges",
+      "voter_id": "~{\"name\": \"Jeff Bridges\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Judy Amabile",
+      "voter_id": "~{\"name\": \"Judy Amabile\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30403/votes/44704",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment J.005",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "f42e65fc-8002-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 023",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Junie Joseph",
+      "voter_id": "~{\"name\": \"Junie Joseph\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Yara Zokaie",
+      "voter_id": "~{\"name\": \"Yara Zokaie\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30955/votes/45525",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

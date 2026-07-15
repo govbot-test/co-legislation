@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Senate Committee on Agriculture & Natural Resources Refer Unamended to Appropriations",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Agriculture & Natural Resources",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1197",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1197"
+}

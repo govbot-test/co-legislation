@@ -1,0 +1,66 @@
+{
+  "identifier": "",
+  "motion_text": "Refer Senate Bill 26-188 to the Committee of the Whole and with a recommendation that it be placed on the consent calendar.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-06",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "56cee030-8001-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 188",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Julie Gonzales",
+      "voter_id": "~{\"name\": \"Julie Gonzales\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Barbara Kirkmeyer",
+      "voter_id": "~{\"name\": \"Barbara Kirkmeyer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Kolker",
+      "voter_id": "~{\"name\": \"Chris Kolker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Larry Liston",
+      "voter_id": "~{\"name\": \"Larry Liston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Byron Pelton",
+      "voter_id": "~{\"name\": \"Byron Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeff Bridges",
+      "voter_id": "~{\"name\": \"Jeff Bridges\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Judy Amabile",
+      "voter_id": "~{\"name\": \"Judy Amabile\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30794/votes/45317",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

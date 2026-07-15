@@ -1,0 +1,30 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.006 (Attachment B).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "c04a9a2e-8004-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1148",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Ava Flanell",
+      "voter_id": "~{\"name\": \"Ava Flanell\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30196/votes/44660",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "House Committee on Energy & Environment Refer Amended to House Committee of the Whole",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "House Committee of the Whole",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-142",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 142"
+}

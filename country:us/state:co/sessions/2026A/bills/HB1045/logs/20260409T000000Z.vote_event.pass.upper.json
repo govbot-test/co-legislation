@@ -1,0 +1,66 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1045 to the Committee of the Whole.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "e29b6a1a-8002-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1045",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Mark Baisley",
+      "voter_id": "~{\"name\": \"Mark Baisley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matt Ball",
+      "voter_id": "~{\"name\": \"Matt Ball\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "William Lindstedt",
+      "voter_id": "~{\"name\": \"William Lindstedt\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Janice Rich",
+      "voter_id": "~{\"name\": \"Janice Rich\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lynda Zamora Wilson",
+      "voter_id": "~{\"name\": \"Lynda Zamora Wilson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marc Snyder",
+      "voter_id": "~{\"name\": \"Marc Snyder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tony Exum",
+      "voter_id": "~{\"name\": \"Tony Exum\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30219/votes/44341",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

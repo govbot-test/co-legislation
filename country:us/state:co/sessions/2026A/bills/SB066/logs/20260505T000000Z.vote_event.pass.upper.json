@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Postpone Senate Bill 26-066 indefinitely.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "cea3c8c6-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 066",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Regina English",
+      "voter_id": "~{\"name\": \"Regina English\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Feret",
+      "voter_id": "~{\"name\": \"Lisa Feret\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eliza Hamrick",
+      "voter_id": "~{\"name\": \"Eliza Hamrick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dusty Johnson",
+      "voter_id": "~{\"name\": \"Dusty Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen McCormick",
+      "voter_id": "~{\"name\": \"Karen McCormick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carlos Barron",
+      "voter_id": "~{\"name\": \"Carlos Barron\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mary Bradfield",
+      "voter_id": "~{\"name\": \"Mary Bradfield\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brandi Bradley",
+      "voter_id": "~{\"name\": \"Brandi Bradley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gretchen Rydin",
+      "voter_id": "~{\"name\": \"Gretchen Rydin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katie Stewart",
+      "voter_id": "~{\"name\": \"Katie Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Woog",
+      "voter_id": "~{\"name\": \"Dan Woog\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sheila Lieder",
+      "voter_id": "~{\"name\": \"Sheila Lieder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsay Gilchrist",
+      "voter_id": "~{\"name\": \"Lindsay Gilchrist\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30753/votes/45275",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

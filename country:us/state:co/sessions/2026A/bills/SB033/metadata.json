@@ -9,7 +9,12 @@
   "subject": [
     "Energy"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the Colorado clean energy permitting coordination office (office) in the Colorado energy office to provide coordination and technical assistance to owners or operators, local governments, and state permitting authorities regarding permitting for the construction, expansion, repowering, or material modification of a clean energy resource facility project (covered clean energy project).At the request of the owner or operator of a covered clean energy project (owner or operator) or a local government with jurisdiction over the covered clean energy project or that the owner or operator determines is likely to experience direct and significant impacts from the covered clean energy project (host community), the office must convene a meeting (application coordination meeting) to coordinate the filing of permit applications for the covered clean energy project that includes certain interested parties. Following an application coordination meeting, the office must prepare a coordinated permitting schedule for the covered clean energy project that identifies the permits and approvals likely to be required for the covered clean energy project and certain other information (coordinated permitting schedule).The office is required to develop and maintain a public dashboard (public dashboard) on the office's website for an owner or operator that receives a coordinated permitting schedule or that receives state technical assistance from the office.Effective July 1, 2027, at least 90 days before the owner or operator submits the first state permit application for a covered clean energy project, the owner or operator must submit a community engagement plan to the office and relevant state permitting authorities. A community engagement plan must identify host communities for the project and describe certain other community engagement efforts regarding the project.Effective July 1, 2027, an owner or operator must prepare a community benefit agreement and submit the community benefit agreement to the office and the parties participating in the covered clean energy project's application coordination meeting. The office is required to develop model community benefit agreement terms for a covered clean energy project and post the terms on the covered clean energy project's public dashboard or the office's website.The office is required to prioritize technical assistance and permitting readiness support for covered clean energy projects that repower or reuse retired or retiring fossil fuel generation sites, are located in coal transition communities, or are located on brownfield sites. On or before December 1, 2027, the office shall publish and update annually an inventory identifying coal plant and industrial sites and brownfield sites suitable for redevelopment for clean energy resource facilities and other key infrastructure considerations.Effective July 1, 2027, an owner or operator must develop and submit to the office a safety and emergency preparedness plan and coordinate with relevant local emergency management agencies and the Colorado division of homeland security and emergency management in implementing the safety and emergency preparedness plan. The office shall post a safety and emergency preparedness plan on the covered clean energy project's public dashboard or the office's website.Effective November 1, 2027, an owner or operator of a covered clean energy project must submit to the office a grid reliability and security statement. The office must coordinate with the public utilities commission and utilities as appropriate to align permitting readiness with grid reliability needs.On or before December 1, 2027, and on or before each December 1 thereafter, the office must submit a report to certain committees of the general assembly summarizing certain information about the functions of the office.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
       "date": "2026-01-26",
@@ -62,17 +83,47 @@
         {
           "url": "https://leg.colorado.gov/bill_files/110945/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/74254e303a29c6d4206546da16475dfc",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-26",
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for State, Veterans, & Military Affairs on 02/17/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/67945407fd973efed08fadc929db3858",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117294/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-01",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111952/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -88,7 +139,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:38:48.381426Z"
   }
 }

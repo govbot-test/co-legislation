@@ -1,0 +1,60 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt the first conference committee report to House Bill 26-1258.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "b5e43fb2-8000-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1258",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Nick Hinrichsen",
+      "voter_id": "~{\"name\": \"Nick Hinrichsen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matthew Martinez",
+      "voter_id": "~{\"name\": \"Matthew Martinez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rod Pelton",
+      "voter_id": "~{\"name\": \"Rod Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matt Soper",
+      "voter_id": "~{\"name\": \"Matt Soper\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Dylan Roberts",
+      "voter_id": "~{\"name\": \"Dylan Roberts\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brianna Titone",
+      "voter_id": "~{\"name\": \"Brianna Titone\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30884/votes/45744",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

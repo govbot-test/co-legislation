@@ -1,0 +1,78 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1273 to the Committee on Appropriations.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-12",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "aafb8210-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1273",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Mark Baisley",
+      "voter_id": "~{\"name\": \"Mark Baisley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Marc Catlin",
+      "voter_id": "~{\"name\": \"Marc Catlin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tony Exum",
+      "voter_id": "~{\"name\": \"Tony Exum\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "William Lindstedt",
+      "voter_id": "~{\"name\": \"William Lindstedt\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Kyle Mullica",
+      "voter_id": "~{\"name\": \"Kyle Mullica\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Byron Pelton",
+      "voter_id": "~{\"name\": \"Byron Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tom Sullivan",
+      "voter_id": "~{\"name\": \"Tom Sullivan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Matt Ball",
+      "voter_id": "~{\"name\": \"Matt Ball\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Cutter",
+      "voter_id": "~{\"name\": \"Lisa Cutter\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/31007/votes/45726",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

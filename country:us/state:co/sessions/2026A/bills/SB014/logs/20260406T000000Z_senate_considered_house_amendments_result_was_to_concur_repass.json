@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Considered House Amendments - Result was to Concur - Repass",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-014",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 014"
+}

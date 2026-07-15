@@ -9,7 +9,12 @@
   "subject": [
     "Transportation & Motor Vehicles"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill makes street takeovers, coordinated street takeovers, racing and drag racing, and stunt driving (prohibited motor vehicle activities) illegal on highways and roadways. More specifically, the bill states that a person shall not:Intentionally engage in a prohibited motor vehicle activity;Coordinate or facilitate an event the person should reasonably know is a street takeover, a race or drag race, or stunt driving;Ride as a passenger in a motor vehicle the person should reasonably know is participating in a street takeover, a race or drag race, or stunt driving;Intentionally cause the movement of traffic to slow, stop, or be impeded in any way because of a street takeover, a race or drag race, or stunt driving;Drive a motor vehicle to carry fuel for a motor vehicle the person should reasonably know is involved in a street takeover, a race or drag race, or stunt driving; orKnowingly be a spectator to a race, drag race, or street takeover prohibited by the bill.\u00a0\u00a0\u00a0\u00a0\u00a0The bill imposes penalties for a person that engages in a prohibited motor vehicle activity. The bill also imposes penalties for a person that engages in a prohibited motor vehicle activity and then eludes or attempts to elude a peace officer. Lastly, the bill states when and how a peace officer may, or a presiding court may issue an order to, impound, immobilize, or seize a motor vehicle involved in a prohibited motor vehicle activity.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Judiciary Postpone Indefinitely",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Judiciary",
       "date": "2026-03-11",
@@ -68,7 +89,52 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18966/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-01",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18967/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-01",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Judiciary on 04/01/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/fea2e376dde7fa516ee11cdab0046c1e",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113861/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-30",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,7 +150,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:24:52.636748Z"
   }
 }

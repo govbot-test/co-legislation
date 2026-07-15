@@ -9,7 +9,12 @@
   "subject": [
     "State Government"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill makes the following changes to the \"Colorado Open Records Act\" (CORA):Excludes from the definition of a \"public record\" a written document or electronic record that is produced by a device or application that is used to assist an individual with a disability or individuals with language barriers to facilitate communication if the written document or electronic record has been produced to facilitate communication in lieu of verbal communication;Requires a public entity to post any rules or policies adopted pursuant to CORA, including any records retention policy, and to post information for members of the public regarding how to make a public records request; Changes the reasonable time to respond to a CORA request from 3 to 5 working days and changes the extension of time for the response period if extenuating circumstances exist from not exceeding 7 additional days to not exceeding 10 additional days;Adds an extenuating circumstance that allows extension of the response period when the custodian is not scheduled to work within the response period;If public records are in the sole and exclusive custody and control of a person who is not scheduled to work within the response period, requires a custodian to provide all other available responsive public records within the response period and to notify the requester of the earliest date on which the person is expected to be available or that the person is not expected to return. The requester may make a subsequent request for additional responsive records, if any, on or after the date the custodian provides.Allows a custodian to determine that a request, other than a request for a contract or other information delivered using computer data extraction methods that require minimal human intervention for retrieval, is made for the direct solicitation of business for pecuniary gain and provides a 30-day response period for such request; requires the custodian to provide written notice of the custodian's determination to the requester and permits the requester to appeal the determination to the district court; and allows a custodian to charge the requester for the reasonable cost of directly responding to the request notwithstanding the allowance for the first hour of research and retrieval to be free of charge and notwithstanding the statutory cap on fees which otherwise would apply;In addition to the prohibition on disclosing public elementary or secondary school students' addresses and telephone numbers, prohibits disclosure of any other student information that could be used to directly contact, address, or send a message to a student through any means or method;Allows a requester to ask a custodian for a reasonable breakdown of costs that comprise the fee charged for the research and retrieval of requested public records and requires a custodian to provide such a breakdown upon request;Clarifies that the custodian of records for a public entity must allow a requester to pay any fee or deposit associated with a request for public records with a credit card or electronic payment if the public entity allows members of the public to pay in this manner for any other service or product provided by the public entity;Allows a custodian to treat a CORA request received within 14 calendar days of another CORA request for information pertaining to facially similar content and made by the same person as one request for purposes of calculating the fee that the custodian may charge the requester for research and retrieval of responsive public records;Requires a custodian who fails to respond to a request for inspection within the applicable time period to provide the requester with one additional hour of research and retrieval time without charge for each calendar day that the response is late; andClarifies that if a custodian imposes any requirements concerning the prepayment or payment of a fee in connection with a request for inspection of public records, the requirements must be in accordance with the custodian's adopted rules or written policies and must not be inconsistent with the provisions of CORA.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
       "date": "2026-02-11",
@@ -84,7 +105,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18246/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for State, Veterans, & Military Affairs on 03/05/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/a73ae360fa805ed2fc5ef9d25429f20d",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112110/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -100,7 +155,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:36:49.050346Z"
   }
 }

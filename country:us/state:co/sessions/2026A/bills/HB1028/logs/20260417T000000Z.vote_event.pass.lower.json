@@ -1,0 +1,30 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.002",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "57cbcbc4-8001-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1028",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Matt Soper",
+      "voter_id": "~{\"name\": \"Matt Soper\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30375/votes/44637",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

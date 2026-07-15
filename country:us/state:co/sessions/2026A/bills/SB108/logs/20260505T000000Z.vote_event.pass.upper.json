@@ -1,0 +1,54 @@
+{
+  "identifier": "",
+  "motion_text": "Postpone Senate Bill 26-108 indefinitely.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "c7fe815a-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 108",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "William Lindstedt",
+      "voter_id": "~{\"name\": \"William Lindstedt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rod Pelton",
+      "voter_id": "~{\"name\": \"Rod Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lynda Zamora Wilson",
+      "voter_id": "~{\"name\": \"Lynda Zamora Wilson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tom Sullivan",
+      "voter_id": "~{\"name\": \"Tom Sullivan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katie Wallace",
+      "voter_id": "~{\"name\": \"Katie Wallace\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30758/votes/45279",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

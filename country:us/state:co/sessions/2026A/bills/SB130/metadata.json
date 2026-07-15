@@ -10,7 +10,12 @@
     "Business & Economic Development",
     "Professions & Occupations"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill makes it an unfair or deceptive trade practice under the \"Colorado Consumer Protection Act\" for a facility or medical practice providing cosmetic, aesthetic, wellness, longevity, or lifestyle treatments involving the administration or use of prescription drugs, including injectable and sterile drug products (medical spa), to:Acquire or receive a prescription drug from a person not legally authorized to distribute or transfer the prescription drug;Fail to store, handle, prepare, or administer a prescription drug in accordance with manufacturer requirements, applicable federal and state law, or generally accepted standards of medical practice;Permit an individual to prescribe or administer prescription drugs outside the scope of the individual's state-issued credential;Fail to maintain reasonable safeguards to prevent contamination, diversion, theft, or misuse of prescription drugs;Represent that a prescription drug is safe or effective in a manner inconsistent with federal law or federal food and drug administration-approved labeling; has sponsorship, approval, characteristics, ingredients, uses, or benefits that it does not have; or is approved by the federal food and drug administration when it is not;Fail to designate a licensed health-care provider with prescriptive authority to provide clinical oversight of prescription drugs used at the medical spa; orFail to create, maintain, or produce to the attorney general or a district attorney records of serious adverse events involving patients.The attorney general or a district attorney may enforce a violation of a prohibited action specified in the bill. The attorney general may adopt rules to implement the bill.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -18,6 +23,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Health & Human Services Postpone Indefinitely",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Health & Human Services",
       "date": "2026-02-25",
@@ -77,7 +98,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Health & Human Services on 04/23/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/7403add4fc5606c267a781cdd2eb2982",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113818/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-27",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -93,7 +137,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T06:32:44.876732Z"
   }
 }

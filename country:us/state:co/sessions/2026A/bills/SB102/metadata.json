@@ -9,7 +9,12 @@
   "subject": [
     "Energy"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates certain requirements for large-load data centers, which are defined in the bill as:A new data center that has a peak load of more than 30 megawatts or multiple new data centers with a collective peak load of more than 60 megawatts; orAn existing data center that adds a peak load of more than 30 megawatts or multiple existing data centers that add a collective peak load of more than 60 megawatts.No later than June 30, 2030, the public utilities commission (commission) is required to make a determination on whether 100% hourly matching by large-load data centers is technically and economically feasible. If the commission determines that 100% hourly matching is not technically and economically feasible, the commission must make a determination of the highest percentage of hourly matching by large-load data centers that is technically and economically feasible (hourly matching requirement), which percentage the commission must update on a regular basis.Beginning January 1, 2031, an operator of a large-load data center (operator) must generate, purchase, or otherwise acquire a quantity of electricity generated from renewable resources necessary to meet 100% of the operator's large-load data center's total annual electricity consumption. An operator must also achieve the hourly matching requirement. An operator must comply with these requirements through a tariff, contract, or program entered into with a utility, one or more power purchase agreements entered into with an independent power producer, or a self-supply of electricity.An operator must enter into contracts of at least 15 years with a utility to pay for certain infrastructure and resource costs. An operator must also contribute to utility demand-side management programs and comply with certain operational water management and on-site backup generation requirements.No later than June 30, 2028, and no later than each June 30 thereafter, an operator must report to the department of public health and environment certain information about the large-load data center, including information about the large-load data center's annual electricity and water consumption. The department of public health and environment must compile the information reported and provide a report to the general assembly and commission and make the report publicly available on the department's website.A utility is prohibited from interconnecting or supplying electricity to a large-load data center unless:The operator has either provided an up-front payment or entered into a contract of at least 15 years with the utility, which up-front payment or contract must require the operator to pay for certain infrastructure and resource costs;On or after January 1, 2031, the utility has verified that the operator is in compliance with the hourly matching requirement; andThe utility determines and ensures that the addition of the large-load data center to the utility's system does not negatively affect the utility's ability to provide reliable service to customers or meet applicable clean energy targets or increase the utility's greenhouse gas emissions.A utility is prohibited from offering economic development rates to large-load data centers and is required to develop and offer demand response programs or flexible connection tariffs to the utility's customers that are operators. A utility is required to solicit and accept voluntary financial contributions from operators to certain utility programs, which contributions must supplement, rather than substitute, the utility's funding of those programs. A utility that is rate-regulated by the commission with customers that are operators is required to describe efforts to comply with the bill in the utility's annual report filed with the commission.On or before June 30, 2027, the department of local affairs must publish model codes for the development of large-load data centers, which model codes must consider certain best practices. In developing the model codes, the department of local affairs must conduct a robust stakeholder and engagement process and evaluate, update, and review the model codes every 5 years.With its development permit application for a large-load data center, the person responsible for the initial development of a large-load data center (developer) must submit a site assessment to the local government reviewing the application. A site assessment must include certain components.If the siting of a large-load data center is proposed in a disproportionately impacted community or if an operator of an existing data center in a disproportionately impacted community plans to expand the data center's peak load such that the data center will become a large-load data center, the developer or operator must undergo a cumulative impacts analysis before the development or expansion begins. The developer or operator is required to contract with a third-party contractor selected by the department of public health and environment to perform the cumulative impacts analysis.In reviewing a development permit application for a large-load data center that is in a disproportionately impacted community or is proposed to be in a disproportionately impacted community, the applicable local government is required to consider the applicant's cumulative impacts analysis and whether the mitigation strategies described by the applicant are sufficient to avoid any negative impacts identified in the cumulative impacts analysis. Prior to applying for a development permit that is in a disproportionately impacted community or is proposed to be in a disproportionately impacted community, a developer or operator must comply with certain public hearing, notice, and community outreach requirements.If the siting of a large-load data center is proposed in a disproportionately impacted community or if an operator of an existing data center in a disproportionately impacted community plans to expand the data center's peak load such that the data center will become a large-load data center, the developer or operator must enter into a community benefit agreement with the disproportionately impacted community before the development or expansion begins. The developer is required to consult with the applicable local government and certain coalition groups and consider certain topics during community benefit agreement negotiations.An operator is required to comply with certain labor standards.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,38 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Transportation & Energy Postpone Indefinitely",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Transportation & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Transportation & Energy Lay Over Unamended - Amendment(s) Failed",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Transportation & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Transportation & Energy",
       "date": "2026-02-11",
@@ -68,7 +105,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Transportation & Energy on 05/11/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/0b3d824635eb6babc65bc26a4406e846",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117267/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-25",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113385/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-17",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,7 +155,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:26:37.272091Z"
   }
 }

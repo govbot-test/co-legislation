@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Senate Committee on Business, Labor, & Technology Refer Amended to Senate Committee of the Whole",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Senate Committee of the Whole",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Business, Labor, & Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-063",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 063"
+}

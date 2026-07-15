@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Refer Senate Bill 26-173 to the Committee of the Whole.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-06",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "fe0cdb26-8002-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 173",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jennifer Bacon",
+      "voter_id": "~{\"name\": \"Jennifer Bacon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mary Bradfield",
+      "voter_id": "~{\"name\": \"Mary Bradfield\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ava Flanell",
+      "voter_id": "~{\"name\": \"Ava Flanell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lori Garcia Sander",
+      "voter_id": "~{\"name\": \"Lori Garcia Sander\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsay Gilchrist",
+      "voter_id": "~{\"name\": \"Lindsay Gilchrist\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eliza Hamrick",
+      "voter_id": "~{\"name\": \"Eliza Hamrick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anthony Hartsook",
+      "voter_id": "~{\"name\": \"Anthony Hartsook\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dusty Johnson",
+      "voter_id": "~{\"name\": \"Dusty Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jacque Phillips",
+      "voter_id": "~{\"name\": \"Jacque Phillips\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katie Stewart",
+      "voter_id": "~{\"name\": \"Katie Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tammy Story",
+      "voter_id": "~{\"name\": \"Tammy Story\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matthew Martinez",
+      "voter_id": "~{\"name\": \"Matthew Martinez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meghan Lukens",
+      "voter_id": "~{\"name\": \"Meghan Lukens\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30825/votes/45353",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

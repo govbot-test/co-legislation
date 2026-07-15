@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "The bill establishes regulations for the sale, transfer, or distribution of compounded weight-loss medications, which are custom-made medications that, unlike mass-produced medications, are not subject to approval by the federal food and drug administration (FDA). A person may not sell, transfer, or distribute a compounded weight-loss medication unless the person confirms that the medication:Is made from bulk drug substances and drugs that are approved by the FDA when such approval is required;Was manufactured in compliance with FDA processes; Contains bulk drug substances that are pharmaceutical grade and are accompanied by a certificate of analysis containing information that is material to the safety and efficacy of the bulk drug substances;Was manufactured at a facility that is registered with the FDA and passed an FDA inspection within the previous 2 years; andIs verified for purity and accurate dosage.Labels for compounded weight-loss medications must list all active and inactive ingredients, the quantity of those ingredients, and the ingredients' country of origin. There must also be a warning on the label stating that the compounded weight-loss medication has not been FDA-approved, has inadequate evidence of safety or efficacy, and has known and unknown side effects. A person must also provide certain disclosures to a patient when prescribing compounded weight-loss medications.The bill prohibits the use of false or misleading claims, including unsubstantiated claims, when advertising or promoting compounded weight-loss medications.A person that sells, transfers, or distributes compounded weight-lost medication must keep records related to the compounded weight-loss medication for at least 2 years after the date of expiration of the compounded weight-loss medication and make those records available for inspection by the state board of pharmacy.The state board of pharmacy may issue fines of up to $1,000 per dose of compounded weight-loss medications that are sold or distributed in violation of the bill and may revoke a pharmacy or business license for violations.The attorney general has authority to enforce this bill as a deceptive trade practice under the \"Colorado Consumer Protection Act\".(Note: This summary applies to this bill as introduced.)"
+      "abstract": "The bill establishes regulations for the sale, transfer, or distribution of compounded weight-loss medication, which custom-made medications that,  is defined in the bill as a drug that is:\u00a0\u00a0\u00a0\u00a0\u00a0  \u00a0\u00a0\u00a0\u00a0\u00a0Created by combining, mixing, or altering other drugs or drug substances;\u00a0\u00a0\u00a0\u00a0\u00a0  \u00a0\u00a0\u00a0\u00a0\u00a0Intended to be used by humans for obesity or weight management and contains an active ingredient that is named in a drug approved by the federal food and drug administration (FDA); and\u00a0\u00a0\u00a0\u00a0\u00a0  \u00a0\u00a0\u00a0\u00a0\u00a0A glucagon-like peptide-1 receptor agonist drug, known as a 'GLP-1' drug. Unlike mass-produced medications, a compound weight-loss medication is not subject to approval by the federal food and drug administration (FDA). A person may not sell, transfer, or distribute a compounded weight-loss medication unless the person confirms that the medication: FDA. Is made from bulk drug substances and drugs that are approved by the FDA when such approval is required; Was manufactured in compliance with FDA processes;  Contains bulk drug substances that are pharmaceutical grade and are accompanied by a certificate of analysis containing information that is material to the safety and efficacy of the bulk drug substances; Was manufactured at a facility that is registered with the FDA and passed an FDA inspection within the previous 2 years; and Is verified for purity and accurate dosage.\u00a0\u00a0\u00a0\u00a0\u00a0 Labels for compounded weight-loss medications must list all active and inactive ingredients, the quantity of those ingredients, and the ingredients' country of origin. There must also be a warning on the label stating that the compounded weight-loss medication has not been FDA-approved, has inadequate evidence of safety or efficacy, and has known and unknown side effects. A person must also provide certain disclosures to a patient when prescribing compounded weight-loss medications.\u00a0\u00a0\u00a0\u00a0\u00a0 The bill prohibits the use of false or misleading claims, including unsubstantiated claims, when advertising or promoting compounded weight-loss medications.\u00a0\u00a0\u00a0\u00a0\u00a0 A person that sells, transfers, or distributes compounded weight-lost medication must keep records related to the compounded weight-loss medication for at least 2 years after the date of expiration of the compounded weight-loss medication and make those records available for inspection by the state board of pharmacy.\u00a0\u00a0\u00a0\u00a0\u00a0 The state board of pharmacy may issue fines of up to $1,000 per dose of compounded weight-loss medications that are sold or distributed in violation of the bill and may revoke a pharmacy or business license for violations.\u00a0\u00a0\u00a0\u00a0\u00a0 The attorney general has authority to enforce this bill as a deceptive trade practice under the 'Colorado Consumer Protection Act'.\u00a0\u00a0\u00a0\u00a0\u00a0 The bill establishes that a person engages in a deceptive trade practice when the person : Makes a false or misleading claim about a compounded weight-loss medication when advertising or promoting the medication; Distributes a compounded weight-loss medication when not legally authorized to distribute or transfer the drug used in the compounded weight-loss medication;  Makes a materially false or misleading representation that the compounded weight-loss medication is approved by the FDA when the medication is not approved by the FDA; or Makes a materially false, misleading, or unverified claim regarding the efficacy, safety, performance, outcomes, or benefits of the compounded weight-loss medication.\u00a0\u00a0\u00a0\u00a0\u00a0 The attorney general has exclusive authority to enforce the bill as a deceptive trade practice under the 'Colorado Consumer Protection Act'. There is no private right of action for a violation of the bill, and the provisions of the bill may only be enforced by the attorney general.\u00a0\u00a0\u00a0\u00a0\u00a0The bill does not apply to certain facilities or in certain circumstances, including: The administration of a compounded weight-loss medication by a practitioner at certain hospitals, clinics, and other health facilities licensed by the department of public health and environment; Long term care facilities; Assisted living residences; Home care agencies; The program of all-inclusive care for the elderly or PACE program; Adult day care facilities; or The compounding of drugs for animal use.(Note: Italicized words indicate new material added to the original summary; dashes through words indicate deletions from the original summary.)(Note: This summary applies to the reengrossed version of this bill as introduced in the second house.)"
     }
   ],
   "other_titles": [],
@@ -23,6 +23,249 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Health & Human Services Postpone Indefinitely",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Passed with Amendments - Floor",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 04/17/2026 - No Amendments",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 04/10/2026 - No Amendments",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 04/09/2026 - No Amendments",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 04/08/2026 - No Amendments",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 04/07/2026 - No Amendments",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 04/06/2026 - No Amendments",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 03/30/2026 - No Amendments",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 03/27/2026 - No Amendments",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 03/26/2026 - No Amendments",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 03/25/2026 - No Amendments",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 03/24/2026 - No Amendments",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 03/23/2026 - No Amendments",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 03/20/2026 - No Amendments",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 03/19/2026 - No Amendments",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Laid Over to 03/18/2026 - No Amendments",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Passed with Amendments - Committee, Floor",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Laid Over to 03/16/2026 - No Amendments",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Health & Human Services Refer Amended to Senate Committee of the Whole",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Health & Human Services",
       "date": "2026-01-28",
@@ -58,10 +301,40 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \" I. Jodeh\"}",
       "organization_id": null
+    },
+    {
+      "name": "J. Jackson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Jackson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reengrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114843/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-17",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113352/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-16",
+      "classification": ""
+    },
     {
       "note": "Introduced",
       "links": [
@@ -74,7 +347,129 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.016",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19356/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-17",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.009",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18493/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-16",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.008",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18492/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-16",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.005",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18279/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.003",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18278/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Health & Human Services on 05/05/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/cf8f401f99365d744f063b156d129a5c",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Health & Human Services on 03/05/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/e0e1bbc406744d494a33deda5583efb3",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Second Revised Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115252/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-27",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "First Revised Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113136/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-11",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note Memorandum",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113026/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-09",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112827/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-03",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -90,7 +485,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:59:09.536741Z"
   }
 }

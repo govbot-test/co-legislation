@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Senate Third Reading Passed - No Amendments",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-113",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 113"
+}

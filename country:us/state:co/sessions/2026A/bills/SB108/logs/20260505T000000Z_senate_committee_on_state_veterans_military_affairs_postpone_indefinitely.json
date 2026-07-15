@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+    "occurred_at": "2026-05-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "State, Veterans, & Military Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-108",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 108"
+}

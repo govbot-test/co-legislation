@@ -9,7 +9,12 @@
   "subject": [
     "Fiscal Policy & Taxes"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Section 2  of the bill allows local governments and certain special districts authorized to impose property taxes (local taxing entities) to tax certain land and improvements thereon at different mill levy rates, provided that the mill levy rate for the improvements is less than or equal to the mill levy rate for the land. A local taxing entity may not impose different mill levy rates for agricultural land, land used for renewable energy production, land subject to a perpetual conservation easement, leaseholds and lands producing oil or gas, producing mines or nonproducing mining claims, or state-assessed land. Nothing in section 2 allows a local taxing entity to impose property taxes on the assessed value of land and the assessed value of improvements thereon at different mill levy rates in a manner that is not consistent with section 20 of article X of the state constitution or any statutory limitation on the local taxing entity's mill levy rates or total property tax revenue.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 3 requires boards of county commissioners and other local taxing entities to include with their certifications of all property tax levies the individual certification of any local taxing entity required by section 5 regarding the different mill levy rates used for land and improvements thereon by the local taxing entity.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 4 updates the tax and levy rate information required to be made publicly available to include the specific, different mill levy rates used for land and improvements thereon, if applicable.\u00a0\u00a0\u00a0\u00a0\u00a0 Section 5 modifies the duty of local taxing entities to certify their property tax levy to the board of county commissioners to require any local taxing entity that imposes property taxes on the assessed value of land and the assessed value of improvements thereon at different rates, as allowed by section 2 , to specify those mill levy rates in the local taxing entity's certification of its levy.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Finance Postpone Indefinitely",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Finance",
       "date": "2026-02-04",
@@ -68,7 +89,74 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.003",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19334/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19335/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19336/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Finance on 04/16/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/e49153502f3a4db541aa7deefbff9533",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117095/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-04",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114507/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-13",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,7 +172,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T07:06:59.573968Z"
   }
 }

@@ -13,7 +13,12 @@
     "Labor & Employment",
     "Public Health"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Section 1 of the bill amends and relocates the current requirements for notification to the attorney general regarding certain mergers, acquisitions, or transfers of securities or assets. Current law prohibits the attorney general from charging a party to a merger a fee connected with filing of the merger or a fee for providing additional information regarding the merger. The bill allows the attorney general to charge each filing party a reasonable fee, not to exceed $5,000. Section 1 also requires that the parties to a merger, acquisition, or contracting affiliation of one or more health-care entities (material change transaction) comply with specified notice requirements at least 60 days before the closing of the material change transaction. If the material change transaction requires the filing of a premerger notification with the federal trade commission or the United States department of justice pursuant to the federal \"Hart-Scott-Rodino Antitrust Improvements Act of 1976\", the parties shall also submit notice to the attorney general. If the terms of the material change transaction are altered following the submission of the written notice to the attorney general, the parties must provide notice to the attorney general of the alteration.The attorney general may deem information and materials provided in compliance with the notice requirements as public records subject to disclosure under the \"Colorado Open Records Act\". Section 1 also prohibits a material change transaction if the material change transaction may substantially lessen competition or tend to create a monopoly or may harm consumer welfare. A party to a material change transaction shall not close the material change transaction until specified conditions are met. Sections 3 through 9 amend the current requirements for transactions that involve licensed hospitals and are subject to notice requirements to the attorney general (covered transactions) by:Including in the definition of a \"covered transaction\" a transaction that would result in the sale, transfer, lease, exchange, or other disposition of the management, control, or operations of a hospital;Requiring parties to a covered transaction to include, in the notice to the attorney general of the transaction, a statement describing the charitable missions of each nonprofit entity entering into the covered transaction and the services provided by each nonprofit entity in furtherance of the nonprofit entity's charitable purposes and charitable missions;Specifying that if a covered transaction will not result in a material change in the charitable purposes, charitable missions, or services provided in furtherance of the charitable purposes or missions of a nonprofit entity entering into the covered transaction, and will not result in a termination of the attorney general's jurisdiction over the charitable assets due to a transfer of a material amount of those assets outside of the state of Colorado, the parties may proceed with the covered transaction without additional review by the attorney general. The attorney general may perform specified actions to review, and use specified criteria to determine, whether the covered transaction will result in a material change.Authorizing the attorney general to exercise their common law authority to assess and review or challenge a covered transaction that will result in a material change in the charitable purposes, charitable missions, or services provided in furtherance of the charitable purposes or missions of a nonprofit entity entering into the covered transaction or will result in a termination of the attorney general's jurisdiction over the charitable assets due to a transfer of a material amount of those assets outside of the state of Colorado;Adding specified information to the notice requirements for covered transactions in which the parties involved in the transaction are all for-profit entities; andCreating notice requirements for and attorney general review of covered transactions involving a for-profit hospital and a nonprofit entity. Section 10 requires that, if certain health-care providers refer a patient to an entity for health-care services and the provider, or an immediate family member of the provider, has a financial relationship with the entity, the provider shall disclose the nature of the financial relationship to the patient at the time of the referral. The attorney general is required to study the effect of these provisions and the impact the provisions have on consumer knowledge and costs and submit a report on the findings of the study. Sections 11 through 30 make conforming amendments.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -21,6 +26,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Health & Human Services Postpone Indefinitely",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Health & Human Services",
       "date": "2026-01-27",
@@ -82,17 +103,69 @@
         {
           "url": "https://leg.colorado.gov/bill_files/110961/download",
           "media_type": "application/pdf"
-        },
-        {
-          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/09d81169b2d314a7110056d5920b5392",
-          "media_type": "text/html"
         }
       ],
       "date": "2026-01-27",
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18268/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Health & Human Services on 03/05/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/e76441bd9d9dc30be5c8801af1d51105",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116761/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-28",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note Memorandum",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112971/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-06",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/111398/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-02",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -108,7 +181,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T07:07:02.239495Z"
   }
 }

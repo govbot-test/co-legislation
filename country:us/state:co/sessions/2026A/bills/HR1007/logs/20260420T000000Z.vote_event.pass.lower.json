@@ -1,0 +1,90 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.001 (Attachment B).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "eceb9104-8000-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HR 1007",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Scott Bottoms",
+      "voter_id": "~{\"name\": \"Scott Bottoms\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephanie Luck",
+      "voter_id": "~{\"name\": \"Stephanie Luck\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kenny Nguyen",
+      "voter_id": "~{\"name\": \"Kenny Nguyen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Naquetta Ricks",
+      "voter_id": "~{\"name\": \"Naquetta Ricks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chad Clifford",
+      "voter_id": "~{\"name\": \"Chad Clifford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jenny Willford",
+      "voter_id": "~{\"name\": \"Jenny Willford\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brandi Bradley",
+      "voter_id": "~{\"name\": \"Brandi Bradley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael Carter",
+      "voter_id": "~{\"name\": \"Michael Carter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cecelia Espenoza",
+      "voter_id": "~{\"name\": \"Cecelia Espenoza\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lisa Feret",
+      "voter_id": "~{\"name\": \"Lisa Feret\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meg Froelich",
+      "voter_id": "~{\"name\": \"Meg Froelich\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30391/votes/45380",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

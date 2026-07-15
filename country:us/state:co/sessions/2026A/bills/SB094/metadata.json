@@ -9,7 +9,12 @@
   "subject": [
     "Liquor, Tobacco, & Marijuana"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Currently, a person licensed as a manufacturer of spirituous liquors, malt liquors, or vinous liquors; a brew pub; a vintner's restaurant; or a limited winery (licensee) may allow another licensee to manufacture and store vinous liquors and malt liquors on the first licensee's premises. The bill specifies that a person licensed as a distillery pub is a licensee. The bill also specifies that, in addition to vinous liquors and malt liquors, a licensee may allow another licensee to manufacture and store spirituous liquors on the first licensee's premises.The bill also allows a licensee to manufacture and store vinous liquors, spirituous liquors, or malt liquors (alcohol beverages) on the first licensee's premises on behalf of another licensee (alternating premises licensed premises). An alternating premises licensed premises must be adjacent to the premises of the person on whose behalf the licensee is manufacturing or storing alcohol beverages. A licensee may not sell alcohol beverages at retail from an alternating premises licensed premises.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,45 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Appropriations Lay Over Unamended - Amendment(s) Failed",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Business, Labor, & Technology Refer Amended to Appropriations",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Business, Labor, & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Business, Labor, & Technology",
       "date": "2026-02-11",
@@ -60,7 +104,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18533/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-17",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Business, Labor, & Technology on 03/17/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/799a51cce4793cb6a3a9ac57330f14a3",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113325/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-16",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -76,7 +154,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T07:00:05.897967Z"
   }
 }

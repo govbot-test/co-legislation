@@ -9,7 +9,12 @@
   "subject": [
     "Labor & Employment"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill prohibits an employer from:Subjecting an employee to an adverse employment action in response to the employee's disclosure of, or communication about, the employee's sexual orientation, gender identity, or gender expression or to the employee's status as a transgender, nonbinary, or transitioning individual; orRetaliating against an employee who supports, assists, or advocates for a coworker, student, or client in exercising their right to nondiscrimination, including by referring to an individual by their chosen names, pronouns, or personal titles.The bill allows an employee to determine the names, pronouns, and personal titles that are used to refer to the employee in the workplace, and the bill requires an employer, upon notification by an employee, to update all internal and public-facing records to reflect the employee's chosen name. If an employee chooses a name other than the employee's legal name, an employer must use the employee's legal name only where such use is required by law.The bill prohibits an employer from having a workplace dress code that imposes different requirements on the basis of an individual's sexual orientation, gender identity, or gender expression. An employer must allow each employee access to a restroom and changing facility that corresponds with the employee's gender identity.An employer operating a public building must ensure that the building includes at least one restroom that is compliant with the federal \"Americans with Disabilities Act of 1990\" and accessible to all individuals, regardless of the individual's sexual orientation, gender identity, or gender expression. An employer must provide private, nonbathroom spaces for nursing or pumping, which spaces are available to all parents regardless of their sexual orientation, gender identity, or gender expression.An employer must ensure equal access to certain employment benefits without regard to an employee's sexual orientation, gender identity, or gender expression.The bill requires every public employer to provide a voluntary, employee-initiated process for the development and implementation of a written transition plan for a transgender or transitioning employee. Upon request by an employee, a public employer shall promptly engage in good faith discussions with the employee, and, if applicable, the employee's designated union representative, to develop a transition plan. A transition plan may include consideration of:Internal and external communications regarding the employee's transition;Scheduling and approval of any absences related to the transition process;Procedures for updating and using the employee's chosen names, pronouns, and personal titles in employment contexts; andTraining or educational opportunities for coworkers, students, or other stakeholders to promote understanding of the experiences in the workplace of transgender individuals and individuals who are transitioning.An employee of a private employer may request to collaborate with their employer to develop and implement a transition plan.The bill requires an employer to permit an employee to use the employee's available sick or personal leave time for the purpose of changing the employee's legal name or obtaining gender-affirming medical care, including recovery time.The bill requires a public employer to provide annual training to all employees regarding inclusive workplaces and support for LGBTQ+ employees. The department of labor and employment (department), in consultation with labor unions and LGBTQ+ advocacy organizations, must develop and make available training materials for this purpose.The department may receive and investigate complaints alleging violations, issue findings and orders to provide relief, and refer cases involving egregious or willful violations to the Colorado civil rights division or to the attorney general. The types of relief that the department may order include a fine in an amount not to exceed $5,000 for each violation.The department is required to adopt rules to implement and enforce the bill.The bill takes effect June 1, 2028.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Business Affairs & Labor Postpone Indefinitely",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Business Affairs & Labor",
       "date": "2026-03-04",
@@ -76,7 +91,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Business Affairs & Labor on 04/23/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/e1c6e9b565cbe6e9997478331a404406",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/114572/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-14",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -92,7 +130,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T06:25:47.478986Z"
   }
 }

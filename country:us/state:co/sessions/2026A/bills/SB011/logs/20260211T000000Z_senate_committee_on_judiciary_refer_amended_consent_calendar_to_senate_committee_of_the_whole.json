@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Senate Committee on Judiciary Refer Amended - Consent Calendar to Senate Committee of the Whole",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-011",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 011"
+}

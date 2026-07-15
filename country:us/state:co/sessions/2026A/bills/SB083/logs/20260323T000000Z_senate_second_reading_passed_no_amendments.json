@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Second Reading Passed - No Amendments",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/SB26-083",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 083"
+}

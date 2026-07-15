@@ -1,0 +1,54 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1010, as amended, to the Committee of the Whole.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "ad5cbcf6-8001-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1010",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Marc Catlin",
+      "voter_id": "~{\"name\": \"Marc Catlin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Iman Jodeh",
+      "voter_id": "~{\"name\": \"Iman Jodeh\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Larry Liston",
+      "voter_id": "~{\"name\": \"Larry Liston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nick Hinrichsen",
+      "voter_id": "~{\"name\": \"Nick Hinrichsen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessie Danielson",
+      "voter_id": "~{\"name\": \"Jessie Danielson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30596/votes/45004",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

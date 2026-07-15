@@ -9,7 +9,12 @@
   "subject": [
     "Energy"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires the Colorado energy office (office) to serve as the state's permitting coordinator for nuclear energy projects. The office is required to:Coordinate with developers of nuclear energy projects (developers), stakeholders, and state and local permitting agencies throughout the permitting process and assist developers in navigating local, state, and federal regulations;Build administrative and coordination capacity to prepare for federal funding opportunities; andOn or before December 1, 2027, recommend to the public utilities commission (commission) factors for the commission to consider when approving the acquisition of a nuclear energy project or other clean firm resources and cost-recovery mechanisms for the development of nuclear energy projects.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires an investor-owned electric utility with more than 500,000 customers to:On or before August 1, 2027, solicit requests for information from communities and local governments interested in hosting a nuclear energy project and from potential development partners; andIdentify, in collaboration with other public utilities, local governments, and developers, potential sites for a nuclear energy project.\u00a0\u00a0\u00a0\u00a0\u00a0The bill states that an investor-owned electric utility may submit to the commission, and the commission is required to approve, an application to expend and recover up to $20 million to finance studies regarding potential sites, facility designs, and other activities related to the development of nuclear energy projects in the state. The bill requires the commission to issue an approval or denial of a petition from an investor-owned electric utility regarding a cost-recovery mechanism for a nuclear energy project no later than 6 months after receiving the petition.\u00a0\u00a0\u00a0\u00a0\u00a0The bill establishes a statewide goal of identifying at least one nuclear energy project site by 2035 and beginning construction of at least one nuclear energy project by 2040.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,40 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Appropriations Lay Over Unamended - Amendment(s) Failed",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
+    {
+      "description": "House Committee on Energy & Environment Refer Amended to Appropriations",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Energy & Environment",
       "date": "2026-03-17",
@@ -68,7 +107,74 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.003",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19748/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-30",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.004",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19747/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-30",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Energy & Environment on 04/30/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/2b995d0637a69240d9e699bc7bf43e1e",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116944/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-02",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "First Revised Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/115707/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113862/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-30",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,7 +190,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T06:29:10.126490Z"
   }
 }

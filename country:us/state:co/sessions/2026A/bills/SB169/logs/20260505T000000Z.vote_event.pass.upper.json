@@ -1,0 +1,23 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.001 (Attachment C).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "5025fb24-8001-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 169",
+  "votes": [],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30768/votes/45334",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,60 @@
+{
+  "identifier": "",
+  "motion_text": "Move the draft of the First Report of the First Conference Committee on HB26-1038 (Attachment A).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "e62ceade-8000-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1038",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Chad Clifford",
+      "voter_id": "~{\"name\": \"Chad Clifford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ava Flanell",
+      "voter_id": "~{\"name\": \"Ava Flanell\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Janice Rich",
+      "voter_id": "~{\"name\": \"Janice Rich\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katie Wallace",
+      "voter_id": "~{\"name\": \"Katie Wallace\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marc Snyder",
+      "voter_id": "~{\"name\": \"Marc Snyder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amy Paschal",
+      "voter_id": "~{\"name\": \"Amy Paschal\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30503/votes/44856",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

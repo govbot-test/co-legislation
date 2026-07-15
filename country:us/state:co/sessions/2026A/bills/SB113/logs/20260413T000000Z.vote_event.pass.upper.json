@@ -1,0 +1,90 @@
+{
+  "identifier": "",
+  "motion_text": "Refer Senate Bill 26-113, as amended, to the Committee on Appropriations.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "64798a00-8001-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 113",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Max Brooks",
+      "voter_id": "~{\"name\": \"Max Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean Camacho",
+      "voter_id": "~{\"name\": \"Sean Camacho\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lorena Garcia",
+      "voter_id": "~{\"name\": \"Lorena Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ryan Gonzalez",
+      "voter_id": "~{\"name\": \"Ryan Gonzalez\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Anthony Hartsook",
+      "voter_id": "~{\"name\": \"Anthony Hartsook\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bob Marshall",
+      "voter_id": "~{\"name\": \"Bob Marshall\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Matt Soper",
+      "voter_id": "~{\"name\": \"Matt Soper\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rebekah Stewart",
+      "voter_id": "~{\"name\": \"Rebekah Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yara Zokaie",
+      "voter_id": "~{\"name\": \"Yara Zokaie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brianna Titone",
+      "voter_id": "~{\"name\": \"Brianna Titone\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steven Woodrow",
+      "voter_id": "~{\"name\": \"Steven Woodrow\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30256/votes/44444",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

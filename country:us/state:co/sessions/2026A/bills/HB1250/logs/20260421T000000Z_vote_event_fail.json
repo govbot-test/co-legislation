@@ -1,0 +1,90 @@
+{
+  "identifier": "",
+  "motion_text": "Adopt amendment L.012 (Attachment J).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-21",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "b2fdc99e-8000-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1250",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Jennifer Bacon",
+      "voter_id": "~{\"name\": \"Jennifer Bacon\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Chad Clifford",
+      "voter_id": "~{\"name\": \"Chad Clifford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Cecelia Espenoza",
+      "voter_id": "~{\"name\": \"Cecelia Espenoza\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ava Flanell",
+      "voter_id": "~{\"name\": \"Ava Flanell\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lorena Garcia",
+      "voter_id": "~{\"name\": \"Lorena Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rebecca Keltie",
+      "voter_id": "~{\"name\": \"Rebecca Keltie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Slaugh",
+      "voter_id": "~{\"name\": \"Scott Slaugh\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Matt Soper",
+      "voter_id": "~{\"name\": \"Matt Soper\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Yara Zokaie",
+      "voter_id": "~{\"name\": \"Yara Zokaie\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Michael Carter",
+      "voter_id": "~{\"name\": \"Michael Carter\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Javier Mabrey",
+      "voter_id": "~{\"name\": \"Javier Mabrey\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30439/votes/44797",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

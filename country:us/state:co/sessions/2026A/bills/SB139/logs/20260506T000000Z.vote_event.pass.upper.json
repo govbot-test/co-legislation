@@ -1,0 +1,66 @@
+{
+  "identifier": "",
+  "motion_text": "Postpone Senate Bill 26-139 indefinitely.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-06",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "c780b360-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 139",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jeff Bridges",
+      "voter_id": "~{\"name\": \"Jeff Bridges\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cathy Kipp",
+      "voter_id": "~{\"name\": \"Cathy Kipp\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rod Pelton",
+      "voter_id": "~{\"name\": \"Rod Pelton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Janice Rich",
+      "voter_id": "~{\"name\": \"Janice Rich\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cleave Simpson",
+      "voter_id": "~{\"name\": \"Cleave Simpson\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Janice Marchman",
+      "voter_id": "~{\"name\": \"Janice Marchman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Kolker",
+      "voter_id": "~{\"name\": \"Chris Kolker\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30810/votes/45340",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

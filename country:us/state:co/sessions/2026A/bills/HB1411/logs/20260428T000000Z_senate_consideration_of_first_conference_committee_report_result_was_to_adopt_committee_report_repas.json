@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Consideration of First Conference Committee Report result was to Adopt Committee Report - Repass",
+    "occurred_at": "2026-04-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1411",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1411"
+}

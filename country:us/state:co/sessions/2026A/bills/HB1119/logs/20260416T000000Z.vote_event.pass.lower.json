@@ -1,0 +1,90 @@
+{
+  "identifier": "",
+  "motion_text": "Postpone House Bill 26-1119 indefinitely using a reversal of the previous roll call. There was no objection to the use of the reverse roll call, therefore, the bill was postponed indefinitely.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "9f918f2c-8004-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1119",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Max Brooks",
+      "voter_id": "~{\"name\": \"Max Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean Camacho",
+      "voter_id": "~{\"name\": \"Sean Camacho\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ken DeGraaf",
+      "voter_id": "~{\"name\": \"Ken DeGraaf\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lorena Garcia",
+      "voter_id": "~{\"name\": \"Lorena Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ryan Gonzalez",
+      "voter_id": "~{\"name\": \"Ryan Gonzalez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bob Marshall",
+      "voter_id": "~{\"name\": \"Bob Marshall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rebekah Stewart",
+      "voter_id": "~{\"name\": \"Rebekah Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ron Weinberg",
+      "voter_id": "~{\"name\": \"Ron Weinberg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yara Zokaie",
+      "voter_id": "~{\"name\": \"Yara Zokaie\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Brianna Titone",
+      "voter_id": "~{\"name\": \"Brianna Titone\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Steven Woodrow",
+      "voter_id": "~{\"name\": \"Steven Woodrow\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30363/votes/44614",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

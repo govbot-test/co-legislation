@@ -10,7 +10,12 @@
     "Local Government",
     "Natural Resources & Environment"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law requires the wildfire resiliency code board (code board) to adopt minimum codes and standards related to wildfire resiliency (codes and standards) and to review the codes and standards every 3 years. The bill requires the code board to initially review the codes and standards no later than July 1, 2026, and to review the codes and standards as often as the board deems necessary but no less frequently than once every 3 years.\u00a0\u00a0\u00a0\u00a0\u00a0Current law also requires the code board to establish a process by which a governing body of certain local governments within the wildland-urban interface (governing body) may petition the code board for a modification to the code and requires a governing body to adopt a code that meets or exceeds the minimum standards set forth by the code board by April 1, 2026.\u00a0\u00a0\u00a0\u00a0\u00a0The bill requires the code board to establish a process by which a person impacted by the codes and standards may petition the code board for a modification to the code and extends the timeline by which a governing body is required to adopt a code that meets or exceeds the minimum standards set forth by the code board to April 1, 2027.\u00a0\u00a0\u00a0\u00a0\u00a0The bill also requires the department of public safety to annually report certain information regarding the implementation of the codes and standards related to wildfire resiliency to the general assembly.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -18,6 +23,27 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Transportation, Housing & Local Government Postpone Indefinitely",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Local Government",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:59Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
       "date": "2026-03-16",
@@ -79,7 +105,63 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.003",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19031/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.004",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19032/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/19033/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-07",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Transportation, Housing & Local Government on 04/07/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/6573f3384aa02e59cf09334260ae371f",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113771/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-27",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -95,7 +177,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:59Z",
     "text_extraction_latest_update": "2026-07-13T07:04:20.554000Z"
   }
 }

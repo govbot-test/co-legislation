@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Senate Committee on Appropriations Refer Unamended to Senate Committee of the Whole",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026A",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Senate Committee of the Whole",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://leg.colorado.gov/bills/HB26-1167",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1167"
+}

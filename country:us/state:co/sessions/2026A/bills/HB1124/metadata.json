@@ -9,7 +9,12 @@
   "subject": [
     "Energy"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the Colorado electric grid resiliency task force (task force) to study the issue of grid resilience and to make recommendations to the governor and the general assembly. The task force is 18 members.\u00a0\u00a0\u00a0\u00a0\u00a0The president of the senate and the speaker of the house of representatives shall organize and call the first meeting of the task force by November 28, 2026. The task force meets at least once every month until it completes its duties, but the chair may call additional meetings. Upon request by the task force, the department of regulatory agencies shall provide office space, equipment, and staff services as necessary.\u00a0\u00a0\u00a0\u00a0\u00a0The task force has the following duties on a biennial basis:Doing a rigorous, uniform engineering assessment of every covered transformer in Colorado;Developing a prioritized statewide hardening and spare-transformer plan with cost estimates, cost-benefit analyses, and recommended funding mechanisms;Recommending rules, legislation, and interstate or federal cost-sharing arrangements and publishing a report detailing these recommendations; andReporting its findings to the house of representatives energy and environment committee and the senate transportation and energy committee.\u00a0\u00a0\u00a0\u00a0\u00a0The bill sets minimum technical standards for the assessment, plan, and recommendations.\u00a0\u00a0\u00a0\u00a0\u00a0A transmission-owning entity must participate in the task force assessment and provide any requested data. These entities may recover reasonable and prudent costs incurred to comply with the bill through rates, member assessments, or ordinary budgeting processes.\u00a0\u00a0\u00a0\u00a0\u00a0Owners or operators of covered transformers are required to file with the federal energy regulatory commission a report, marked as \"Critical Energy/Electric Infrastructure Information\". Standards are set for the report. Biennially, the public utilities commission must prepare a summary of the report and present it to the house of representatives energy and environment committee and the senate transportation and energy committee.\u00a0\u00a0\u00a0\u00a0\u00a0The public utilities commission must adopt rules requiring implementation of the highest-priority hardware-based mitigation measures identified by the task force unless equivalent protection is demonstrated.\u00a0\u00a0\u00a0\u00a0\u00a0The task force repeals on September 1, 2031. Before the repeal, it is scheduled for review under the sunset law.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "House Committee on Energy & Environment Postpone Indefinitely",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In House - Assigned to Energy & Environment",
       "date": "2026-02-04",
@@ -60,7 +75,107 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Amendment L.006",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18275/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.005",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18276/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.004",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18277/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.003",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18271/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18272/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_amendments/18273/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Energy & Environment on 03/05/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/851f971e57b926272c4f137a6ea60de2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/116847/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-01",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/112516/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-23",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -76,7 +191,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:16:08.652218Z"
   }
 }

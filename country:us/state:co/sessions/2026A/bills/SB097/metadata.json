@@ -9,7 +9,12 @@
   "subject": [
     "Crimes, Corrections, & Enforcement"
   ],
-  "abstracts": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill requires the statewide decriminalization of commercial sexual activity among consenting adults. It declares that decriminalizing commercial sexual activity among consenting adults is a matter of statewide concern and expressly preempts statutory or home rule city, town, city and county, or county ordinances, resolutions, regulations, or codes criminalizing commercial sexual activity.The bill repeals the state criminal offenses of prostitution, soliciting for prostitution, keeping a place of prostitution, patronizing a prostitute, and prostitute making display. It also repeals the offense of pandering when it involves knowingly arranging or offering to arrange a situation that permits a person to practice prostitution. The bill maintains current state criminal penalties for pandering that involves menacing or criminal intimidation and for pimping, but it changes terminology in those offenses by replacing \"prostitution\" with \"commercial sexual activity\".The bill makes various conforming amendments, including those related to: Reporting requirements, immunity, affirmative defenses, and criminal conviction records in human trafficking cases; public nuisances; certification by the peace officers standards and training board; and the regulation of escort bureaus and massage parlors. The bill eliminates a court program for persons charged with certain prostitution-related offenses.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
   "other_titles": [],
   "other_identifiers": [
     {
@@ -17,6 +22,22 @@
     }
   ],
   "actions": [
+    {
+      "description": "Senate Committee on Judiciary Postpone Indefinitely",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:54:58Z"
+      }
+    },
     {
       "description": "Introduced In Senate - Assigned to Judiciary",
       "date": "2026-02-11",
@@ -84,7 +105,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Committee Report for Judiciary on 03/11/2026",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/b6e48607ebf34a47736dbd0fb12cebfa",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/117190/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-09",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Initial Fiscal Note",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/bill_files/113017/download",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-09",
+      "classification": "fiscal-note"
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -100,7 +155,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:08Z",
+    "logs_latest_update": "2026-07-15T13:54:58Z",
     "text_extraction_latest_update": "2026-07-13T06:56:09.169216Z"
   }
 }

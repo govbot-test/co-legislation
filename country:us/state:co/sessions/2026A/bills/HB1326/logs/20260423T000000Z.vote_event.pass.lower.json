@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1326, as amended, to the Committee on Finance.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "78499416-8002-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1326",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Carlos Barron",
+      "voter_id": "~{\"name\": \"Carlos Barron\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrew Boesenecker",
+      "voter_id": "~{\"name\": \"Andrew Boesenecker\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ken DeGraaf",
+      "voter_id": "~{\"name\": \"Ken DeGraaf\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lori Goldstein",
+      "voter_id": "~{\"name\": \"Lori Goldstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Jackson",
+      "voter_id": "~{\"name\": \"Jamie Jackson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Junie Joseph",
+      "voter_id": "~{\"name\": \"Junie Joseph\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amy Paschal",
+      "voter_id": "~{\"name\": \"Amy Paschal\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Scott Slaugh",
+      "voter_id": "~{\"name\": \"Scott Slaugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lesley Smith",
+      "voter_id": "~{\"name\": \"Lesley Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jenny Willford",
+      "voter_id": "~{\"name\": \"Jenny Willford\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dan Woog",
+      "voter_id": "~{\"name\": \"Dan Woog\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elizabeth Velasco",
+      "voter_id": "~{\"name\": \"Elizabeth Velasco\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Monica Duran",
+      "voter_id": "~{\"name\": \"Monica Duran\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30481/votes/44872",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

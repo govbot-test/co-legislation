@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Lay over the bill until May 14th",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026A",
+  "bill": "b2aac14c-8003-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "SB 162",
+  "votes": [
+    {
+      "option": "excused",
+      "voter_name": "Carlos Barron",
+      "voter_id": "~{\"name\": \"Carlos Barron\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mary Bradfield",
+      "voter_id": "~{\"name\": \"Mary Bradfield\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brandi Bradley",
+      "voter_id": "~{\"name\": \"Brandi Bradley\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Regina English",
+      "voter_id": "~{\"name\": \"Regina English\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lori Goldstein",
+      "voter_id": "~{\"name\": \"Lori Goldstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eliza Hamrick",
+      "voter_id": "~{\"name\": \"Eliza Hamrick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dusty Johnson",
+      "voter_id": "~{\"name\": \"Dusty Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen McCormick",
+      "voter_id": "~{\"name\": \"Karen McCormick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gretchen Rydin",
+      "voter_id": "~{\"name\": \"Gretchen Rydin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katie Stewart",
+      "voter_id": "~{\"name\": \"Katie Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan Woog",
+      "voter_id": "~{\"name\": \"Dan Woog\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sheila Lieder",
+      "voter_id": "~{\"name\": \"Sheila Lieder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsay Gilchrist",
+      "voter_id": "~{\"name\": \"Lindsay Gilchrist\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30916/votes/45727",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,66 @@
+{
+  "identifier": "",
+  "motion_text": "Refer House Bill 26-1075 to the Committee on Appropriations.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026A",
+  "bill": "1bf7e960-8002-11f1-99a2-e67f8cd30640",
+  "bill_action": null,
+  "bill_identifier": "HB 1075",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Mark Baisley",
+      "voter_id": "~{\"name\": \"Mark Baisley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matt Ball",
+      "voter_id": "~{\"name\": \"Matt Ball\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsey Daugherty",
+      "voter_id": "~{\"name\": \"Lindsey Daugherty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tony Exum",
+      "voter_id": "~{\"name\": \"Tony Exum\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Janice Rich",
+      "voter_id": "~{\"name\": \"Janice Rich\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisa Cutter",
+      "voter_id": "~{\"name\": \"Lisa Cutter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Iman Jodeh",
+      "voter_id": "~{\"name\": \"Iman Jodeh\"}",
+      "note": ""
+    }
+  ],
+  "counts": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/committee_meeting_hearing_items/30874/votes/45417",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}
