@@ -672,6 +672,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-15T13:55:00Z"
+    "logs_latest_update": "2026-07-15T13:55:00Z",
+    "text_extraction_latest_update": "2026-07-16T10:23:07.621905Z"
   }
 }
